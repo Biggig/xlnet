@@ -1,0 +1,1 @@
+{"answer": "D", "question": "_   walked more than 12,875 kilometers' backwards.", "id": "middle6008.txt"}

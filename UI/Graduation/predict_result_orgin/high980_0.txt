@@ -1,0 +1,1 @@
+{"answer": "A", "question": "The experiment with 26 sleeping infants prove that  _  .", "id": "high980.txt"}

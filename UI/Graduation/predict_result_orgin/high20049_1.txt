@@ -1,0 +1,1 @@
+{"answer": "C", "question": "What measures did the government take for the panic buying?", "id": "high20049.txt"}

@@ -1,0 +1,1 @@
+{"answer": "C", "question": "If a couple and their l0-year-old son visit the Gold Coast Wax Museum, they may pay  _  .", "id": "high6757.txt"}

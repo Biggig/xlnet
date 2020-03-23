@@ -1,0 +1,1 @@
+{"answer": "A", "question": "The main way of handling waste in a green manmer in Edinburgh is_.", "id": "high12208.txt"}

@@ -1,0 +1,1 @@
+{"answer": "B", "question": "What is the tour route of the East Line from Chengdu to Jiuzhaigou according to the passage?", "id": "high8967.txt"}

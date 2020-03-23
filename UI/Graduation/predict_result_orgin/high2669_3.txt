@@ -1,0 +1,1 @@
+{"answer": "B", "question": "It was very funny when Tom danced on a wooden plate held by a person who was eight feet tall because  _  .", "id": "high2669.txt"}

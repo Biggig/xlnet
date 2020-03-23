@@ -1,0 +1,1 @@
+{"answer": "D", "question": "How many people does Mr. Brown see in the street one day? He sees   _  in all.", "id": "high9410.txt"}

@@ -1,0 +1,1 @@
+{"answer": "A", "question": "The British policeman has   _   nicknames mentioned in the passage.", "id": "high15187.txt"}

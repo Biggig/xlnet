@@ -1,0 +1,1 @@
+{"answer": "B", "question": "If you want to make donations to the victims by phone,you can text REDCROSS to   _  .", "id": "high6223.txt"}

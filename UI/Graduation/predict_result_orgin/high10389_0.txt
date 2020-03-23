@@ -1,0 +1,1 @@
+{"answer": "B", "question": "How did Forbes feel about his first job at first?", "id": "high10389.txt"}

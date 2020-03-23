@@ -1,0 +1,1 @@
+{"answer": "A", "question": "According to Liz, if your boss is leaving for another job, you can  _  .", "id": "high2972.txt"}

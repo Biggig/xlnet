@@ -1,0 +1,1 @@
+{"answer": "A", "question": "In which team did Lin start his career in NBA?", "id": "high15618.txt"}

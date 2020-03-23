@@ -1,0 +1,1 @@
+{"answer": "C", "question": "As Andrew had a flat tyre on the way, he  _  .", "id": "high15079.txt"}

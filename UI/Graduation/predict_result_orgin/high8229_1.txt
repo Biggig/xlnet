@@ -1,0 +1,1 @@
+{"answer": "B", "question": "When he first saw Ed playing football, Mr. Dee was attracted by  _  .", "id": "high8229.txt"}

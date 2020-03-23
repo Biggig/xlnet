@@ -1,0 +1,1 @@
+{"answer": "B", "question": "From this passage we can say that a helpful man may choose chocolate   _  .", "id": "high1738.txt"}

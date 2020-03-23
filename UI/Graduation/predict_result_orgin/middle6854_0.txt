@@ -1,0 +1,1 @@
+{"answer": "B", "question": "According to the passage, it is very important for children not to be   _  for school every day.", "id": "middle6854.txt"}

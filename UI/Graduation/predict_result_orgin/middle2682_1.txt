@@ -1,0 +1,1 @@
+{"answer": "D", "question": "The price of the ticket for each student is   _  yuan.", "id": "middle2682.txt"}

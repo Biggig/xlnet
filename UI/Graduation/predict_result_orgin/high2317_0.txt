@@ -1,0 +1,1 @@
+{"answer": "D", "question": "If students want to be admitted to the seven prestigious universities, they can  _  .", "id": "high2317.txt"}

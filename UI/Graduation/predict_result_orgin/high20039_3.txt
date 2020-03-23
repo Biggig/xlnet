@@ -1,0 +1,1 @@
+{"answer": "A", "question": "\"Such a great scientific achievement\" refers to  _  .", "id": "high20039.txt"}

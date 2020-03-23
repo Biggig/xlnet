@@ -1,0 +1,1 @@
+{"answer": "C", "question": "On the whole,1491 is a book mainly about America's  _  .", "id": "high5999.txt"}

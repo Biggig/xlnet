@@ -1,0 +1,1 @@
+{"answer": "A", "question": "According to the research, what kind of parenting style is likely to cause children's criminal behaviors?", "id": "high11706.txt"}

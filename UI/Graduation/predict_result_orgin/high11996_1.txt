@@ -1,0 +1,1 @@
+{"answer": "A", "question": "Which of the following can visitors do only in New York?", "id": "high11996.txt"}

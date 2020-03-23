@@ -1,0 +1,1 @@
+{"answer": "A", "question": "The word \"ECHO\" means  _  .", "id": "middle5677.txt"}

@@ -1,0 +1,1 @@
+{"answer": "C", "question": "Which section of a website is the text probably taken from?", "id": "high13688.txt"}

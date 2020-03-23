@@ -1,0 +1,1 @@
+{"answer": "D", "question": "The sentence \"Sometimes he seemed to break them apart and throw the pieces in our faces\" means   _  .", "id": "high17623.txt"}

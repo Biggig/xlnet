@@ -1,0 +1,1 @@
+{"answer": "D", "question": "Taiwan, China is  _  than the Netherlands in area.", "id": "middle3222.txt"}

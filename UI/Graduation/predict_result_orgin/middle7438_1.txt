@@ -1,0 +1,1 @@
+{"answer": "A", "question": "If you are the tutor, you must teach the daughter for  _  on Saturdays.", "id": "middle7438.txt"}

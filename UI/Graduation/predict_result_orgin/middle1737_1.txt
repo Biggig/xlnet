@@ -1,0 +1,1 @@
+{"answer": "C", "question": "Scintillation also happens on  _  according to the passage.", "id": "middle1737.txt"}

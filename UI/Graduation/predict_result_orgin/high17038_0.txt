@@ -1,0 +1,1 @@
+{"answer": "B", "question": "In the journey, the author was most disappointed at seeing   _  .", "id": "high17038.txt"}

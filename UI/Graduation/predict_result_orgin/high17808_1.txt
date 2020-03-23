@@ -1,0 +1,1 @@
+{"answer": "D", "question": "Which of the following statements can best describe broadsheets and tabloid?", "id": "high17808.txt"}

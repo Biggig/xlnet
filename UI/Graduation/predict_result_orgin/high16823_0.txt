@@ -1,0 +1,1 @@
+{"answer": "C", "question": "When the travelers are in Mexico,they should NOT_.", "id": "high16823.txt"}

@@ -1,0 +1,1 @@
+{"answer": "D", "question": "Which of the following can NOT describe the computer of the future properly?", "id": "high9894.txt"}

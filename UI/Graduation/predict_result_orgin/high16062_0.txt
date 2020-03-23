@@ -1,0 +1,1 @@
+{"answer": "B", "question": "41. How long had Tim and Dom been at sea when their boat was hit by a fishing boat?", "id": "high16062.txt"}

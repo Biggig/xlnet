@@ -1,0 +1,1 @@
+{"answer": "D", "question": "After reading this passage, a manager in a promising hi-tech company would  _  .", "id": "high22922.txt"}

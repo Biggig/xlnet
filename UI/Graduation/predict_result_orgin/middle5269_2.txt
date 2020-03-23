@@ -1,0 +1,1 @@
+{"answer": "B", "question": "Elephants are usually  _  towards other animals.", "id": "middle5269.txt"}

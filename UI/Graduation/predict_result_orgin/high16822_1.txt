@@ -1,0 +1,1 @@
+{"answer": "A", "question": "What is the author's attitude towards City Farms?", "id": "high16822.txt"}

@@ -1,0 +1,1 @@
+{"answer": "A", "question": "Ted Stubbs thought that women going out to work   _  .", "id": "high20407.txt"}

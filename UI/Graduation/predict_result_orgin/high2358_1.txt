@@ -1,0 +1,1 @@
+{"answer": "D", "question": "The author asked the woman to say \"Thank you!\" to the young man because the young man  _  .", "id": "high2358.txt"}

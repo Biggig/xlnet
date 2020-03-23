@@ -1,0 +1,1 @@
+{"answer": "C", "question": "The committee report of National Academy of sciences in Washingtonreveals that_.", "id": "high22960.txt"}

@@ -1,0 +1,1 @@
+{"answer": "C", "question": "What is the purpose of the huge programme\"the Great Green Wall\"?", "id": "high13919.txt"}

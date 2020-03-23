@@ -1,0 +1,1 @@
+{"answer": "B", "question": "It can be concluded that the Wheelers  _  .", "id": "high19397.txt"}

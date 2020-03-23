@@ -1,0 +1,1 @@
+{"answer": "D", "question": "If people want to know about what a traditional family is like, they can choose   _  .", "id": "high14306.txt"}

@@ -1,0 +1,1 @@
+{"answer": "B", "question": "We can infer that there are almost   _   college places for high school graduates.", "id": "high15076.txt"}

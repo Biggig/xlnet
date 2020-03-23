@@ -1,0 +1,1 @@
+{"answer": "D", "question": "Social companionship is beneficial in that it", "id": "high4184.txt"}

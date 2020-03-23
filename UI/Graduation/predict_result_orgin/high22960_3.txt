@@ -1,0 +1,1 @@
+{"answer": "C", "question": "Those studies carried out in North Carolinasuggest that_.", "id": "high22960.txt"}

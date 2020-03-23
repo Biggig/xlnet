@@ -1,0 +1,1 @@
+{"answer": "C", "question": "If you want to hike various trails you are advised to  _  .", "id": "high1229.txt"}

@@ -1,0 +1,1 @@
+{"answer": "B", "question": "What will the writer most likely talk about if he continues the passage?", "id": "high10001.txt"}

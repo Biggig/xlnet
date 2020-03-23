@@ -1,0 +1,1 @@
+{"answer": "C", "question": "It's implied but not stated in the passage that   _  .", "id": "high7692.txt"}

@@ -1,0 +1,1 @@
+{"answer": "A", "question": "When was the first Seaside Beach Volleyball Tournament held in Oregon?", "id": "high1007.txt"}

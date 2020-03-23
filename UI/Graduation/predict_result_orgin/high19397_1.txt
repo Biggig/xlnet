@@ -1,0 +1,1 @@
+{"answer": "C", "question": "The Wheelers wrote Across Asia on the Cheap because  _  .", "id": "high19397.txt"}

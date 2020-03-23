@@ -1,0 +1,1 @@
+{"answer": "B", "question": "Which was set up in memory of the victims of the terrorist attacks?", "id": "high14695.txt"}

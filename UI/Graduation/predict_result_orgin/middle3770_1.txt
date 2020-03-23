@@ -1,0 +1,1 @@
+{"answer": "D", "question": "Zhang Fei and Tony Green are   _   .", "id": "middle3770.txt"}

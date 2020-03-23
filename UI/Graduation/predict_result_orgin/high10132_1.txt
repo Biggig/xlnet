@@ -1,0 +1,1 @@
+{"answer": "B", "question": "What in fact was Mr Cassatt's main reason in opposing his daughter's wish?", "id": "high10132.txt"}

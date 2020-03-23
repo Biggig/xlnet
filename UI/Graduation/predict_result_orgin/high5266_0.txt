@@ -1,0 +1,1 @@
+{"answer": "C", "question": "According to the passage, customers would like to share their good experience with their friends if   _  .", "id": "high5266.txt"}

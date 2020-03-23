@@ -1,0 +1,1 @@
+{"answer": "C", "question": "People who bury treasure usually    _    .", "id": "high15811.txt"}

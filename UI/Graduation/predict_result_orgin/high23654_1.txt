@@ -1,0 +1,1 @@
+{"answer": "C", "question": "If a couple has two children, how much would health insurance cost every month?", "id": "high23654.txt"}

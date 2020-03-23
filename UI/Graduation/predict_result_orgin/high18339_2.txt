@@ -1,0 +1,1 @@
+{"answer": "D", "question": "The man advertising the frame proved it was the author's   _    .", "id": "high18339.txt"}

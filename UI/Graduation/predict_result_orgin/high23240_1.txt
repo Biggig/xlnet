@@ -1,0 +1,1 @@
+{"answer": "A", "question": "How did the author usually find out his students' parental-excuse notes were dishonest?", "id": "high23240.txt"}

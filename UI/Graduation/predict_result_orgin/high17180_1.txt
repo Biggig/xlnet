@@ -1,0 +1,1 @@
+{"answer": "C", "question": "According to the passage, Masterman received the honor because", "id": "high17180.txt"}

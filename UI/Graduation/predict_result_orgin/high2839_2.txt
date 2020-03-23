@@ -1,0 +1,1 @@
+{"answer": "A", "question": "From what Bobby did, we can see that he was promoted only because   _  .", "id": "high2839.txt"}

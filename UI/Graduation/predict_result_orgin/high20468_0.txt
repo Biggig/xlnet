@@ -1,0 +1,1 @@
+{"answer": "A", "question": "What does the author mean by \"Family is of course an elastic word\"?", "id": "high20468.txt"}

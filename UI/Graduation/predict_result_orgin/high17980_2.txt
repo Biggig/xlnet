@@ -1,0 +1,1 @@
+{"answer": "B", "question": "How did Bernie's business begin to improve ?", "id": "high17980.txt"}

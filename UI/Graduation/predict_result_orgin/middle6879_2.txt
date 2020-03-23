@@ -1,0 +1,1 @@
+{"answer": "A", "question": "Which of the following statements is NOT the function of the papercutting art according to the passage?", "id": "middle6879.txt"}

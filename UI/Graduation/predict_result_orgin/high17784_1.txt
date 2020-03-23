@@ -1,0 +1,1 @@
+{"answer": "D", "question": "Central U.S. was more severely affected by the cold because   _  .", "id": "high17784.txt"}

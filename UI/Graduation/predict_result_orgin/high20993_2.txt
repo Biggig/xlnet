@@ -1,0 +1,1 @@
+{"answer": "B", "question": "From the story about the peacock and the tortoise, we learn that   _  .", "id": "high20993.txt"}

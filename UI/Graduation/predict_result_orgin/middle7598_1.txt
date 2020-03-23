@@ -1,0 +1,1 @@
+{"answer": "B", "question": "When was Park Geun-hue born?", "id": "middle7598.txt"}

@@ -1,0 +1,1 @@
+{"answer": "D", "question": "If travelers prefer something risky in Barbados, they may   _  .", "id": "high18968.txt"}

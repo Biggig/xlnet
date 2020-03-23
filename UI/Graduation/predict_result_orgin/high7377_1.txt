@@ -1,0 +1,1 @@
+{"answer": "C", "question": "According to Alexander, the \"timely treatment\" to eyesight problems is   _  .", "id": "high7377.txt"}

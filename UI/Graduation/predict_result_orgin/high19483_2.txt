@@ -1,0 +1,1 @@
+{"answer": "D", "question": "\"Someone who can stand on his own feet\" means   _  .", "id": "high19483.txt"}

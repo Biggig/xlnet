@@ -1,0 +1,1 @@
+{"answer": "A", "question": "This year's drought in California is mainly caused by_.", "id": "high19654.txt"}

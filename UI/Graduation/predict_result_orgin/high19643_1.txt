@@ -1,0 +1,1 @@
+{"answer": "A", "question": "According to Brian and Julie, why does divorce rise in March and August?", "id": "high19643.txt"}

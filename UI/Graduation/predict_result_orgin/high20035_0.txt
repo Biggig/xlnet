@@ -1,0 +1,1 @@
+{"answer": "C", "question": "The report says that in Indian forests of long ago  _  .", "id": "high20035.txt"}

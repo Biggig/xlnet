@@ -1,0 +1,1 @@
+{"answer": "C", "question": "What should you do if your roommate interrupts your preparing for the final examination?", "id": "high22428.txt"}

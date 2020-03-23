@@ -1,0 +1,1 @@
+{"answer": "B", "question": "Francis Blustering lived a poor life because   _  .", "id": "high24212.txt"}

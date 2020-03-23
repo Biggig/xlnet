@@ -1,0 +1,1 @@
+{"answer": "A", "question": "The author's attitude toward found photographs can be described as  _  .", "id": "high8284.txt"}

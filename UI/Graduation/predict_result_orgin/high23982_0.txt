@@ -1,0 +1,1 @@
+{"answer": "C", "question": "What people reported were different from the research findings because  _  .", "id": "high23982.txt"}

@@ -1,0 +1,1 @@
+{"answer": "A", "question": ". It can be inferred that the tourists in Broome are most attracted by   _  .", "id": "high12164.txt"}

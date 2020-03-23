@@ -1,0 +1,1 @@
+{"answer": "D", "question": "When and where was the worst earthquake ever recorded?", "id": "high22456.txt"}

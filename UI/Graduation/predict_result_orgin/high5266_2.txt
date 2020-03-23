@@ -1,0 +1,1 @@
+{"answer": "A", "question": "By saying \"Answer -- not a cent!\" the author seems to believe that   _  .", "id": "high5266.txt"}

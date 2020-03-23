@@ -1,0 +1,1 @@
+{"answer": "B", "question": "What is true of polar bears that are spending more time on land in Alaska?", "id": "high873.txt"}

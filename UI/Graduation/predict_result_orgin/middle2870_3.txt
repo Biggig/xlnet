@@ -1,0 +1,1 @@
+{"answer": "D", "question": "What can we know from the writer's answer to the guide?", "id": "middle2870.txt"}

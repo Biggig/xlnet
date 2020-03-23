@@ -1,0 +1,1 @@
+{"answer": "D", "question": "What does the author think of the cyber-bullying?", "id": "high376.txt"}

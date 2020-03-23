@@ -1,0 +1,1 @@
+{"answer": "B", "question": "Tabor renamed the city Leadville when he became its first mayor because   _  .", "id": "high17481.txt"}

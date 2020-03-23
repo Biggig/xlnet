@@ -1,0 +1,1 @@
+{"answer": "D", "question": "It can be inferred that Renato's special bicycle is mainly designed for   _  .", "id": "high1215.txt"}

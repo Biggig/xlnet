@@ -1,0 +1,1 @@
+{"answer": "D", "question": "The color1 of the universe is   _  .", "id": "high20515.txt"}

@@ -1,0 +1,1 @@
+{"answer": "C", "question": "The author believes that young people would borrow money for luxury brands psychologically to   _  .", "id": "high20965.txt"}

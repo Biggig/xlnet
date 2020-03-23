@@ -1,0 +1,1 @@
+{"answer": "A", "question": "This advertisement will be very helpful to   _  .", "id": "high17750.txt"}

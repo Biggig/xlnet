@@ -1,0 +1,1 @@
+{"answer": "C", "question": "You can bounce around a little bit and find out what you want to do. \"Bounce\" in this sentence is most similar in meaning to   _  .", "id": "high6919.txt"}

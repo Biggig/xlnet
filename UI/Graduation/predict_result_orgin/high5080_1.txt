@@ -1,0 +1,1 @@
+{"answer": "C", "question": "When offered her half of the last cookie, the woman  _  .", "id": "high5080.txt"}

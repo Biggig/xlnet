@@ -1,0 +1,1 @@
+{"answer": "D", "question": "The following statements may be the reasons for why sometimes the eyewitness' testimony is not accurate EXCEPT    _   .", "id": "high15767.txt"}

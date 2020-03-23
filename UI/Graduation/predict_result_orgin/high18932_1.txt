@@ -1,0 +1,1 @@
+{"answer": "B", "question": "When door handles feel hot, what should children do?", "id": "high18932.txt"}

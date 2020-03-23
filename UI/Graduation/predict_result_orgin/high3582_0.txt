@@ -1,0 +1,1 @@
+{"answer": "B", "question": "What makes PSY's \"Gangnam Style\" the famous music of millions of people?", "id": "high3582.txt"}

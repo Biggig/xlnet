@@ -1,0 +1,1 @@
+{"answer": "C", "question": "Einstein fell in love with Marits mainly because they   _  .", "id": "high1025.txt"}

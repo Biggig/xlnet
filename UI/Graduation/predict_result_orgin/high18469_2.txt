@@ -1,0 +1,1 @@
+{"answer": "A", "question": "Before Joel Haler's walking again, his attitude to the illness was_.", "id": "high18469.txt"}

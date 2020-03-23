@@ -1,0 +1,1 @@
+{"answer": "D", "question": "Tanzania and Zambia asked for permission to   _  .", "id": "high23265.txt"}

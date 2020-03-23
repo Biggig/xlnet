@@ -1,0 +1,1 @@
+{"answer": "C", "question": "Which of the following is the third biggest avoidable cancer factor?", "id": "high13822.txt"}

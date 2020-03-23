@@ -1,0 +1,1 @@
+{"answer": "C", "question": "Why does the company decide to make diamonds out of Beethoven's hair?", "id": "middle549.txt"}

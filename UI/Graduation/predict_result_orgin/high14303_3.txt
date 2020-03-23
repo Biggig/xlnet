@@ -1,0 +1,1 @@
+{"answer": "B", "question": "In what way does the story have a happy ending for Ted and Deanna?", "id": "high14303.txt"}

@@ -1,0 +1,1 @@
+{"answer": "B", "question": "Why did Disney make Donald Duck?", "id": "middle1183.txt"}

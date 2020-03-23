@@ -1,0 +1,1 @@
+{"answer": "C", "question": "Ramps can help people_.", "id": "high18377.txt"}

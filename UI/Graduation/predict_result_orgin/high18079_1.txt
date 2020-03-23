@@ -1,0 +1,1 @@
+{"answer": "C", "question": "Jeff McClellan was impressed by David's   _  .", "id": "high18079.txt"}

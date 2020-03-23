@@ -1,0 +1,1 @@
+{"answer": "A", "question": "In the sentence \"To do this, we need to persuade mankind\" (Para l), \"this\" refers to  _", "id": "high23483.txt"}

@@ -1,0 +1,1 @@
+{"answer": "B", "question": "The Winter Solstice is an important festival   _  .", "id": "high7716.txt"}

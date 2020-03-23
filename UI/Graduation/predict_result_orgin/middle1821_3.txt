@@ -1,0 +1,1 @@
+{"answer": "B", "question": "Why do we say \"Happiness is not the same as money\"?", "id": "middle1821.txt"}

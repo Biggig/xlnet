@@ -1,0 +1,1 @@
+{"answer": "D", "question": "There were   _   blind man who were trying to tell what an elephant was like in the story.", "id": "middle111.txt"}

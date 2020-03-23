@@ -1,0 +1,1 @@
+{"answer": "D", "question": "Youth for Human Rights International is paying attention to education because    _   .", "id": "high15923.txt"}

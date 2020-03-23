@@ -1,0 +1,1 @@
+{"answer": "D", "question": "The author thinks that the conclusions of any research about people's state of mind are   _  .", "id": "high14089.txt"}

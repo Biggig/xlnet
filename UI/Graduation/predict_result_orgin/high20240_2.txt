@@ -1,0 +1,1 @@
+{"answer": "D", "question": "What does the author think about the relationship between a new thought and its being put into practice?", "id": "high20240.txt"}

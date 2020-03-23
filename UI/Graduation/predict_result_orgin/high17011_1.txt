@@ -1,0 +1,1 @@
+{"answer": "A", "question": "Many people took part in the celebration to welcome Beliveau's return EXCEPT   _  .", "id": "high17011.txt"}

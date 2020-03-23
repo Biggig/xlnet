@@ -1,0 +1,1 @@
+{"answer": "B", "question": "The letter above is written in answer to the letter by  _  .", "id": "high20660.txt"}

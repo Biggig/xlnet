@@ -1,0 +1,1 @@
+{"answer": "C", "question": "What can be inferred from what Professor Karl Deisseroth said?", "id": "high13681.txt"}

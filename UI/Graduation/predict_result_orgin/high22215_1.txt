@@ -1,0 +1,1 @@
+{"answer": "C", "question": "The proper title for News 2 would be   _  .", "id": "high22215.txt"}

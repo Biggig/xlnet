@@ -1,0 +1,1 @@
+{"answer": "C", "question": "\"Hitler and the Germans\" is open to   _  .", "id": "high4008.txt"}

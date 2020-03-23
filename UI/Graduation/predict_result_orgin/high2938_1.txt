@@ -1,0 +1,1 @@
+{"answer": "C", "question": "According to the passage, which of the following is NOT a reason for pets to be abandoned?", "id": "high2938.txt"}

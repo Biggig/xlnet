@@ -1,0 +1,1 @@
+{"answer": "B", "question": "Research shows that people's physical and mental health has much to do with  _  .", "id": "high4184.txt"}

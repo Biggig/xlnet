@@ -1,0 +1,1 @@
+{"answer": "B", "question": "Nigel's original intention of joining the contest was to   _  .", "id": "high24065.txt"}

@@ -1,0 +1,1 @@
+{"answer": "C", "question": "The writer mainly wants to tell us  _  .", "id": "middle5495.txt"}

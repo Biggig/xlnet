@@ -1,0 +1,1 @@
+{"answer": "D", "question": "Ivory is known as \"white gold\" because", "id": "high23265.txt"}

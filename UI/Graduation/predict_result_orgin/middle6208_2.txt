@@ -1,0 +1,1 @@
+{"answer": "C", "question": "Which is the same rule in Japanese schools and at Morton High School?", "id": "middle6208.txt"}

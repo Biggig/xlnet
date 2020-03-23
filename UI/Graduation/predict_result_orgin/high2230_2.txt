@@ -1,0 +1,1 @@
+{"answer": "A", "question": "The word \"foolproof\" (Line 7, Para. 1) most probably means   _  .", "id": "high2230.txt"}

@@ -1,0 +1,1 @@
+{"answer": "B", "question": "The patient finally lost 51.4 kg of his weight after   _  .", "id": "high23858.txt"}

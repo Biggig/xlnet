@@ -1,0 +1,1 @@
+{"answer": "C", "question": "The most serious damage caused by the viruses is that  _  .", "id": "high3429.txt"}

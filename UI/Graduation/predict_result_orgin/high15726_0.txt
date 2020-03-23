@@ -1,0 +1,1 @@
+{"answer": "B", "question": "According to the report, how many countries will lack water by the year 2025?", "id": "high15726.txt"}

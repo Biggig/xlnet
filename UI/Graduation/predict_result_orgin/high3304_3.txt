@@ -1,0 +1,1 @@
+{"answer": "C", "question": "Which of the following is TURE according to the text?", "id": "high3304.txt"}

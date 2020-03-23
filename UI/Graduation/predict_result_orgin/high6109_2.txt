@@ -1,0 +1,1 @@
+{"answer": "D", "question": "What theory is the Aberdeen team's study based on?", "id": "high6109.txt"}

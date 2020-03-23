@@ -1,0 +1,1 @@
+{"answer": "A", "question": "The main idea of the passage is that the Politechnic decision to run its doctor's courses in English only   _  .", "id": "high11419.txt"}

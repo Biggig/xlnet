@@ -1,0 +1,1 @@
+{"answer": "B", "question": "What is the author's attitude towards round-the-clock availability of the cell phone?", "id": "high2610.txt"}

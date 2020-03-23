@@ -1,0 +1,1 @@
+{"answer": "D", "question": "What kind of people increase their chances of getting cancers?", "id": "high16287.txt"}

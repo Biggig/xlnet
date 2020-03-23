@@ -1,0 +1,1 @@
+{"answer": "D", "question": ". From the passage we know, when we visit a foreign country,  _  .", "id": "middle1019.txt"}

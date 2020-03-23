@@ -1,0 +1,1 @@
+{"answer": "D", "question": "The author's attitude towards the act of phubbing can be described as   _  .", "id": "high9619.txt"}

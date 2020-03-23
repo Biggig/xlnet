@@ -1,0 +1,1 @@
+{"answer": "D", "question": "What is the writer's biggest worry after her taskmaster's observation of her class?", "id": "high16458.txt"}

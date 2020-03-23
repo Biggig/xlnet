@@ -1,0 +1,1 @@
+{"answer": "D", "question": "Which of the following best summarizes the description of Nineteen Eighty-Four?", "id": "high7578.txt"}

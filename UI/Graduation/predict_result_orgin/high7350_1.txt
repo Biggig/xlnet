@@ -1,0 +1,1 @@
+{"answer": "A", "question": "The Silk Road became less important because  _  .", "id": "high7350.txt"}

@@ -1,0 +1,1 @@
+{"answer": "D", "question": "Of the four kinds of food, monkeys don't eat   _  .", "id": "middle6927.txt"}

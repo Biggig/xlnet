@@ -1,0 +1,1 @@
+{"answer": "B", "question": "The son's father and family went to the country to_.", "id": "high24272.txt"}

@@ -1,0 +1,1 @@
+{"answer": "D", "question": "Which one is probably not Dr. Sharon M. Draper's job?", "id": "middle7101.txt"}

@@ -1,0 +1,1 @@
+{"answer": "C", "question": "The word \"officials\" (Para. 4) most probably refers to   _  .", "id": "high3864.txt"}

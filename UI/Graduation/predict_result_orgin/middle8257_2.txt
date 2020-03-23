@@ -1,0 +1,1 @@
+{"answer": "A", "question": "Which ways suggest recycling or reusing of things?", "id": "middle8257.txt"}

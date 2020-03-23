@@ -1,0 +1,1 @@
+{"answer": "D", "question": "From the passage we may infer the hotel is in   _   .", "id": "high24233.txt"}

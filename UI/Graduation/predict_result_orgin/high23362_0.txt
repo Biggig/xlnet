@@ -1,0 +1,1 @@
+{"answer": "C", "question": "By saying \"a nation of shopkeepers\". Napoleon probably meant that   _  .", "id": "high23362.txt"}

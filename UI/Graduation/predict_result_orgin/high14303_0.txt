@@ -1,0 +1,1 @@
+{"answer": "B", "question": "What did Ted Schredd believe to be a way to protect the environment?", "id": "high14303.txt"}

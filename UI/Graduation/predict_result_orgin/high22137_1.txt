@@ -1,0 +1,1 @@
+{"answer": "D", "question": "When George did some tricks with his small plane, Mark was   _  .", "id": "high22137.txt"}

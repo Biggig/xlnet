@@ -1,0 +1,1 @@
+{"answer": "A", "question": "The students' attitude towards English-only teaching in doctor's courses is   _  .", "id": "high11419.txt"}

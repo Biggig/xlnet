@@ -1,0 +1,1 @@
+{"answer": "A", "question": "The three students used all these things except   _   to made clothes.", "id": "middle912.txt"}

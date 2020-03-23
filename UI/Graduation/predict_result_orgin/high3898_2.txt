@@ -1,0 +1,1 @@
+{"answer": "D", "question": "The expression \"not worth his salt\" used today refers to the one who   _  .", "id": "high3898.txt"}

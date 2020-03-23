@@ -1,0 +1,1 @@
+{"answer": "C", "question": "How does Wang Gang go home every day?", "id": "middle3521.txt"}

@@ -1,0 +1,1 @@
+{"answer": "C", "question": "According to the passage, lots of people rushed to find meteorites for  _  .", "id": "high7110.txt"}

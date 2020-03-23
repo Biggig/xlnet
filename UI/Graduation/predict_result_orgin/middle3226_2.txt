@@ -1,0 +1,1 @@
+{"answer": "C", "question": "Mr. Smith gets angry because the thief   _  .", "id": "middle3226.txt"}

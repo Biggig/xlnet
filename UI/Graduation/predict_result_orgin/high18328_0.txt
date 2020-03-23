@@ -1,0 +1,1 @@
+{"answer": "C", "question": "The current shopping behavior in the US is becoming  _  .", "id": "high18328.txt"}

@@ -1,0 +1,1 @@
+{"answer": "A", "question": "In normal cases, how many people visit the White House per day?", "id": "high13780.txt"}

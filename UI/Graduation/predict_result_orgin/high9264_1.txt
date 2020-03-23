@@ -1,0 +1,1 @@
+{"answer": "C", "question": "Some of the four books were illustrated in order to   _  .", "id": "high9264.txt"}

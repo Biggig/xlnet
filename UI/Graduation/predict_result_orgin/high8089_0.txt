@@ -1,0 +1,1 @@
+{"answer": "A", "question": "Which of the following statements about \"the cat-like animal\" is WRONG?", "id": "high8089.txt"}

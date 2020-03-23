@@ -1,0 +1,1 @@
+{"answer": "B", "question": "From the text we know that Ugg boots are mostly made of the skin of   _  .", "id": "high20171.txt"}

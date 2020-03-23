@@ -1,0 +1,1 @@
+{"answer": "C", "question": "Western classical music is often regarded as   _  .", "id": "middle7287.txt"}

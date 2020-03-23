@@ -1,0 +1,1 @@
+{"answer": "A", "question": "--Do his parents and teachers like his hair style? --  _  .", "id": "middle6667.txt"}

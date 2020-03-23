@@ -1,0 +1,1 @@
+{"answer": "A", "question": "According to the tests in the 1980s, dreaming takes place  _  .", "id": "high5942.txt"}

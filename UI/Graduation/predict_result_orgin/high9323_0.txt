@@ -1,0 +1,1 @@
+{"answer": "A", "question": "From the passage, the father was  _   in the writer's memory.", "id": "high9323.txt"}

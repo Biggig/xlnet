@@ -1,0 +1,1 @@
+{"answer": "C", "question": "Which of the following statements does Radtke agree with?", "id": "high14035.txt"}

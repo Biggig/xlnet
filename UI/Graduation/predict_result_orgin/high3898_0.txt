@@ -1,0 +1,1 @@
+{"answer": "D", "question": "According to the text, salt can be used in the following EXCEPT   _  .", "id": "high3898.txt"}

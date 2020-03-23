@@ -1,0 +1,1 @@
+{"answer": "D", "question": "Which of the following advantages did Nathan have over Tim?", "id": "high23533.txt"}

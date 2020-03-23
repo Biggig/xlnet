@@ -1,0 +1,1 @@
+{"answer": "D", "question": "One reason that many colleges adopt the website is to   _", "id": "high11124.txt"}

@@ -1,0 +1,1 @@
+{"answer": "C", "question": "The writer took a class at a community college mainly because   _  .", "id": "high6752.txt"}

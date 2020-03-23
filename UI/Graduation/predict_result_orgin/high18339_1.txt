@@ -1,0 +1,1 @@
+{"answer": "A", "question": "Which of the statement about the author is not wrong?", "id": "high18339.txt"}

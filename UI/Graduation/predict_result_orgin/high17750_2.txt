@@ -1,0 +1,1 @@
+{"answer": "A", "question": "To get the information from BDU every day, you must   _  .", "id": "high17750.txt"}

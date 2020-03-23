@@ -1,0 +1,1 @@
+{"answer": "C", "question": "In the opinion of one of the policeman who had arrested the author, the whole thing might not have occurred if   _  .", "id": "high4425.txt"}

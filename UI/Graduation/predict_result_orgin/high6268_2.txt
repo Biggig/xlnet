@@ -1,0 +1,1 @@
+{"answer": "A", "question": "Blue collar workers pay attention to their clothes because   _  .", "id": "high6268.txt"}

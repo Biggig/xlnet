@@ -1,0 +1,1 @@
+{"answer": "B", "question": "The sixth reason mentioned in the article implies that   _   tend to commit crimes.", "id": "high20908.txt"}

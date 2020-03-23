@@ -1,0 +1,1 @@
+{"answer": "B", "question": "John and his wife went to evening classes to learn how to   _   .", "id": "middle1837.txt"}

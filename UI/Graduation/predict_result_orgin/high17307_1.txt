@@ -1,0 +1,1 @@
+{"answer": "C", "question": "Ann didn't eat dinners in the restaurant of the hotel because   _  .", "id": "high17307.txt"}

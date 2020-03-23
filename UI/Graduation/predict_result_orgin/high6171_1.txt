@@ -1,0 +1,1 @@
+{"answer": "C", "question": "Why does the author advise buying a pair of binoculars first?", "id": "high6171.txt"}

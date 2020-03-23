@@ -1,0 +1,1 @@
+{"answer": "C", "question": "What class is Yang Yue in?", "id": "middle5689.txt"}

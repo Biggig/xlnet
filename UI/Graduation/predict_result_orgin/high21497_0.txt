@@ -1,0 +1,1 @@
+{"answer": "A", "question": "Long-term weather forecasts beyond the year 2050 may seem strange because  _  .", "id": "high21497.txt"}

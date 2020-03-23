@@ -1,0 +1,1 @@
+{"answer": "D", "question": "The kitchen in Vrindaban supplies food to   _  .", "id": "high3813.txt"}

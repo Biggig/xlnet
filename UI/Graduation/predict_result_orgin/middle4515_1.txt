@@ -1,0 +1,1 @@
+{"answer": "C", "question": "Many Americans like to eat apples during lunch because they   _   at noon.", "id": "middle4515.txt"}

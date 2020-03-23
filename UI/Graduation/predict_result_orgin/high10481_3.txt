@@ -1,0 +1,1 @@
+{"answer": "C", "question": "Perhaps the most important lesson the world has learned from Mother Teresa is  _  .", "id": "high10481.txt"}

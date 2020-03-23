@@ -1,0 +1,1 @@
+{"answer": "D", "question": "What do we know from the dialogue ?", "id": "middle3325.txt"}

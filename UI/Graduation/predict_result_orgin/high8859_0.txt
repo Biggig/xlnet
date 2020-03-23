@@ -1,0 +1,1 @@
+{"answer": "D", "question": "The management in western companies no longer presents gold watches to their employees because   _  .", "id": "high8859.txt"}

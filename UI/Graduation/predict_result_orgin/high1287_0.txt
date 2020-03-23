@@ -1,0 +1,1 @@
+{"answer": "C", "question": "The writer went to the station buffet because   _  .", "id": "high1287.txt"}

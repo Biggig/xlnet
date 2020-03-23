@@ -1,0 +1,1 @@
+{"answer": "B", "question": "According to the passage, a \"break\" may mean a chance to   _  .", "id": "high10955.txt"}

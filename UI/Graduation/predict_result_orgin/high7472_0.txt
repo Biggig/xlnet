@@ -1,0 +1,1 @@
+{"answer": "C", "question": "Which of the following is the best way to make workers work harder according to the author?", "id": "high7472.txt"}

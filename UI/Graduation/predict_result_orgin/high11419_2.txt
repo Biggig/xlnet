@@ -1,0 +1,1 @@
+{"answer": "A", "question": "Those who agree with the new change in the Politechnic are   _  .", "id": "high11419.txt"}

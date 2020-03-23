@@ -1,0 +1,1 @@
+{"answer": "A", "question": "We can infer from the passage that the ancestors of accordion originated in  _  .", "id": "high13081.txt"}

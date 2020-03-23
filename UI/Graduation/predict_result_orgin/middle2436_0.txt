@@ -1,0 +1,1 @@
+{"answer": "B", "question": "There are   _   kinds of sports according to the passage.", "id": "middle2436.txt"}

@@ -1,0 +1,1 @@
+{"answer": "D", "question": "All the following are sure of the safety of cloned products EXCEPT   _  .", "id": "high13166.txt"}

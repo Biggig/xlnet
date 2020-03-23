@@ -1,0 +1,1 @@
+{"answer": "C", "question": "When all the kids started their own families, the author's father   _  .", "id": "high6105.txt"}

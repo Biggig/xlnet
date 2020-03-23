@@ -1,0 +1,1 @@
+{"answer": "C", "question": "Bangkok's ban on tul-tuks is unsuccessful due to   _  .", "id": "high23974.txt"}

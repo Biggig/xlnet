@@ -1,0 +1,1 @@
+{"answer": "C", "question": "The purpose of The Global Age Watch Index is to  _  .", "id": "high18631.txt"}

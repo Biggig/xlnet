@@ -1,0 +1,1 @@
+{"answer": "B", "question": "Why did the merchants make signs with pictures or hang their tools over their doors ?", "id": "high2335.txt"}

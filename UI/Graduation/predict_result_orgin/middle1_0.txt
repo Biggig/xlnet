@@ -1,0 +1,1 @@
+{"answer": "C", "question": "A discipline leader is supposed to  _  .", "id": "middle1.txt"}

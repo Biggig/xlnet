@@ -1,0 +1,1 @@
+{"answer": "A", "question": "Why does Kenton Lee keep a pair of his own shoes in the office?", "id": "high14966.txt"}

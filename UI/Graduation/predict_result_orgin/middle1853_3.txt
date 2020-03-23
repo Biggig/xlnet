@@ -1,0 +1,1 @@
+{"answer": "B", "question": "The notice is Written for  _  .", "id": "middle1853.txt"}

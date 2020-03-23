@@ -1,0 +1,1 @@
+{"answer": "A", "question": "The author believed that his/her parents' happiness was due to(, )", "id": "high13352.txt"}

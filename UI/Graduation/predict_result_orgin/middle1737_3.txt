@@ -1,0 +1,1 @@
+{"answer": "D", "question": "Why is scintillation a problem for astronomers?", "id": "middle1737.txt"}

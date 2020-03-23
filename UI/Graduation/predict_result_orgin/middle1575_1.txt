@@ -1,0 +1,1 @@
+{"answer": "C", "question": "What does a student often do if he comes across lots of new words in the study?", "id": "middle1575.txt"}

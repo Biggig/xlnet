@@ -1,0 +1,1 @@
+{"answer": "A", "question": "The text is most probably taken from a (n)  _  .", "id": "middle6946.txt"}

@@ -1,0 +1,1 @@
+{"answer": "C", "question": "In this passage, \"needles\" refers to   _  .", "id": "high7560.txt"}

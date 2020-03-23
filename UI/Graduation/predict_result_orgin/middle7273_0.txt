@@ -1,0 +1,1 @@
+{"answer": "A", "question": "What would happen if Celina told Joseph the truth?", "id": "middle7273.txt"}

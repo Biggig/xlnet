@@ -1,0 +1,1 @@
+{"answer": "A", "question": "By saying \"the conclusions to be drawn are obvious\", the writer means that   _  .", "id": "high1019.txt"}

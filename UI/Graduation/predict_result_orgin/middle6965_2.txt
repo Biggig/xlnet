@@ -1,0 +1,1 @@
+{"answer": "D", "question": "What does the writer think of codin~y?", "id": "middle6965.txt"}

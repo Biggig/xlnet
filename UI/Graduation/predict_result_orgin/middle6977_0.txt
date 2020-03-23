@@ -1,0 +1,1 @@
+{"answer": "C", "question": "From the passage we can see that the writer had a stay in Yangzhou.", "id": "middle6977.txt"}

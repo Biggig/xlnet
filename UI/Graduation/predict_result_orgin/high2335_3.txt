@@ -1,0 +1,1 @@
+{"answer": "A", "question": "Radio commercials are the best form of advertising because   _  .", "id": "high2335.txt"}

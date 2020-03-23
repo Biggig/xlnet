@@ -1,0 +1,1 @@
+{"answer": "A", "question": "In the article, the word \"productivity\" means   _  .", "id": "high7472.txt"}

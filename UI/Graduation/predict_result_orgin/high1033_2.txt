@@ -1,0 +1,1 @@
+{"answer": "C", "question": "What lesson can you learn from the story?", "id": "high1033.txt"}

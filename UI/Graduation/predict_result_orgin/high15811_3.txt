@@ -1,0 +1,1 @@
+{"answer": "A", "question": "The man who buried his money in a park    _    .", "id": "high15811.txt"}

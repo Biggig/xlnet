@@ -1,0 +1,1 @@
+{"answer": "C", "question": "What does the author think Joe Temper should be to blame for?", "id": "high6678.txt"}

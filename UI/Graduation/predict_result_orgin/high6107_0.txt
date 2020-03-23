@@ -1,0 +1,1 @@
+{"answer": "C", "question": "According to the passage, who was most known for comedy in China?", "id": "high6107.txt"}

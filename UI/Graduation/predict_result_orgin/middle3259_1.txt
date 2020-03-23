@@ -1,0 +1,1 @@
+{"answer": "B", "question": "The writer thinks many people don't live near the north or south pole because  _  .", "id": "middle3259.txt"}

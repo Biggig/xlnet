@@ -1,0 +1,1 @@
+{"answer": "B", "question": "The similarity between Love and Song of Solomon is that they both   _  .", "id": "high7314.txt"}

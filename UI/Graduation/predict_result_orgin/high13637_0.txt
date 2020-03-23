@@ -1,0 +1,1 @@
+{"answer": "C", "question": "When the students first used mobile phones for learning, they  _  .", "id": "high13637.txt"}

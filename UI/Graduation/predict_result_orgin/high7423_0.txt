@@ -1,0 +1,1 @@
+{"answer": "C", "question": "Which advertisement will Michael be most interested in if he likes fairy tales?", "id": "high7423.txt"}

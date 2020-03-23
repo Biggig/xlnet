@@ -1,0 +1,1 @@
+{"answer": "D", "question": "The man from the West must have broken the law   _  .", "id": "high20011.txt"}

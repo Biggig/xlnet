@@ -1,0 +1,1 @@
+{"answer": "C", "question": "The writer in Britain    _    .", "id": "high15811.txt"}

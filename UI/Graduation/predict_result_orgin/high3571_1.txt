@@ -1,0 +1,1 @@
+{"answer": "A", "question": "According to the author, expectations and goals should be   _  .", "id": "high3571.txt"}

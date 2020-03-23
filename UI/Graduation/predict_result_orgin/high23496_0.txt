@@ -1,0 +1,1 @@
+{"answer": "D", "question": "Which theatre offers the cheapest seat?", "id": "high23496.txt"}

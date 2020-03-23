@@ -1,0 +1,1 @@
+{"answer": "C", "question": "What does Karen Pickering put on top of her diary?", "id": "high10131.txt"}

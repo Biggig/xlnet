@@ -1,0 +1,1 @@
+{"answer": "B", "question": "According to the findings of Erica Kenney's study, we know that   _  .", "id": "high12857.txt"}

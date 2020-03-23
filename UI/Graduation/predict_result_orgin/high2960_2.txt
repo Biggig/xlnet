@@ -1,0 +1,1 @@
+{"answer": "D", "question": "When Leopold said \"It's kind of the trend these days; everyone wants to be hip so no one's hip\", we can see that she felt a bit   _  .", "id": "high2960.txt"}

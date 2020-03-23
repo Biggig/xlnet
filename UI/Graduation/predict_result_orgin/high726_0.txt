@@ -1,0 +1,1 @@
+{"answer": "D", "question": "By saying \"It was more a problem with translation\", what does Du Juan mean?", "id": "high726.txt"}

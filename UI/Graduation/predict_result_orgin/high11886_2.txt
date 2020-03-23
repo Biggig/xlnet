@@ -1,0 +1,1 @@
+{"answer": "D", "question": "What is the effect of their not being given \"the letter\"?", "id": "high11886.txt"}

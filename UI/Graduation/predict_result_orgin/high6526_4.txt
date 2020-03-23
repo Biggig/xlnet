@@ -1,0 +1,1 @@
+{"answer": "A", "question": "The husband in Joke 4 means that   _  .", "id": "high6526.txt"}

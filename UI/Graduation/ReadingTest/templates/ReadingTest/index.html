@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="keywords" content="Reading Comprehension">
+        <meta name="author" content="HuangZilin">
+        <title>ReadingTest.com</title>
+    </head>
+    <body>
+        {% if article %}
+            <h2 style="text-align:center;">{{title}}</h1>
+            <fieldset>
+                <p style="text-indent:2em;">{{article}}</p>
+            </fieldset>
+            {% for question in questions %}
+                <fieldset>
+                    <h4>{{question.question}}</h4>
+                    <ol start="1" type="A">
+                        <li>{{question.option_a}}</li>
+                        <li>{{question.option_b}}</li>
+                        <li>{{question.option_c}}</li>
+                        <li>{{question.option_d}}</li>
+                    </ol>
+                    <p>答案：{{question.answer}}</p>
+                </fieldset>
+            {% endfor %}
+        {% else %}
+        <p>No Readings are available.</p>
+        {% endif %}
+        <form action='' method="get">
+            <input type="submit" class="btn" value="上一篇" name="prev_btn">
+            <input type="submit" class="btn" value="下一篇" name="next_btn">
+        </form>
+    </body>
+</html>

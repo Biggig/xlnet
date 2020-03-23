@@ -1,0 +1,1 @@
+{"answer": "D", "question": "Steve Jobs probably values   _   most according to his speech.", "id": "high10276.txt"}

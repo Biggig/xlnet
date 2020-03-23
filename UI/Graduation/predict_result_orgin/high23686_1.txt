@@ -1,0 +1,1 @@
+{"answer": "C", "question": "The prickly pear survives in the desert by  _  .", "id": "high23686.txt"}

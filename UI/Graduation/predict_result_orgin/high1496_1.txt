@@ -1,0 +1,1 @@
+{"answer": "B", "question": "From the stories by Lauren and Charlotte, we know that   _   .", "id": "high1496.txt"}

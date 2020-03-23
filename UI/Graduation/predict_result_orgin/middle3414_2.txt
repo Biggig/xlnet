@@ -1,0 +1,1 @@
+{"answer": "A", "question": "If there are 10 Germans,   _   like reading according to the passage.", "id": "middle3414.txt"}

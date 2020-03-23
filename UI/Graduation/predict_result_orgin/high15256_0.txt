@@ -1,0 +1,1 @@
+{"answer": "B", "question": "We can infer that the English language versions of newspapers   _  .", "id": "high15256.txt"}

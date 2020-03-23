@@ -1,0 +1,1 @@
+{"answer": "B", "question": "Teachers at Aoyama Gakuin University can finish taking attendance by asking students to  _", "id": "high9156.txt"}

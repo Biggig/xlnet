@@ -1,0 +1,1 @@
+{"answer": "D", "question": "What made Miss Lund finally believe Mr.Philips was her brother?", "id": "high21524.txt"}

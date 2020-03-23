@@ -1,0 +1,1 @@
+{"answer": "D", "question": "If you are going to visit an art zone at 7pm, which one can you go to?", "id": "high9180.txt"}

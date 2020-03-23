@@ -1,0 +1,1 @@
+{"answer": "D", "question": "We learn from the text that language might have begun with  _  .", "id": "high8463.txt"}

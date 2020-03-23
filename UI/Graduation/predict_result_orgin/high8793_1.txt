@@ -1,0 +1,1 @@
+{"answer": "A", "question": "Who are responsible for children's development at school according to the writer?", "id": "high8793.txt"}

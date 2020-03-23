@@ -1,0 +1,1 @@
+{"answer": "C", "question": "Which of the following statements is true about the Copenhagen Homeless World Cup ?", "id": "high3243.txt"}

@@ -1,0 +1,1 @@
+{"answer": "C", "question": "How did Ken probably feel while seeing Anthony at the bookstore?", "id": "middle5261.txt"}

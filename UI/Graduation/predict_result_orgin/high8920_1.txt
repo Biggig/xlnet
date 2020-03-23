@@ -1,0 +1,1 @@
+{"answer": "C", "question": "Which is NOT included in the new policies that would help women and working families get ahead?", "id": "high8920.txt"}

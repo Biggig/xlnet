@@ -1,0 +1,1 @@
+{"answer": "D", "question": "According to the passage, Asifi was able to win the 2015 UNHCR Nansen Refugee award mainly because  _  .", "id": "high13418.txt"}

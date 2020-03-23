@@ -1,0 +1,1 @@
+{"answer": "C", "question": "The student loan has all of the advantages except that  _  .", "id": "high16748.txt"}

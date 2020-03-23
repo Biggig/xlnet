@@ -1,0 +1,1 @@
+{"answer": "A", "question": "\"Why Crime Rates Fell\" is mentioned in the article to tell readers that   _  .", "id": "high20908.txt"}

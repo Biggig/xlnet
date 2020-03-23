@@ -1,0 +1,1 @@
+{"answer": "D", "question": "The court never asked the author's English teacher to give evidence because   _  .", "id": "high4425.txt"}

@@ -1,0 +1,1 @@
+{"answer": "D", "question": "Which of the following is a cause of the danger that coral reefs are facing?", "id": "high14507.txt"}

@@ -1,0 +1,1 @@
+{"answer": "A", "question": "According to Sun Haiping, Liu Xiang might have won the gold if   _  .", "id": "high3025.txt"}

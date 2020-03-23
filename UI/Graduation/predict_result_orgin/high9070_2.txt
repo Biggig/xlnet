@@ -1,0 +1,1 @@
+{"answer": "C", "question": "How does the author confirm whether smartphone walk is annoying or not?", "id": "high9070.txt"}

@@ -1,0 +1,1 @@
+{"answer": "D", "question": "Compared with classical ITS, developed ITS can", "id": "high20723.txt"}

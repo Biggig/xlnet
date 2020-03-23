@@ -1,0 +1,1 @@
+{"answer": "C", "question": "The author changed her mind on her son's picture taking because  _   .", "id": "high10714.txt"}

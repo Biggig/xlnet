@@ -1,0 +1,1 @@
+{"answer": "C", "question": "If Lisa never does housework, the writer thinks she can   _   on No Housework Day.", "id": "middle5870.txt"}

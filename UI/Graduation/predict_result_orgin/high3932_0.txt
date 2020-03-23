@@ -1,0 +1,1 @@
+{"answer": "B", "question": "What is Dr. Silva's attitude towards the effect that technology has on family life?", "id": "high3932.txt"}

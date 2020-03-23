@@ -1,0 +1,1 @@
+{"answer": "A", "question": "The trucking company's lawyer insisted Farmer Joe answer his question   _  .", "id": "high21055.txt"}

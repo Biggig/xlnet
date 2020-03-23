@@ -1,0 +1,1 @@
+{"answer": "D", "question": "When the man began to strike the author with an umbrella,the author", "id": "high23510.txt"}

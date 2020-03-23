@@ -1,0 +1,1 @@
+{"answer": "C", "question": "Faced with the desperate situation, some Indians in the camp   _  .", "id": "high20387.txt"}

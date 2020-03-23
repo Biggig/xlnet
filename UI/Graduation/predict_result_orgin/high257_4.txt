@@ -1,0 +1,1 @@
+{"answer": "B", "question": "You are shopping on the site: http: // www. Shopping. com, and you want to buy a TV set, what does this article suggest to do?", "id": "high257.txt"}

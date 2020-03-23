@@ -1,0 +1,1 @@
+{"answer": "B", "question": "We can infer from what a netizen wrote in one well -received article that   _  .", "id": "high8447.txt"}

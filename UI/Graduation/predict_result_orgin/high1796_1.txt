@@ -1,0 +1,1 @@
+{"answer": "A", "question": "What do we learn about the Forum's report from the passage?", "id": "high1796.txt"}

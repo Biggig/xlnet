@@ -1,0 +1,1 @@
+{"answer": "D", "question": "The German shepherd is a popular dog  _  .", "id": "high1446.txt"}

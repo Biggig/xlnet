@@ -1,0 +1,1 @@
+{"answer": "D", "question": "The wild animals can predict the natural disasters because they   _  .", "id": "high19017.txt"}

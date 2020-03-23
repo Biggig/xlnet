@@ -1,0 +1,1 @@
+{"answer": "C", "question": "How often should you exercise if you want to get health and happiness?", "id": "middle2036.txt"}

@@ -1,0 +1,1 @@
+{"answer": "A", "question": "It is commonly believed that in a mixed school boys  _  .", "id": "high22824.txt"}

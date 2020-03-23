@@ -1,0 +1,1 @@
+{"answer": "B", "question": "If students pass the independent exam, they will   _  .", "id": "high2317.txt"}

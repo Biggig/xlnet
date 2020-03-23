@@ -1,0 +1,1 @@
+{"answer": "B", "question": "What happened to Mandela when he was about to give the speech?", "id": "high5745.txt"}

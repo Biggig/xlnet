@@ -1,0 +1,1 @@
+{"answer": "C", "question": "The three men could not agree on what the world's greatest wonder was because   _  .", "id": "middle1029.txt"}

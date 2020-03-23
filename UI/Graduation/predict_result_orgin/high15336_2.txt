@@ -1,0 +1,1 @@
+{"answer": "B", "question": "What can we learn about Jonathan Saunders from the passage?", "id": "high15336.txt"}

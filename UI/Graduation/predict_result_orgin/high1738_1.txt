@@ -1,0 +1,1 @@
+{"answer": "D", "question": "Picking a round shape of chocolate shows that a person   _  .", "id": "high1738.txt"}

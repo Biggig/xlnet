@@ -1,0 +1,1 @@
+{"answer": "D", "question": "Which of the hotel makes you have a feeling of living in the far past?", "id": "high19256.txt"}

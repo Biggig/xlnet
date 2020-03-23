@@ -1,0 +1,1 @@
+{"answer": "C", "question": "Why did Jordan Romero choose to climb from the Chinese side of Mount Everest?", "id": "high17090.txt"}

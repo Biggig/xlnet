@@ -1,0 +1,1 @@
+{"answer": "D", "question": "In some countries, people eat   _  every day.", "id": "middle6049.txt"}

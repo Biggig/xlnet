@@ -1,0 +1,1 @@
+{"answer": "D", "question": "Scientists don't want to meet the Indians on the ground due to the fear that  _", "id": "high8644.txt"}

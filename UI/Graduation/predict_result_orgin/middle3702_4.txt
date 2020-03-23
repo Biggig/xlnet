@@ -1,0 +1,1 @@
+{"answer": "C", "question": "The father asked his daughter to go and get the other pair of shoes for him and the daughter   _  .", "id": "middle3702.txt"}

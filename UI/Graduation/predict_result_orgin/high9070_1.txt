@@ -1,0 +1,1 @@
+{"answer": "D", "question": "How does Michael Cucek find smartphone walk in Japan?", "id": "high9070.txt"}

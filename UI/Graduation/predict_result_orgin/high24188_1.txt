@@ -1,0 +1,1 @@
+{"answer": "D", "question": "Tourists in Italy are often    _  .", "id": "high24188.txt"}

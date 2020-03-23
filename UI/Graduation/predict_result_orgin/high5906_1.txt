@@ -1,0 +1,1 @@
+{"answer": "C", "question": "According to the passage, one of the ways to save water is   _  .", "id": "high5906.txt"}

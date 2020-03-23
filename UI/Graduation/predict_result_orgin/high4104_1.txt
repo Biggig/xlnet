@@ -1,0 +1,1 @@
+{"answer": "B", "question": "Why did some uninvited theatre groups come to  Edinburgh in 1947?", "id": "high4104.txt"}

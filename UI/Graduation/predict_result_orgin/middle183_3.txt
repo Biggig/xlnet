@@ -1,0 +1,1 @@
+{"answer": "B", "question": "The artist invited the beggar to take a taxi home with him so that   _  .", "id": "middle183.txt"}

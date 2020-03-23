@@ -1,0 +1,1 @@
+{"answer": "B", "question": "People usually tend to break their routines because they  _  .", "id": "high11607.txt"}

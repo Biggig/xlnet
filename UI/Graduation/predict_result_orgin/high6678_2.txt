@@ -1,0 +1,1 @@
+{"answer": "D", "question": "It is obvious that the Michigan program  _  .", "id": "high6678.txt"}

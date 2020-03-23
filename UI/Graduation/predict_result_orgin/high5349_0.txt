@@ -1,0 +1,1 @@
+{"answer": "B", "question": "What is \"Photoshop Law\" about?", "id": "high5349.txt"}

@@ -1,0 +1,1 @@
+{"answer": "A", "question": "According to the passage, the author believes that the sixth sense is  _  .", "id": "high246.txt"}

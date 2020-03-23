@@ -1,0 +1,1 @@
+{"answer": "B", "question": "Why does the author mention Kodak's invention of the first digital camera?", "id": "high17435.txt"}

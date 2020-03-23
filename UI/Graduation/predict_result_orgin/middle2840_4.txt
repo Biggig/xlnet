@@ -1,0 +1,1 @@
+{"answer": "D", "question": "Which sentence has the same meaning as the underline one ?", "id": "middle2840.txt"}

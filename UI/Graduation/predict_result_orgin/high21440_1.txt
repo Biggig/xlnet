@@ -1,0 +1,1 @@
+{"answer": "A", "question": "Why does Peffers ask people to say \"I'll have tap.\" Loudly?", "id": "high21440.txt"}

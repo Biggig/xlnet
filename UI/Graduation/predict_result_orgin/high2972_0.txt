@@ -1,0 +1,1 @@
+{"answer": "D", "question": "We can infer that Ana's purpose for writing to Liz was to  _  .", "id": "high2972.txt"}

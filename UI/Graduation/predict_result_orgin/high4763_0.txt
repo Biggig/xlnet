@@ -1,0 +1,1 @@
+{"answer": "C", "question": "Daniel Burd won first prize at the Canada-Wide Science Fair because  _  .", "id": "high4763.txt"}

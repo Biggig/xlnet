@@ -1,0 +1,1 @@
+{"answer": "D", "question": "Who wears a pair of glasses?", "id": "middle2409.txt"}

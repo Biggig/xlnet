@@ -1,0 +1,1 @@
+{"answer": "A", "question": "When should you apply for a visa?", "id": "high19027.txt"}

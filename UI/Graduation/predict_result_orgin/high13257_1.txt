@@ -1,0 +1,1 @@
+{"answer": "D", "question": "According to the passage, GM foods  _  .", "id": "high13257.txt"}

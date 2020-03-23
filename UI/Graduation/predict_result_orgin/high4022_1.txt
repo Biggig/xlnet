@@ -1,0 +1,1 @@
+{"answer": "C", "question": "To fully develop the low-carbon markets, governments can   _  .", "id": "high4022.txt"}

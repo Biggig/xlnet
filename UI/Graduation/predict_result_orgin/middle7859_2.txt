@@ -1,0 +1,1 @@
+{"answer": "C", "question": "\"There is money in fashion\" means  _", "id": "middle7859.txt"}

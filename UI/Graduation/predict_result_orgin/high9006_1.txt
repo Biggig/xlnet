@@ -1,0 +1,1 @@
+{"answer": "A", "question": "What can be considered as one of the negative aspects of acting according to Thomas?", "id": "high9006.txt"}

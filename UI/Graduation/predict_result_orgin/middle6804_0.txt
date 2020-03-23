@@ -1,0 +1,1 @@
+{"answer": "A", "question": "Drew Barrymore made her first movie in  _  .", "id": "middle6804.txt"}

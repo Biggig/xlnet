@@ -1,0 +1,1 @@
+{"answer": "D", "question": "Which of the following cannot be seen at Frigo's?", "id": "high98.txt"}

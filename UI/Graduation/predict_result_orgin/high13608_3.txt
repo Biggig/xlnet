@@ -1,0 +1,1 @@
+{"answer": "B", "question": "The tone of the last sentence is  _  .", "id": "high13608.txt"}

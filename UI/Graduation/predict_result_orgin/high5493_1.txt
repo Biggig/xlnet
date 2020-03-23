@@ -1,0 +1,1 @@
+{"answer": "C", "question": "Which of the following uses of silk is NOT mentioned in the passage?", "id": "high5493.txt"}

@@ -1,0 +1,1 @@
+{"answer": "C", "question": "The variation in people's preference towards risks is directly regulated by   _  .", "id": "high13681.txt"}

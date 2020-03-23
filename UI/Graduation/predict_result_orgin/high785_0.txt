@@ -1,0 +1,1 @@
+{"answer": "C", "question": "Chow Yun-fat has been written into middle school textbooks mainly because   _  .", "id": "high785.txt"}

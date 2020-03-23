@@ -1,0 +1,1 @@
+{"answer": "B", "question": "We can learn from the passage that A Day of Design    _    .", "id": "high16182.txt"}

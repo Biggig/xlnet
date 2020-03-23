@@ -1,0 +1,1 @@
+{"answer": "C", "question": "What is the major reason for the high death rates of newborns in Africa?", "id": "high21625.txt"}

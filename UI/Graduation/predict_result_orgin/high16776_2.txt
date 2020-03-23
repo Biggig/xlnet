@@ -1,0 +1,1 @@
+{"answer": "D", "question": "When the first wheat appeared, which of the following sentences show woman's ideas had grown?", "id": "high16776.txt"}

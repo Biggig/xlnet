@@ -1,0 +1,1 @@
+{"answer": "B", "question": "Alexander Selkirk spent four years on a desert island because_.", "id": "high17565.txt"}

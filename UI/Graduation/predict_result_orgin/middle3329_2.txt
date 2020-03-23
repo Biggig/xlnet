@@ -1,0 +1,1 @@
+{"answer": "A", "question": "Bears and lions can keep safe because  _  .", "id": "middle3329.txt"}

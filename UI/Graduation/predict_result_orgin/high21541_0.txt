@@ -1,0 +1,1 @@
+{"answer": "D", "question": "What did Skaar and Oksas do where were stopped by the fire?", "id": "high21541.txt"}

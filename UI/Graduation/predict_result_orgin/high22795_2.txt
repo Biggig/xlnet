@@ -1,0 +1,1 @@
+{"answer": "A", "question": "According to the passage,   _  are more likely to become addicted to online games.", "id": "high22795.txt"}

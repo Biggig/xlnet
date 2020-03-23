@@ -1,0 +1,1 @@
+{"answer": "D", "question": "To carry out jumping jacks effectively, you  _  .", "id": "high12069.txt"}

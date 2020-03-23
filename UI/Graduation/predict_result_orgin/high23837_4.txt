@@ -1,0 +1,1 @@
+{"answer": "D", "question": "According to the officials, the name change of BeaverCollege  _  .", "id": "high23837.txt"}

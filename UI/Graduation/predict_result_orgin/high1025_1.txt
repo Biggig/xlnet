@@ -1,0 +1,1 @@
+{"answer": "B", "question": "By the year of 1914, Einstein had   _  .", "id": "high1025.txt"}

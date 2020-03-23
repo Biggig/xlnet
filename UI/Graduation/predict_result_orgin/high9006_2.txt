@@ -1,0 +1,1 @@
+{"answer": "A", "question": "Thomas played the lead role in   _  .", "id": "high9006.txt"}

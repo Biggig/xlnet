@@ -1,0 +1,1 @@
+{"answer": "A", "question": "What tax does an American have to pay to the city if he owns a car?", "id": "high18692.txt"}

@@ -1,0 +1,1 @@
+{"answer": "B", "question": "Shi suggested in her survey that   _", "id": "high6696.txt"}

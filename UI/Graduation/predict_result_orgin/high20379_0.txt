@@ -1,0 +1,1 @@
+{"answer": "C", "question": "The author of the passage employed a writing way   _  .", "id": "high20379.txt"}

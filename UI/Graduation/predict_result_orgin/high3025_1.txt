@@ -1,0 +1,1 @@
+{"answer": "A", "question": "The following statements about Doucoure are true EXCEPT  _  .", "id": "high3025.txt"}

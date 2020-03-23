@@ -1,0 +1,1 @@
+{"answer": "B", "question": "What problem may Google Glass bring to people?", "id": "high8526.txt"}

@@ -1,0 +1,1 @@
+{"answer": "B", "question": "Which of the following statements about dreams is TRUE?", "id": "high5942.txt"}

@@ -1,0 +1,1 @@
+{"answer": "B", "question": "We can infer that Oliver is probably a(n)   _  .", "id": "high22967.txt"}

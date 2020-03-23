@@ -1,0 +1,1 @@
+{"answer": "A", "question": "The traditional business model is harmful because of all the following EXCEPT that   _  .", "id": "high4022.txt"}

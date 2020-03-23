@@ -1,0 +1,1 @@
+{"answer": "B", "question": "According to the passage,China particpates in the meeting of G7 because  _  .", "id": "high10890.txt"}

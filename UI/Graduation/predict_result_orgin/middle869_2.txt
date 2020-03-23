@@ -1,0 +1,1 @@
+{"answer": "C", "question": "Where do American teenagers like to work most in the summer?", "id": "middle869.txt"}

@@ -1,0 +1,1 @@
+{"answer": "B", "question": "Tank Loft, Chongqing is quite different from the others in  _  .", "id": "high9180.txt"}

@@ -1,0 +1,1 @@
+{"answer": "B", "question": "The word \"keep\" in the last sentence means \"  _  \"", "id": "high22580.txt"}

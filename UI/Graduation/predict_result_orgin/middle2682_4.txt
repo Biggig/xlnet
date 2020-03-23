@@ -1,0 +1,1 @@
+{"answer": "B", "question": "Why do the students go home at about six p.m.?", "id": "middle2682.txt"}

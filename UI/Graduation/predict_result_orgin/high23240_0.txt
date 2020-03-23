@@ -1,0 +1,1 @@
+{"answer": "D", "question": "We can inter that when Mikey was absent from the class, he was   _", "id": "high23240.txt"}

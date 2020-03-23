@@ -1,0 +1,1 @@
+{"answer": "C", "question": "We diet strictly after the year-end overeating because  _  .", "id": "high23858.txt"}

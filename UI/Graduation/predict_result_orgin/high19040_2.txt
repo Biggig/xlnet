@@ -1,0 +1,1 @@
+{"answer": "C", "question": "If a person enjoys riding horses, he may choose  _  .", "id": "high19040.txt"}

@@ -1,0 +1,1 @@
+{"answer": "A", "question": "In the opinion of the author, life in Cincinnati was   _  .", "id": "high14475.txt"}

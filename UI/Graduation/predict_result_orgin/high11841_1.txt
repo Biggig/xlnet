@@ -1,0 +1,1 @@
+{"answer": "B", "question": "For two persons spending a night in one of these hotels, they have to pay at least   _  .", "id": "high11841.txt"}

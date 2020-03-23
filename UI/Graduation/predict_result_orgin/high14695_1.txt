@@ -1,0 +1,1 @@
+{"answer": "A", "question": "Which day will a geological researcher prefer?", "id": "high14695.txt"}

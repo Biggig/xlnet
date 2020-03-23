@@ -1,0 +1,1 @@
+{"answer": "D", "question": "Why did the officials ask people to keep bird feeders until snow falls?", "id": "high19608.txt"}

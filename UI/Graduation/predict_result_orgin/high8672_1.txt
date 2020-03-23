@@ -1,0 +1,1 @@
+{"answer": "A", "question": "What was Temar doing when the police were searching for Jocelyn?", "id": "high8672.txt"}

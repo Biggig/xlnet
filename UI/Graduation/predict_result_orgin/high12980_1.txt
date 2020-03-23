@@ -1,0 +1,1 @@
+{"answer": "C", "question": "The purpose of the trip for the author is to  _  .", "id": "high12980.txt"}

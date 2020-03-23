@@ -1,0 +1,1 @@
+{"answer": "D", "question": "How do the shoes know that your shouldn't eat the breakfast cereal?", "id": "high3753.txt"}

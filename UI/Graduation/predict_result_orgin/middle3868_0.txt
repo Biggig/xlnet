@@ -1,0 +1,1 @@
+{"answer": "C", "question": "Young people like Hip-hop dancing because   _  .", "id": "middle3868.txt"}

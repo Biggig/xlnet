@@ -1,0 +1,1 @@
+{"answer": "A", "question": "All of the following points are covered in the story EXCEPT  _  .", "id": "high6394.txt"}

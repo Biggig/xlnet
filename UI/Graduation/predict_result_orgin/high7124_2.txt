@@ -1,0 +1,1 @@
+{"answer": "C", "question": "How many more infants will survive when 100 girls stay in school for another year?", "id": "high7124.txt"}

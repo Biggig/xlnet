@@ -1,0 +1,1 @@
+{"answer": "A", "question": "We can infer that \"Joe's Favorite\" and \"Dante\" are the names of  _  .", "id": "high98.txt"}

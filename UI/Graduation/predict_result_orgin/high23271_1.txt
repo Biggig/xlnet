@@ -1,0 +1,1 @@
+{"answer": "C", "question": "During the adventures in Tibet, what Li Wan learned most is   _  .", "id": "high23271.txt"}

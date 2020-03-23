@@ -1,0 +1,1 @@
+{"answer": "A", "question": "By saying \"With so many unknowns, it's easy to let one's imagination 'fill in the blanks'\", the writer means that   _  .", "id": "high321.txt"}

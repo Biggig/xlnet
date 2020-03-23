@@ -1,0 +1,1 @@
+{"answer": "B", "question": "Which can best describe the male assassin bug?", "id": "high14106.txt"}

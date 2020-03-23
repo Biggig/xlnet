@@ -1,0 +1,1 @@
+{"answer": "A", "question": "What's the author's attitude towards the voice of China?", "id": "high23222.txt"}

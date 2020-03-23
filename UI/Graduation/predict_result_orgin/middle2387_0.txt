@@ -1,0 +1,1 @@
+{"answer": "A", "question": "The boy repeated the words \"Thank you, dear! You are a nice little boy!\" because  _  .", "id": "middle2387.txt"}

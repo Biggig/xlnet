@@ -1,0 +1,1 @@
+{"answer": "B", "question": "According to the passage, why won't robot become the ruler of the earth?", "id": "middle4023.txt"}

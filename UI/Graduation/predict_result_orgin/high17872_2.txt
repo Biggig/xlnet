@@ -1,0 +1,1 @@
+{"answer": "D", "question": "People would like to remove carbon dioxide from the atmosphere, but they don't like the method of_.", "id": "high17872.txt"}

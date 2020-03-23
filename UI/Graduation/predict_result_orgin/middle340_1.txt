@@ -1,0 +1,1 @@
+{"answer": "B", "question": "How much would John ask for if he made a dining table on the last day of December according to his bill?", "id": "middle340.txt"}

@@ -1,0 +1,1 @@
+{"answer": "C", "question": "Why did the author look for bows according to Paras 2 and 3 ?", "id": "high17845.txt"}

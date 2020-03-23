@@ -1,0 +1,1 @@
+{"answer": "B", "question": "After the heavy rain, the mother dog swam to the island   _  .", "id": "middle7975.txt"}

@@ -1,0 +1,1 @@
+{"answer": "C", "question": "How did the author feel about life before the night sitting on the porch with the family?", "id": "high15048.txt"}

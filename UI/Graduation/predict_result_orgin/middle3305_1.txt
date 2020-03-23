@@ -1,0 +1,1 @@
+{"answer": "C", "question": "The young black people used their  _   to dance.", "id": "middle3305.txt"}

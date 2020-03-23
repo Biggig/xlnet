@@ -1,0 +1,1 @@
+{"answer": "B", "question": "The financial support given to athletes by the Soviet government can best be compared to   _  .", "id": "high3704.txt"}

@@ -1,0 +1,1 @@
+{"answer": "C", "question": "Which Web giants now offer electronic \"hong bao\"?", "id": "middle7083.txt"}

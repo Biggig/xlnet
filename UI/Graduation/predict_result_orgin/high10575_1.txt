@@ -1,0 +1,1 @@
+{"answer": "C", "question": "There are altogether  _   reasons  of immigration listed in the passage.", "id": "high10575.txt"}

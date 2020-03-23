@@ -1,0 +1,1 @@
+{"answer": "A", "question": "Which of the following is NOT true about the plant-analyzing method?", "id": "high18260.txt"}

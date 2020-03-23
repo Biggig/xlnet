@@ -1,0 +1,1 @@
+{"answer": "D", "question": "Which of the following is NOT true of Dr. Livingston's software?", "id": "high1870.txt"}

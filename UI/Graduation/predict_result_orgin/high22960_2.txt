@@ -1,0 +1,1 @@
+{"answer": "D", "question": "According to this passage ,those people disagree with the control of carbon dioxide because    .", "id": "high22960.txt"}

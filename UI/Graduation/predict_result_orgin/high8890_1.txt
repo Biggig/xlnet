@@ -1,0 +1,1 @@
+{"answer": "B", "question": "What should doctors do according to the regulations?", "id": "high8890.txt"}

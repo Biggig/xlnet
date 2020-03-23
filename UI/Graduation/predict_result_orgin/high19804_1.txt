@@ -1,0 +1,1 @@
+{"answer": "B", "question": "Which of the following are mentioned as important factors for women to go into the STEM fields according to the passage?", "id": "high19804.txt"}

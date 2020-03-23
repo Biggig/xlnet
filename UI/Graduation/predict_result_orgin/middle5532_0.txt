@@ -1,0 +1,1 @@
+{"answer": "D", "question": "Which of the following is NOT a good deed for Luke?", "id": "middle5532.txt"}

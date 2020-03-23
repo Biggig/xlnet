@@ -1,0 +1,1 @@
+{"answer": "A", "question": "Jack is happy because he thinks  _  .", "id": "middle167.txt"}

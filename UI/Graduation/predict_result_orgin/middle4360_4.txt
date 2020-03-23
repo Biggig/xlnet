@@ -1,0 +1,1 @@
+{"answer": "A", "question": "The two elders decided to eat the little tortoise's cake because   _  .", "id": "middle4360.txt"}

@@ -1,0 +1,1 @@
+{"answer": "D", "question": "Who figured out this idea to stop birds from flying into the window?", "id": "middle6879.txt"}

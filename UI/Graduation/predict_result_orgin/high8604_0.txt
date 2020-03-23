@@ -1,0 +1,1 @@
+{"answer": "A", "question": "The following actions are about chemistry EXCEPT   _  .", "id": "high8604.txt"}

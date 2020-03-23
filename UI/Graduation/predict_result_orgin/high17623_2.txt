@@ -1,0 +1,1 @@
+{"answer": "D", "question": "Why have people called Picasso \"the youngest painter in the world?\"", "id": "high17623.txt"}

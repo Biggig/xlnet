@@ -1,0 +1,1 @@
+{"answer": "C", "question": "What is the most important for a news release according to the passage?", "id": "high14172.txt"}

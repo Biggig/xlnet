@@ -1,0 +1,1 @@
+{"answer": "C", "question": "According to the text, most channels offered by a digital TV service   _  .", "id": "high14306.txt"}

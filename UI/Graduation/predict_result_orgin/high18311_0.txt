@@ -1,0 +1,1 @@
+{"answer": "A", "question": "According to the passage, when he worked on his dictionary, Noah Webster did all of the          following EXCEPT   _  .", "id": "high18311.txt"}

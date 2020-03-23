@@ -1,0 +1,1 @@
+{"answer": "B", "question": "What may be the function of nicotine in cigarette butts for birds?", "id": "high17815.txt"}

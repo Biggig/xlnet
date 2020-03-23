@@ -1,0 +1,1 @@
+{"answer": "B", "question": "Einstein  _   learning sailing and playing the violin.", "id": "middle7085.txt"}

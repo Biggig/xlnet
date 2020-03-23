@@ -1,0 +1,1 @@
+{"answer": "C", "question": "The statement \"the Olympic playing field has been far from level\" means that  _  .", "id": "high3704.txt"}

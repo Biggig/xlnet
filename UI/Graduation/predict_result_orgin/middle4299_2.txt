@@ -1,0 +1,1 @@
+{"answer": "A", "question": "From Paul Bunyan's diet, we can learn   _  .", "id": "middle4299.txt"}

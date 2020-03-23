@@ -1,0 +1,1 @@
+{"answer": "A", "question": "According to Wansink, which of the following affects the amount of wine we drink:   _  .", "id": "high8989.txt"}

@@ -1,0 +1,1 @@
+{"answer": "D", "question": "Learning kung fu diligently from Master Yip Man, Bruce soon realized that   _  .", "id": "high13003.txt"}

@@ -1,0 +1,1 @@
+{"answer": "A", "question": "John Winthrop put some tubes into this clock case because  _  .", "id": "high15047.txt"}

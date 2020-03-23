@@ -1,0 +1,1 @@
+{"answer": "A", "question": "According to the author, being able to use multiplication tables is", "id": "high16521.txt"}

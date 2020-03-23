@@ -1,0 +1,1 @@
+{"answer": "D", "question": "Big Big Wolf is_to goats.", "id": "high24255.txt"}

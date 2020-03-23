@@ -1,0 +1,1 @@
+{"answer": "A", "question": "If you cut your finger, you may use   _   to cure it.", "id": "high4162.txt"}

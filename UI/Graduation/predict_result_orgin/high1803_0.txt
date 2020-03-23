@@ -1,0 +1,1 @@
+{"answer": "A", "question": "What was the coaches' first attitude towards Brittany's dream?", "id": "high1803.txt"}

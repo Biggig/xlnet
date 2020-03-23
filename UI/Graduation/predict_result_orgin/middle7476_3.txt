@@ -1,0 +1,1 @@
+{"answer": "B", "question": "Which is NOT true according to the passage?", "id": "middle7476.txt"}

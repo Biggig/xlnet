@@ -1,0 +1,1 @@
+{"answer": "D", "question": "Tourism officials have been crisscrossing the globe to   _  .", "id": "high18360.txt"}

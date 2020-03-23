@@ -1,0 +1,1 @@
+{"answer": "A", "question": "Lots of people died each year in  _   because of indoor air pollution.", "id": "middle7292.txt"}

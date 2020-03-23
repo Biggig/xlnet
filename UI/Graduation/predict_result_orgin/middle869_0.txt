@@ -1,0 +1,1 @@
+{"answer": "C", "question": "The author thinks a part-time job can teach teenagers many skills except   _  .", "id": "middle869.txt"}

@@ -1,0 +1,1 @@
+{"answer": "A", "question": "According to the passage, college students   _  .", "id": "high7322.txt"}

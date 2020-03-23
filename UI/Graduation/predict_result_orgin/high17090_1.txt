@@ -1,0 +1,1 @@
+{"answer": "B", "question": "To stand on the highest mountains on all seven continents, Jordan Romero plans to climb the peak in   _  .", "id": "high17090.txt"}

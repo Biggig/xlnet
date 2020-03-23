@@ -1,0 +1,1 @@
+{"answer": "D", "question": "We can learn from the passage that in the wet season,   _", "id": "high3722.txt"}

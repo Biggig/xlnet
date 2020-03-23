@@ -1,0 +1,1 @@
+{"answer": "C", "question": "The author believes that he would most probably have been declared guilty if   _  .", "id": "high4425.txt"}

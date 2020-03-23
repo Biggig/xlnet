@@ -1,0 +1,1 @@
+{"answer": "A", "question": "In fact , the tall man and the short man are   _   .", "id": "middle8052.txt"}

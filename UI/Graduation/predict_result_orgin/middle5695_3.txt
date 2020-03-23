@@ -1,0 +1,1 @@
+{"answer": "C", "question": "When people laugh at your mistake,you should   _  .", "id": "middle5695.txt"}

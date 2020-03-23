@@ -1,0 +1,1 @@
+{"answer": "A", "question": "The author planned to stop at Oklahoma City  _  .", "id": "high269.txt"}

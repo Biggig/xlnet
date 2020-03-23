@@ -1,0 +1,1 @@
+{"answer": "C", "question": "What should you do if you are with someone who is bitten by an adder?", "id": "high17424.txt"}

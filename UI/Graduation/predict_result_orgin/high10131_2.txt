@@ -1,0 +1,1 @@
+{"answer": "A", "question": "According to the passage, what do the three people have in common?", "id": "high10131.txt"}

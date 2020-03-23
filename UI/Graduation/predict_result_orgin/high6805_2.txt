@@ -1,0 +1,1 @@
+{"answer": "D", "question": "According to the writer, which of the following statements is a good goal?", "id": "high6805.txt"}

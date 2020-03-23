@@ -1,0 +1,1 @@
+{"answer": "C", "question": "What FAO official Hafez Ghanem says implies   _", "id": "high9718.txt"}

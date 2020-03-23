@@ -1,0 +1,1 @@
+{"answer": "C", "question": "The sentence \"can I do that again?\" showed that the boy   _  .", "id": "high2346.txt"}

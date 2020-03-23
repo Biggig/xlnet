@@ -1,0 +1,1 @@
+{"answer": "C", "question": "When some young braves reported seeing a stone bridge across the valley, most of the Indians in the camp  _  .", "id": "high20387.txt"}

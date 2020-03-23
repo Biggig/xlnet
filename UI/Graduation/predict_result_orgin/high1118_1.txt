@@ -1,0 +1,1 @@
+{"answer": "C", "question": "What should you say when meeting an American for the first time?", "id": "high1118.txt"}

@@ -1,0 +1,1 @@
+{"answer": "B", "question": "China's educational system will   _   in the future.", "id": "high2822.txt"}

@@ -1,0 +1,1 @@
+{"answer": "C", "question": "What is Arctic ice doing earlier each year?", "id": "high873.txt"}

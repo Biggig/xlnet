@@ -1,0 +1,1 @@
+{"answer": "C", "question": "what can we conclude from Skaar's action in the fire?", "id": "high21541.txt"}

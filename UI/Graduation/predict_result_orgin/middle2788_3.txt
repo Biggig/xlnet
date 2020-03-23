@@ -1,0 +1,1 @@
+{"answer": "A", "question": "Which answer to the following questions can be found out from the passage?", "id": "middle2788.txt"}

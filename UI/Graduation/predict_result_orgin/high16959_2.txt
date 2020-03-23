@@ -1,0 +1,1 @@
+{"answer": "D", "question": "Suppose Mr Fernando has just been back from prefix = st1 /Mexicoand he's got a high fever and runny nose, what shall he do?", "id": "high16959.txt"}

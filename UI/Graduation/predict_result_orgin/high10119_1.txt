@@ -1,0 +1,1 @@
+{"answer": "D", "question": "According to the article, how do visitors to Iceland have fun in the winter?", "id": "high10119.txt"}

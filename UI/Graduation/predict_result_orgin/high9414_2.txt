@@ -1,0 +1,1 @@
+{"answer": "A", "question": "The cheque was written by   _  .", "id": "high9414.txt"}

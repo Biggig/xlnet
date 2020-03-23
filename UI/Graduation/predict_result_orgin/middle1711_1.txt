@@ -1,0 +1,1 @@
+{"answer": "B", "question": "From what Ebelin Reyes and Shirley Park said, we know  _  .", "id": "middle1711.txt"}

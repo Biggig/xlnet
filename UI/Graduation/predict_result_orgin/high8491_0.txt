@@ -1,0 +1,1 @@
+{"answer": "A", "question": "The recent scientific studies have shown that plants can   _  .", "id": "high8491.txt"}

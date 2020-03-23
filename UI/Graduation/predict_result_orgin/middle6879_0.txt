@@ -1,0 +1,1 @@
+{"answer": "A", "question": "What's special at the Hangzhou Entel Foreign Language School?", "id": "middle6879.txt"}

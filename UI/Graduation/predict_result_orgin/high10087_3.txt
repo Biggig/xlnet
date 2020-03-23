@@ -1,0 +1,1 @@
+{"answer": "D", "question": "About osteoporosis, we know that   _  .", "id": "high10087.txt"}

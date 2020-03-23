@@ -1,0 +1,1 @@
+{"answer": "C", "question": "The fact that many luxury brands have flocked into China shows that   _  .", "id": "high1338.txt"}

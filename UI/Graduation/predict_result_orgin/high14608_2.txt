@@ -1,0 +1,1 @@
+{"answer": "D", "question": "How long does the research of the Greeks last?", "id": "high14608.txt"}

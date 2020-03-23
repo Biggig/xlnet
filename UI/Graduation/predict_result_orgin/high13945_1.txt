@@ -1,0 +1,1 @@
+{"answer": "A", "question": "A thriller is most probably a film which tells something   _  .", "id": "high13945.txt"}

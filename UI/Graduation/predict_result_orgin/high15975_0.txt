@@ -1,0 +1,1 @@
+{"answer": "C", "question": "According to the recent public meeting in Brisbane, what was the first step to take in order to reduce noise pollution?", "id": "high15975.txt"}

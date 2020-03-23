@@ -1,0 +1,1 @@
+{"answer": "C", "question": "What made Mary Cassatt's \"struggle\" to become a recognized artist especially hard?", "id": "high10132.txt"}

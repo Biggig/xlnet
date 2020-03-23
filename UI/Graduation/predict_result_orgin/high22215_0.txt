@@ -1,0 +1,1 @@
+{"answer": "C", "question": "The Brazilian plane crash caused extra deaths mainly because  _", "id": "high22215.txt"}

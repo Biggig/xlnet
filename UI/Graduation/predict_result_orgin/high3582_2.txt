@@ -1,0 +1,1 @@
+{"answer": "A", "question": "What's \"Gangnam Style\" about?", "id": "high3582.txt"}

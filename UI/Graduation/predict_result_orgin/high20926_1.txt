@@ -1,0 +1,1 @@
+{"answer": "C", "question": "Seeing David smashing the potato chips, the counselor did the same thing in response because he  _  .", "id": "high20926.txt"}

@@ -1,0 +1,1 @@
+{"answer": "C", "question": "The following are thought to have made contributions to the popularity of online shoppingEXCEPT  _  .", "id": "high7148.txt"}

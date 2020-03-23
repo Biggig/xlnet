@@ -1,0 +1,1 @@
+{"answer": "D", "question": "According to the passage, what is one of the reasons that made David homeless?", "id": "high18079.txt"}

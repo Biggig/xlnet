@@ -1,0 +1,1 @@
+{"answer": "A", "question": "What is Google used mainly for?", "id": "high13548.txt"}

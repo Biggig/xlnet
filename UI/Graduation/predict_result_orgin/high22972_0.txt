@@ -1,0 +1,1 @@
+{"answer": "C", "question": "According to the passage, why do some students stop drinking milk?", "id": "high22972.txt"}

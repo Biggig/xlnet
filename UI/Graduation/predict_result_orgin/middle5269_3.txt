@@ -1,0 +1,1 @@
+{"answer": "D", "question": "In the elephant family,there are  _  .", "id": "middle5269.txt"}

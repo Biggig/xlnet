@@ -1,0 +1,1 @@
+{"answer": "A", "question": "When traveling abroad, you may fail to check in if you   _  .", "id": "high20138.txt"}

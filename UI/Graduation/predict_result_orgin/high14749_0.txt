@@ -1,0 +1,1 @@
+{"answer": "D", "question": "In Mark Twain's childhood,   _  .", "id": "high14749.txt"}

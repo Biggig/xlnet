@@ -1,0 +1,1 @@
+{"answer": "A", "question": "Which one is NOT mentioned in this passage that can be the source of carbon dioxide?", "id": "high22960.txt"}

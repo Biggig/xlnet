@@ -1,0 +1,1 @@
+{"answer": "C", "question": "_   challenge Bush to do so.", "id": "middle4902.txt"}

@@ -1,0 +1,1 @@
+{"answer": "D", "question": "Which is the place for people to spend time with others according to the passage?", "id": "high4380.txt"}

@@ -1,0 +1,1 @@
+{"answer": "D", "question": "The purpose of the study attended by 99 college students is to  _  .", "id": "high15346.txt"}

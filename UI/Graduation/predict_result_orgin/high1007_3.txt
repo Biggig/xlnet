@@ -1,0 +1,1 @@
+{"answer": "C", "question": "Locals of the Oregon coast are afraid of the relay because   _  .", "id": "high1007.txt"}

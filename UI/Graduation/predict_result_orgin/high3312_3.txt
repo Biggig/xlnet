@@ -1,0 +1,1 @@
+{"answer": "A", "question": "Lightning Ridge is a place where dreams can be fulfilled because   _  .", "id": "high3312.txt"}

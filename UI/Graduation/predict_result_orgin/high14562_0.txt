@@ -1,0 +1,1 @@
+{"answer": "D", "question": "What do we know about the Singapore Women's Everest Team?", "id": "high14562.txt"}

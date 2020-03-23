@@ -1,0 +1,1 @@
+{"answer": "B", "question": "We can learn from the text that Artemisinin has a good effect on   _   .", "id": "high13232.txt"}

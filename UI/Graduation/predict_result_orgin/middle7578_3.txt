@@ -1,0 +1,1 @@
+{"answer": "C", "question": "The passage mainly wants to tell us   _  .", "id": "middle7578.txt"}

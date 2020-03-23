@@ -1,0 +1,1 @@
+{"answer": "C", "question": "Thanks are given to the Centerville Writers' Association because it has  _  .", "id": "high712.txt"}

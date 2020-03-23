@@ -1,0 +1,1 @@
+{"answer": "C", "question": "Which of the following does professor Cavazos-Rehg agree?", "id": "high17984.txt"}

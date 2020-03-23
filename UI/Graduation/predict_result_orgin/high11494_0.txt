@@ -1,0 +1,1 @@
+{"answer": "D", "question": "If ten people are playing musical chairs,you must begin with   _  .", "id": "high11494.txt"}

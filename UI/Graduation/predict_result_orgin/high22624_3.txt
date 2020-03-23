@@ -1,0 +1,1 @@
+{"answer": "B", "question": "Which of the following relationships is healthy?", "id": "high22624.txt"}

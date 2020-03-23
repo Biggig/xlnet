@@ -1,0 +1,1 @@
+{"answer": "C", "question": "Why has Chen been called \"market manager\"?", "id": "high18743.txt"}

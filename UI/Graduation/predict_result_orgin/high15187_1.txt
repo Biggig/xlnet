@@ -1,0 +1,1 @@
+{"answer": "B", "question": "One of the nicknames for the policeman, \"peeler\"   _   .", "id": "high15187.txt"}

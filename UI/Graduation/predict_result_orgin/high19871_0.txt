@@ -1,0 +1,1 @@
+{"answer": "A", "question": "Who are to blame for India's poor education according to Vinati Sukhdev?", "id": "high19871.txt"}

@@ -1,0 +1,1 @@
+{"answer": "C", "question": "Why people from 18 countries came to Washington this year?", "id": "high10611.txt"}

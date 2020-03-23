@@ -1,0 +1,1 @@
+{"answer": "A", "question": "Which President was in office when the decoration of the White House was completed?", "id": "high13780.txt"}

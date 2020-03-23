@@ -1,0 +1,1 @@
+{"answer": "A", "question": "Daniel Burd exposed one plastic sample to dead bacteria to   _  .", "id": "high4763.txt"}

@@ -1,0 +1,1 @@
+{"answer": "D", "question": "The case of the woman wearing a face mask shows   _  .", "id": "high22273.txt"}

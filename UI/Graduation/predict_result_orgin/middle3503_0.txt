@@ -1,0 +1,1 @@
+{"answer": "B", "question": "Which of the following would be a good example of using the phrase \"once in a blue moon\"?", "id": "middle3503.txt"}

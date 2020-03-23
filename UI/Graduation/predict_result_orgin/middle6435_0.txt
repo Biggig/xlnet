@@ -1,0 +1,1 @@
+{"answer": "A", "question": "According to the passage,   _  are the most honest people.", "id": "middle6435.txt"}

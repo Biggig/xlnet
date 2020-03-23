@@ -1,0 +1,1 @@
+{"answer": "D", "question": "We can imagine that the waitress might feel  _  when she got the tip.", "id": "middle2518.txt"}

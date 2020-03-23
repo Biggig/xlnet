@@ -1,0 +1,1 @@
+{"answer": "A", "question": "The author takes \"the merger between Dell and EMC\" for example to show   _  .", "id": "high13680.txt"}

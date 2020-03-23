@@ -1,0 +1,1 @@
+{"answer": "A", "question": "The timetable can be seen in   _  .", "id": "high2202.txt"}

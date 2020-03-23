@@ -1,0 +1,1 @@
+{"answer": "D", "question": "Present weather forecasting technology   _   .", "id": "high15955.txt"}

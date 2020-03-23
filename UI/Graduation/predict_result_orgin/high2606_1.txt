@@ -1,0 +1,1 @@
+{"answer": "B", "question": "Which of the following gives you the most for your money if you buy the baked goods?", "id": "high2606.txt"}

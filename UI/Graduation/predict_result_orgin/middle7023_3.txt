@@ -1,0 +1,1 @@
+{"answer": "A", "question": "The old mall said, \"Yes, I do.\" \"I do\" here means   _  .", "id": "middle7023.txt"}

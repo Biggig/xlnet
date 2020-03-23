@@ -1,0 +1,1 @@
+{"answer": "B", "question": "All of the following EXCEPT   _   are keywords in representing the fashion of our generation.", "id": "high1338.txt"}

@@ -1,0 +1,1 @@
+{"answer": "A", "question": "Which proverb can best describe the story?", "id": "high1956.txt"}

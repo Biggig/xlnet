@@ -1,0 +1,1 @@
+{"answer": "D", "question": "According to Mark Mulligan, the best solution to illegal music downloading is to   _  .", "id": "high21840.txt"}

@@ -1,0 +1,1 @@
+{"answer": "D", "question": "What do we know about Mary Cassatt's marriage?", "id": "high10132.txt"}

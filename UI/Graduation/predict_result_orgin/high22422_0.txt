@@ -1,0 +1,1 @@
+{"answer": "C", "question": "From the text we know that the highest waterfalls in the world is  _  .", "id": "high22422.txt"}

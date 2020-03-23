@@ -1,0 +1,1 @@
+{"answer": "A", "question": "If Mike has free time from February 6 to 8, which city would he fly to for a recruitment conference?", "id": "high20562.txt"}

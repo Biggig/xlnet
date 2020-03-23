@@ -1,0 +1,1 @@
+{"answer": "B", "question": "Which statement is NOT the reason why the Politechnic decided to use only English in class?", "id": "high11419.txt"}

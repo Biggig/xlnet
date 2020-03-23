@@ -1,0 +1,1 @@
+{"answer": "D", "question": "The question \"How do you feel?\" seems to be correct and suitable when asked of   _  .", "id": "high20013.txt"}

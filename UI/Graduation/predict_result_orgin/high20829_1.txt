@@ -1,0 +1,1 @@
+{"answer": "C", "question": "In which age group do women fall behind men in the use of the Internet?", "id": "high20829.txt"}

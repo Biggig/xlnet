@@ -1,0 +1,1 @@
+{"answer": "D", "question": "According to the text, Poor Richard is a person who   _  .", "id": "middle5853.txt"}

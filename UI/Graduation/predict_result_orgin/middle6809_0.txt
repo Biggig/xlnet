@@ -1,0 +1,1 @@
+{"answer": "C", "question": "In the writer's opinion, why do some people criticize her mother", "id": "middle6809.txt"}

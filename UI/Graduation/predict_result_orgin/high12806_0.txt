@@ -1,0 +1,1 @@
+{"answer": "B", "question": "What do we learn about the bottlenecks on the way to Mount Qomolangma's peak?", "id": "high12806.txt"}

@@ -1,0 +1,1 @@
+{"answer": "C", "question": "Why is The butterfly Ecological Park situated at the foot of the Longmen Mountain?", "id": "high653.txt"}

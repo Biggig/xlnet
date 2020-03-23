@@ -1,0 +1,1 @@
+{"answer": "B", "question": "To deal with the problems, human beings should   _  according to the passage.", "id": "high4795.txt"}

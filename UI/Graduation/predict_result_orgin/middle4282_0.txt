@@ -1,0 +1,1 @@
+{"answer": "B", "question": "Members of EXO come from   _  .", "id": "middle4282.txt"}

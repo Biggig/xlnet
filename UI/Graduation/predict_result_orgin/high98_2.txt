@@ -1,0 +1,1 @@
+{"answer": "D", "question": "How much did the writer pay for his first meal at Frigo's?", "id": "high98.txt"}

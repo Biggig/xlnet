@@ -1,0 +1,1 @@
+{"answer": "B", "question": "How did Steve put out the flames in Ronnie's legs?", "id": "high23985.txt"}

@@ -1,0 +1,1 @@
+{"answer": "B", "question": "We can infer the poem mentioned in this passage by Li Bai is   _  .", "id": "middle2163.txt"}

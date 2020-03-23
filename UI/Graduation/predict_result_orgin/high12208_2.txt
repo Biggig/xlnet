@@ -1,0 +1,1 @@
+{"answer": "C", "question": "The city council of Edinburgh rejected the suggestion to open a huge landfill site near Portobello because     .", "id": "high12208.txt"}

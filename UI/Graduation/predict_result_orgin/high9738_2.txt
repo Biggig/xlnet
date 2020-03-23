@@ -1,0 +1,1 @@
+{"answer": "D", "question": "The reception normally takes place in the bride's home if  _  .", "id": "high9738.txt"}

@@ -1,0 +1,1 @@
+{"answer": "D", "question": "What made the U.S. decide to drop the atomic bombs over Japan?", "id": "high9107.txt"}

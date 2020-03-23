@@ -1,0 +1,1 @@
+{"answer": "B", "question": "Weathermen believe that our future climate will be the direct result of  _  .", "id": "high21497.txt"}

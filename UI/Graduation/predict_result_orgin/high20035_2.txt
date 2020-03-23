@@ -1,0 +1,1 @@
+{"answer": "B", "question": "The word\" extinction\"in this report most properly means\"  _  \" .", "id": "high20035.txt"}

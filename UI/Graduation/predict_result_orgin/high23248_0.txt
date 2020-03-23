@@ -1,0 +1,1 @@
+{"answer": "C", "question": "What do people in other countries think of Frenchmen according to the passage?", "id": "high23248.txt"}

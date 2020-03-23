@@ -1,0 +1,1 @@
+{"answer": "D", "question": "The writer once tried to avoid meetings with adults because   _  .", "id": "high8793.txt"}

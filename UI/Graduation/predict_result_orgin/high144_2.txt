@@ -1,0 +1,1 @@
+{"answer": "B", "question": "How did Mira know the lights confused the turtles?", "id": "high144.txt"}

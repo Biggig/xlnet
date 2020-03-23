@@ -1,0 +1,1 @@
+{"answer": "A", "question": "From the passage, we can learn that the author's attitude to professional deception is    _   .", "id": "high15813.txt"}

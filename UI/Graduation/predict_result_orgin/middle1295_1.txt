@@ -1,0 +1,1 @@
+{"answer": "A", "question": "Which of the following is NOT the cause of penguin's decrease in numbers?", "id": "middle1295.txt"}

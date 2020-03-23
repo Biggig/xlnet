@@ -1,0 +1,1 @@
+{"answer": "A", "question": "In which year was The Times born?", "id": "high17808.txt"}

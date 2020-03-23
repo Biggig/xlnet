@@ -1,0 +1,1 @@
+{"answer": "B", "question": "About the ambitious journey ,which is NIT mentioned in the passage?", "id": "high3487.txt"}

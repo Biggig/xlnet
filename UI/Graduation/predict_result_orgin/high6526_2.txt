@@ -1,0 +1,1 @@
+{"answer": "C", "question": "What dose the boss mean in Joke 2?", "id": "high6526.txt"}

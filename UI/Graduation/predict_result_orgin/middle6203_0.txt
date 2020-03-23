@@ -1,0 +1,1 @@
+{"answer": "C", "question": "Which lesson was the most boring of all before Karl arrived?", "id": "middle6203.txt"}

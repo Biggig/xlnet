@@ -1,0 +1,1 @@
+{"answer": "B", "question": "What is the best way to protect children from improper material?", "id": "high1536.txt"}

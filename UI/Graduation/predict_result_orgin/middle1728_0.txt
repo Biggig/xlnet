@@ -1,0 +1,1 @@
+{"answer": "A", "question": "Mo is the first Nobel winner in   _   born and living in China.", "id": "middle1728.txt"}

@@ -1,0 +1,1 @@
+{"answer": "B", "question": "The feature of the \"coal-mine-themed\" ride is", "id": "high6795.txt"}

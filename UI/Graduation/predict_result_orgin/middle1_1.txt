@@ -1,0 +1,1 @@
+{"answer": "D", "question": "The new way of learning is said to give students more chances to  _  .", "id": "middle1.txt"}

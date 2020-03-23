@@ -1,0 +1,1 @@
+{"answer": "C", "question": "According to this passage, we can know that Jeannie is Lee Ann's  _  .", "id": "high80.txt"}

@@ -1,0 +1,1 @@
+{"answer": "C", "question": "43. Dom said that the most important thing in this accident was that   _   .", "id": "high16062.txt"}

@@ -1,0 +1,1 @@
+{"answer": "D", "question": "If you want to apply for assistant to the director positions you must   _  .", "id": "high20772.txt"}

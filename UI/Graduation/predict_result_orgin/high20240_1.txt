@@ -1,0 +1,1 @@
+{"answer": "A", "question": "There is nothing new under the sun really implies that   _  .", "id": "high20240.txt"}

@@ -1,0 +1,1 @@
+{"answer": "C", "question": "People woken during REM sleep can  _  .", "id": "high5942.txt"}

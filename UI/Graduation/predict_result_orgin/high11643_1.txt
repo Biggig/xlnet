@@ -1,0 +1,1 @@
+{"answer": "D", "question": "Doctors were worried about using TXA because   _", "id": "high11643.txt"}

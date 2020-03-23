@@ -1,0 +1,1 @@
+{"answer": "A", "question": "After finding a plant occupied by root-eating insects, aboveground insects will usually   _  .", "id": "high21993.txt"}

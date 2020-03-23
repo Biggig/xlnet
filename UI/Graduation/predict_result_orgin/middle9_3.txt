@@ -1,0 +1,1 @@
+{"answer": "A", "question": "From the passage we can guess the animal \"giraffe \"must be very  _  .", "id": "middle9.txt"}

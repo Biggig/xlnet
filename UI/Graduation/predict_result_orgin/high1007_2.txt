@@ -1,0 +1,1 @@
+{"answer": "A", "question": "If Lisa wants to learn more about an outing in Oregon, she may visit   _  .", "id": "high1007.txt"}

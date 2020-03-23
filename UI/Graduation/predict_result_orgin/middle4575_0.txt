@@ -1,0 +1,1 @@
+{"answer": "D", "question": "The Opening Ceremony of the 17thAsian Games was held on   _  .", "id": "middle4575.txt"}

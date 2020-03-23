@@ -1,0 +1,1 @@
+{"answer": "B", "question": "How many days was the winter ice season of Arctic 1akes in 2011 shorter than that in 1950?", "id": "high12013.txt"}

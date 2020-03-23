@@ -1,0 +1,1 @@
+{"answer": "B", "question": "What is the result if Arabica coffee has less production?", "id": "high19668.txt"}

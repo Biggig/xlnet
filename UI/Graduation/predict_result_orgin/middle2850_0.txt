@@ -1,0 +1,1 @@
+{"answer": "C", "question": "What should their parents do when teenagers make friends?", "id": "middle2850.txt"}

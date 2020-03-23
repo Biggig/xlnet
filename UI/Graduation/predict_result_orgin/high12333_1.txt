@@ -1,0 +1,1 @@
+{"answer": "D", "question": "The elephants can do the following during their holiday EXCEPT  _  .", "id": "high12333.txt"}

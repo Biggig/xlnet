@@ -1,0 +1,1 @@
+{"answer": "D", "question": "According to the passage, a person who sees a tornado in his area had better NOT   _  .", "id": "high1495.txt"}

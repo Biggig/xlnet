@@ -1,0 +1,1 @@
+{"answer": "B", "question": "The 3-year-old girl was punished by her father for  _  .", "id": "high13996.txt"}

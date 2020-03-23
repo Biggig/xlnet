@@ -1,0 +1,1 @@
+{"answer": "A", "question": "According to the passage ,_is one of the necessary conditions to run a bookshop .", "id": "high24053.txt"}

@@ -1,0 +1,1 @@
+{"answer": "B", "question": "Just before the carpenter came, John and Bob  _  each other.", "id": "high5471.txt"}

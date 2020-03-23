@@ -1,0 +1,1 @@
+{"answer": "D", "question": "Maintaining the required temperature takes little energy because   _  .", "id": "high4763.txt"}

@@ -1,0 +1,1 @@
+{"answer": "A", "question": "In the author's view, what can students benefit from the journal writing?", "id": "high2301.txt"}

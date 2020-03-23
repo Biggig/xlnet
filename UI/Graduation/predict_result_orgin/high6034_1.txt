@@ -1,0 +1,1 @@
+{"answer": "C", "question": "Hollis refused to send Blanchard a photo because  _  .", "id": "high6034.txt"}

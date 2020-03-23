@@ -1,0 +1,1 @@
+{"answer": "C", "question": "With whom does the author sing the songZhongguo Nian ?", "id": "high1373.txt"}

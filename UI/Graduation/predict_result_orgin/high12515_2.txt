@@ -1,0 +1,1 @@
+{"answer": "D", "question": "As an adult, the author views summer rain differently because   _  .", "id": "high12515.txt"}

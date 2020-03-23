@@ -1,0 +1,1 @@
+{"answer": "B", "question": "The celebrations held at the Pattaya Resort aimed to   _  .", "id": "high9116.txt"}

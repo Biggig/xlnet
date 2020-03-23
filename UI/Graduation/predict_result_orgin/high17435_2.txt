@@ -1,0 +1,1 @@
+{"answer": "B", "question": "Why do large companies have difficulty switching to new markets?", "id": "high17435.txt"}

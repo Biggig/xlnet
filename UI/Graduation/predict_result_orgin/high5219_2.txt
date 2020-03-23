@@ -1,0 +1,1 @@
+{"answer": "B", "question": "What does the author mean by saying the last sentence?", "id": "high5219.txt"}

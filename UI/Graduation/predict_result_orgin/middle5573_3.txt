@@ -1,0 +1,1 @@
+{"answer": "D", "question": "What does the user mean by saying \"After 14 days of detention, Ko's acting skills grew a lot\"?", "id": "middle5573.txt"}

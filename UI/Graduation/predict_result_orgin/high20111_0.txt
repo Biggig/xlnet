@@ -1,0 +1,1 @@
+{"answer": "B", "question": "The recent study shows blind people are better at telling   _  .", "id": "high20111.txt"}

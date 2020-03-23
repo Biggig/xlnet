@@ -1,0 +1,1 @@
+{"answer": "C", "question": "If you earn PS5,000 from renting a room in one year, the tax you need to pay will be based on   _  .", "id": "middle1609.txt"}

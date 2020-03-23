@@ -1,0 +1,1 @@
+{"answer": "A", "question": "What did the local people do to help those in the flooded area according to the passage?", "id": "high19432.txt"}

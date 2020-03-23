@@ -1,0 +1,1 @@
+{"answer": "B", "question": "When the writer says that Jim has a full-time job at home, he means Jim   _  .", "id": "middle1837.txt"}

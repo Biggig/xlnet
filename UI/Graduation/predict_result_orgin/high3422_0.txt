@@ -1,0 +1,1 @@
+{"answer": "D", "question": "New rules for pubs and clubs will be introduced in Britain to ban heavy drinking because   _  .", "id": "high3422.txt"}

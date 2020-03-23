@@ -1,0 +1,1 @@
+{"answer": "D", "question": "In Siem Reap you can see the following EXCEPT   _  .", "id": "high17050.txt"}

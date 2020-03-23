@@ -1,0 +1,1 @@
+{"answer": "A", "question": "Selling a used cell phone to Simply Sellular, you will get   _  .", "id": "high23682.txt"}

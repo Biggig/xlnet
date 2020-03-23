@@ -1,0 +1,1 @@
+{"answer": "B", "question": "The word SEASICK means\"  _  \".", "id": "high11747.txt"}

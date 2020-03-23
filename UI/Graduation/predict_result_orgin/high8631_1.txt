@@ -1,0 +1,1 @@
+{"answer": "D", "question": "Some people wear lucky shirts to take an exam because they believe  _  .", "id": "high8631.txt"}

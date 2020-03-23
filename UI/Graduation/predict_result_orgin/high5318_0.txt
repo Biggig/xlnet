@@ -1,0 +1,1 @@
+{"answer": "B", "question": "Many of the \"Dutch\" expressions were invented with negative sense, because   _  .", "id": "high5318.txt"}

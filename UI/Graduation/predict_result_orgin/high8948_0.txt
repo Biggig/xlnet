@@ -1,0 +1,1 @@
+{"answer": "A", "question": "What's the disadvantage by adding all numbers to the contacts list?", "id": "high8948.txt"}

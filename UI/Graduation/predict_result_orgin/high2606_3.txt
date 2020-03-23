@@ -1,0 +1,1 @@
+{"answer": "C", "question": "How much should you pay for an order totaling $50 for the expedited ground  ?", "id": "high2606.txt"}

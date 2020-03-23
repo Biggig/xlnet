@@ -1,0 +1,1 @@
+{"answer": "B", "question": "The author mentions the example of crying baby in order to  _", "id": "high19898.txt"}

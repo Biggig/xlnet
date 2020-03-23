@@ -1,0 +1,1 @@
+{"answer": "A", "question": "The author makes  points of how peers have a positive influence on each other.", "id": "middle1234.txt"}

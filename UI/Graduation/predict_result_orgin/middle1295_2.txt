@@ -1,0 +1,1 @@
+{"answer": "B", "question": "Why are the penguins in South Africa reproducing in higher numbers than before the oil leaking?", "id": "middle1295.txt"}

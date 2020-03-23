@@ -1,0 +1,1 @@
+{"answer": "C", "question": "Which of the following probably belongs to the action of the permissive parents?", "id": "high11706.txt"}

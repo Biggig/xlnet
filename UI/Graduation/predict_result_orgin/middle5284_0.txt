@@ -1,0 +1,1 @@
+{"answer": "B", "question": "When did Adams have mental health problems?", "id": "middle5284.txt"}

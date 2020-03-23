@@ -1,0 +1,1 @@
+{"answer": "B", "question": "Every year humans kill    _    all over the world.", "id": "high15461.txt"}

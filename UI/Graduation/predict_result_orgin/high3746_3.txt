@@ -1,0 +1,1 @@
+{"answer": "B", "question": "Which of the following best explains the use of a dawn simulator?", "id": "high3746.txt"}

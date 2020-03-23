@@ -1,0 +1,1 @@
+{"answer": "A", "question": "Where did Victory Bacelis grow up?", "id": "middle7429.txt"}

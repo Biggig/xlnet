@@ -1,0 +1,1 @@
+{"answer": "B", "question": "Hundreds of people phoned professor Sabbatucci because they   _  .", "id": "high24064.txt"}

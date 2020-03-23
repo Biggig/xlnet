@@ -1,0 +1,1 @@
+{"answer": "A", "question": "According to the passage, when did American President first visit a foreign country?", "id": "high13780.txt"}

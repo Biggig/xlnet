@@ -1,0 +1,1 @@
+{"answer": "D", "question": "To finish the journey ,he will fly a distance of  _", "id": "high3487.txt"}

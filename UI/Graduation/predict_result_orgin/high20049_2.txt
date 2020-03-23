@@ -1,0 +1,1 @@
+{"answer": "B", "question": "What is the purpose of the writer to give the example of Beijing Salt Industry Corporation?", "id": "high20049.txt"}

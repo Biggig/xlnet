@@ -1,0 +1,1 @@
+{"answer": "D", "question": "All the following are the reasons for the expansion of the deserts EXCEPT  _  .", "id": "high13919.txt"}

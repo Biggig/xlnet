@@ -1,0 +1,1 @@
+{"answer": "C", "question": "To solve the problem of child labor, the writer suggests the following BUT   _  .", "id": "high11414.txt"}

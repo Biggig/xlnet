@@ -1,0 +1,1 @@
+{"answer": "A", "question": "Which country may the author come from?", "id": "high22520.txt"}

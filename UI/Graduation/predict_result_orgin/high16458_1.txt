@@ -1,0 +1,1 @@
+{"answer": "D", "question": "According to the passage, which of the following is most probably the writer's problem as a new teacher?", "id": "high16458.txt"}

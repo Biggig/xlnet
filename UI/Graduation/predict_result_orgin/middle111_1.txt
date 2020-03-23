@@ -1,0 +1,1 @@
+{"answer": "C", "question": "The man who touched the elephant's ears must be very  _  .", "id": "middle111.txt"}

@@ -1,0 +1,1 @@
+{"answer": "C", "question": "According to Greg, Heaven in the future is a place where   _  .", "id": "high8407.txt"}

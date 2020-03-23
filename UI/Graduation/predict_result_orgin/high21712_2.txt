@@ -1,0 +1,1 @@
+{"answer": "C", "question": "When Hoover started to give his speech,   _  .", "id": "high21712.txt"}

@@ -1,0 +1,1 @@
+{"answer": "A", "question": "The main idea of the Shanghai World Expo is \"  _  \"", "id": "middle7896.txt"}

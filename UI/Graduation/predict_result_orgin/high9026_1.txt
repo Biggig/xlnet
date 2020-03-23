@@ -1,0 +1,1 @@
+{"answer": "A", "question": "With the system of the United States Postal Service, people can   _  .", "id": "high9026.txt"}

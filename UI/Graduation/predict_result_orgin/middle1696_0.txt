@@ -1,0 +1,1 @@
+{"answer": "B", "question": "Kyle walked into Ernie's Pet World and he walked   _   to the front counter .", "id": "middle1696.txt"}

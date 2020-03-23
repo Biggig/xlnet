@@ -1,0 +1,1 @@
+{"answer": "A", "question": "In the last experiment, most babies chose the helper character, showing that  _  .", "id": "high980.txt"}

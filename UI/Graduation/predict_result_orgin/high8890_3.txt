@@ -1,0 +1,1 @@
+{"answer": "A", "question": "Young oncologists will face the following challenges except  _  .", "id": "high8890.txt"}

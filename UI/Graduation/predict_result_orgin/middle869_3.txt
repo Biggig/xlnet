@@ -1,0 +1,1 @@
+{"answer": "D", "question": "American teenagers like to babysit because they   _  .", "id": "middle869.txt"}

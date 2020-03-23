@@ -1,0 +1,1 @@
+{"answer": "D", "question": ".  . The driver of the bus is   _  .", "id": "high12046.txt"}

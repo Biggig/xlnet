@@ -1,0 +1,1 @@
+{"answer": "D", "question": "If you have already made an appointment with a lady at the ball,  _  .", "id": "high8032.txt"}

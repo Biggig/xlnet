@@ -1,0 +1,1 @@
+{"answer": "B", "question": "People are ecouraged to use rainwater   _  .", "id": "high5906.txt"}

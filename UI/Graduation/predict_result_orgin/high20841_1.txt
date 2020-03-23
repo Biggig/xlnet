@@ -1,0 +1,1 @@
+{"answer": "A", "question": "Grandparents discuss with their grandchildren on various topics EXCEPT   _  .", "id": "high20841.txt"}

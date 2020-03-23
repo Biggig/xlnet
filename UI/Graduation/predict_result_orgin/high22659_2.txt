@@ -1,0 +1,1 @@
+{"answer": "D", "question": "A possible solution to the crisis, what Figaro suggests is   _  .", "id": "high22659.txt"}

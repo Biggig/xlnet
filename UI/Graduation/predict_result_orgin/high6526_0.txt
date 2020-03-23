@@ -1,0 +1,1 @@
+{"answer": "C", "question": "The wife became angry suddenly in Joke 1 because   _  .", "id": "high6526.txt"}

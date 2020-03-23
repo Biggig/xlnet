@@ -1,0 +1,1 @@
+{"answer": "C", "question": "By saying that \"many people go to college who do not belong there\", the author means that   _  .", "id": "high7692.txt"}

@@ -1,0 +1,1 @@
+{"answer": "A", "question": "It is a cognitive scientists job to study  _  .", "id": "high15346.txt"}

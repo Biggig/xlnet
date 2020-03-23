@@ -1,0 +1,1 @@
+{"answer": "B", "question": "Which is the first important thing for people's lives?", "id": "middle1588.txt"}

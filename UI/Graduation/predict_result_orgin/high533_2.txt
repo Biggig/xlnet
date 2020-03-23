@@ -1,0 +1,1 @@
+{"answer": "D", "question": "According to Robert Epstein, how can we refocus on what we should do?", "id": "high533.txt"}

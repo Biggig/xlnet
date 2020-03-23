@@ -1,0 +1,1 @@
+{"answer": "B", "question": "If you get 17/F/NY as an answer to your A/S/L, it means   _   .", "id": "high16096.txt"}

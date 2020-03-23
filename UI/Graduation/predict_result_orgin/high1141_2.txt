@@ -1,0 +1,1 @@
+{"answer": "B", "question": "Doctor Strong's books are very popular in America because   _  .", "id": "high1141.txt"}

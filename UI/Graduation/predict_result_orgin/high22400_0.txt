@@ -1,0 +1,1 @@
+{"answer": "C", "question": "The \"new city within Dubai\" will   _  .", "id": "high22400.txt"}

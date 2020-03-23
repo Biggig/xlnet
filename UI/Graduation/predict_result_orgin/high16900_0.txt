@@ -1,0 +1,1 @@
+{"answer": "A", "question": "What is Ms Morris's attitude towards the customer service manager?", "id": "high16900.txt"}

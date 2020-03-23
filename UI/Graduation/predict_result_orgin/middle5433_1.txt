@@ -1,0 +1,1 @@
+{"answer": "B", "question": "Lin Tao doesn't speak t  the first year because   _  .", "id": "middle5433.txt"}

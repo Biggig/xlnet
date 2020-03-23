@@ -1,0 +1,1 @@
+{"answer": "C", "question": "When one of your best friend has suddenly fallen badly ill, you usually   _  to show your worry about his health and try your best to care for him.", "id": "middle3056.txt"}

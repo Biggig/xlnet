@@ -1,0 +1,1 @@
+{"answer": "D", "question": "Skateboarding is introduced into American schools to   _  .[", "id": "high17644.txt"}

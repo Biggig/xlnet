@@ -1,0 +1,1 @@
+{"answer": "C", "question": "Which hotel would invite artists to come to work every year?", "id": "high11841.txt"}

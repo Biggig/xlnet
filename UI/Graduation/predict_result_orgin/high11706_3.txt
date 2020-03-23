@@ -1,0 +1,1 @@
+{"answer": "B", "question": "According to the passage, children are more likely to obey the rules when   _  .", "id": "high11706.txt"}

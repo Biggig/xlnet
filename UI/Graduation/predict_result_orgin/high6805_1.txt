@@ -1,0 +1,1 @@
+{"answer": "D", "question": "In Roland Fryer's research, some students did better than the others because   _   .", "id": "high6805.txt"}

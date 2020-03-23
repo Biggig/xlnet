@@ -1,0 +1,1 @@
+{"answer": "B", "question": "According to the writer, in an aptitude test, Chinese job applicants should  _  .", "id": "high13661.txt"}

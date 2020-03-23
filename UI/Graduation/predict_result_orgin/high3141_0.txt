@@ -1,0 +1,1 @@
+{"answer": "B", "question": "When shoes were first made, their main use was to   _  .", "id": "high3141.txt"}

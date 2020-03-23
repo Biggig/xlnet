@@ -1,0 +1,1 @@
+{"answer": "B", "question": "Why did Daisy Jones deactivate her account?", "id": "high12448.txt"}

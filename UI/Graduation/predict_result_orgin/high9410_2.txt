@@ -1,0 +1,1 @@
+{"answer": "D", "question": "Why does the woman dress her children in the same clothes? Because   _  .", "id": "high9410.txt"}

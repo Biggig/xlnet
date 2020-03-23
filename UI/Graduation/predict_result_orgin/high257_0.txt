@@ -1,0 +1,1 @@
+{"answer": "B", "question": "What do most people worry about the Internet according to this passage?", "id": "high257.txt"}

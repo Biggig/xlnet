@@ -1,0 +1,1 @@
+{"answer": "D", "question": "When did Lang Lang and his father come to Beijing?", "id": "high18193.txt"}

@@ -1,0 +1,1 @@
+{"answer": "A", "question": ". Gregory Peck is most probably the name of  _  .", "id": "high12164.txt"}

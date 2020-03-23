@@ -1,0 +1,1 @@
+{"answer": "B", "question": "Which company's chatbot program can act as an academic consultant?", "id": "high13124.txt"}

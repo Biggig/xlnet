@@ -1,0 +1,1 @@
+{"answer": "C", "question": "The author implies in this article that   _  .", "id": "high19333.txt"}

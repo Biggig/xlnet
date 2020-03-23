@@ -1,0 +1,1 @@
+{"answer": "A", "question": "According to the passage, Ronnie put the truck in the ditch because of   _  .", "id": "high23985.txt"}

@@ -1,0 +1,1 @@
+{"answer": "A", "question": "The girls at Paget High School are not allowed to wear skirts in that    _  .", "id": "high132.txt"}

@@ -1,0 +1,1 @@
+{"answer": "B", "question": "Which of following riding adventures can tourists take on Route 66?", "id": "high1229.txt"}

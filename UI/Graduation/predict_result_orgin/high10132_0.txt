@@ -1,0 +1,1 @@
+{"answer": "D", "question": "How did Mr Cassatt react when his daughter made her announcement?", "id": "high10132.txt"}

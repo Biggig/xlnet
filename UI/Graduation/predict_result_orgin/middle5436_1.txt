@@ -1,0 +1,1 @@
+{"answer": "C", "question": "Why is the weather of Kinsale nice? Because   _   .", "id": "middle5436.txt"}

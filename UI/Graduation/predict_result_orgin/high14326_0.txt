@@ -1,0 +1,1 @@
+{"answer": "B", "question": "Which of the following helps alert officers if someone stops breathing ?", "id": "high14326.txt"}

@@ -1,0 +1,1 @@
+{"answer": "B", "question": "Why is the author against the idea of putting a dog in the Christmas stocking as a Christmas gift?", "id": "high2938.txt"}

@@ -1,0 +1,1 @@
+{"answer": "B", "question": "Apart from altitude, how many factors raise the chance of developing heart disease?", "id": "high14608.txt"}

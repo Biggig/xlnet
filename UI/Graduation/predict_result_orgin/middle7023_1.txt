@@ -1,0 +1,1 @@
+{"answer": "D", "question": "Mr. and Mrs. Green enjoyed the country because   _  .", "id": "middle7023.txt"}

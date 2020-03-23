@@ -1,0 +1,1 @@
+{"answer": "C", "question": "Which city's development was greatly influenced by war?", "id": "high17050.txt"}

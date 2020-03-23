@@ -1,0 +1,1 @@
+{"answer": "B", "question": "In many parts of the world, man has not realized that trees help to  _", "id": "middle1568.txt"}

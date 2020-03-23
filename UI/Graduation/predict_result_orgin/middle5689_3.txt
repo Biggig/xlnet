@@ -1,0 +1,1 @@
+{"answer": "B", "question": "Harry is   _   years older than (......) Yang Yue.", "id": "middle5689.txt"}

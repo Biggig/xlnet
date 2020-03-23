@@ -1,0 +1,1 @@
+{"answer": "B", "question": "In the cartoon, Pluto is a   _   dog.", "id": "middle926.txt"}

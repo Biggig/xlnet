@@ -1,0 +1,1 @@
+{"answer": "B", "question": "Which of the following is NOT TRUE about the comments on the book 1491?", "id": "high5999.txt"}

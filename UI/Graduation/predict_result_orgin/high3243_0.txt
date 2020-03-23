@@ -1,0 +1,1 @@
+{"answer": "D", "question": "The purpose of the Homeless World Cup is to  _  .", "id": "high3243.txt"}

@@ -1,0 +1,1 @@
+{"answer": "C", "question": "What does the word \"cup\" in this passage refer to?", "id": "high1961.txt"}

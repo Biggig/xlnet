@@ -1,0 +1,1 @@
+{"answer": "D", "question": "When a picnic plan is threatened by a sudden storm, reactive people will probably    _   .", "id": "high16228.txt"}

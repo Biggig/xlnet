@@ -1,0 +1,1 @@
+{"answer": "A", "question": "Cancienne and his team made no money from the project because   _  .", "id": "high21884.txt"}

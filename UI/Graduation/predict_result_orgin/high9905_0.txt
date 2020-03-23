@@ -1,0 +1,1 @@
+{"answer": "C", "question": "What's the general manager's purpose of giving a seed to each of his employees?", "id": "high9905.txt"}

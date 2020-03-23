@@ -1,0 +1,1 @@
+{"answer": "B", "question": "What does Lin Yuhan put on her QQ blog?", "id": "high5047.txt"}

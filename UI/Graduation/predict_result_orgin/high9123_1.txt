@@ -1,0 +1,1 @@
+{"answer": "D", "question": "Who saved Megan Smith from the damaged car?", "id": "high9123.txt"}

@@ -1,0 +1,1 @@
+{"answer": "A", "question": "Those who feed pets on raw should do some necessary cleaning when   _  .", "id": "high12540.txt"}

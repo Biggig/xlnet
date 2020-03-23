@@ -1,0 +1,1 @@
+{"answer": "C", "question": "July and August are the brightest months for most children, for they can  _  .", "id": "high8178.txt"}

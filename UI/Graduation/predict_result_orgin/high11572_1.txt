@@ -1,0 +1,1 @@
+{"answer": "C", "question": "How many buoys would at least be needed for global tsunami warnings within half an hour?", "id": "high11572.txt"}

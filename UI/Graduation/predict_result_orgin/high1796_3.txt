@@ -1,0 +1,1 @@
+{"answer": "B", "question": "What is Soren Andreasen's view of the report?", "id": "high1796.txt"}

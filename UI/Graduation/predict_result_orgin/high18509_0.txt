@@ -1,0 +1,1 @@
+{"answer": "B", "question": "It is impolite to lift the soup plate to your mouth in   _  .", "id": "high18509.txt"}

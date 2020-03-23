@@ -1,0 +1,1 @@
+{"answer": "D", "question": "If a man knows judo, he   _  .", "id": "high3530.txt"}

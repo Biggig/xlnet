@@ -1,0 +1,1 @@
+{"answer": "C", "question": "Some scientists believe the dinosaurs became extinct because   _  .", "id": "high1078.txt"}

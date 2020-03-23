@@ -1,0 +1,1 @@
+{"answer": "A", "question": "According to the last two passages, we can see Li Wan is a   _   person.", "id": "high23271.txt"}

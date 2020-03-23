@@ -1,0 +1,1 @@
+{"answer": "A", "question": "Benny was determined to be a comedian after he   _  .", "id": "high6222.txt"}

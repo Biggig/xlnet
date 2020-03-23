@@ -1,0 +1,1 @@
+{"answer": "C", "question": "Where do Lin Tao and Chen Hai sit in the classroom?", "id": "middle7958.txt"}

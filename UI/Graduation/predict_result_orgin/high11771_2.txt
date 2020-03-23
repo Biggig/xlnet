@@ -1,0 +1,1 @@
+{"answer": "D", "question": "The gentleman dismissed the other boys because  _  .", "id": "high11771.txt"}

@@ -1,0 +1,1 @@
+{"answer": "D", "question": "Where did Luke meet lemurs for the first time?", "id": "middle3325.txt"}

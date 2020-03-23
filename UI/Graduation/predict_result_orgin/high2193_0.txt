@@ -1,0 +1,1 @@
+{"answer": "C", "question": "According to the passage, before you decide to lose or gain weight you must know   _  .", "id": "high2193.txt"}

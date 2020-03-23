@@ -1,0 +1,1 @@
+{"answer": "A", "question": "Who influenced Chinese paintings a lot according to this passage?", "id": "middle2163.txt"}

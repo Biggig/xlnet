@@ -1,0 +1,1 @@
+{"answer": "A", "question": "Xiao Xiao is mentioned as an example to show that   _   .", "id": "high8425.txt"}

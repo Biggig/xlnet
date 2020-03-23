@@ -1,0 +1,1 @@
+{"answer": "A", "question": "Many people can't control their weight during the holidays mainly because they   _  .", "id": "high9216.txt"}

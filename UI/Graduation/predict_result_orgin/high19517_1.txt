@@ -1,0 +1,1 @@
+{"answer": "A", "question": "The two comments in the passage are intended to indicate    .", "id": "high19517.txt"}

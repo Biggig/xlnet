@@ -1,0 +1,1 @@
+{"answer": "A", "question": "57. On back of a watch we can often see the word \"water-proof\". The word means_.", "id": "high16066.txt"}

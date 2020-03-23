@@ -1,0 +1,1 @@
+{"answer": "C", "question": "When the author's husband died,   _  .", "id": "middle1701.txt"}

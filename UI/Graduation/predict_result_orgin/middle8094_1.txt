@@ -1,0 +1,1 @@
+{"answer": "C", "question": "American astronaut Edward White once lost    _    in space in 1965.", "id": "middle8094.txt"}

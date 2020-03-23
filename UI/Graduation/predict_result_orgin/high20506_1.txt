@@ -1,0 +1,1 @@
+{"answer": "B", "question": "What do we know about tree climbing from the passage?", "id": "high20506.txt"}

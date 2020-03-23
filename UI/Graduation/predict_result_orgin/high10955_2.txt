@@ -1,0 +1,1 @@
+{"answer": "C", "question": "If a star becomes successful,.he   _   according to the passage.", "id": "high10955.txt"}

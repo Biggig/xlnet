@@ -1,0 +1,1 @@
+{"answer": "D", "question": "Foster's opinion on teenagers' getting up late is that   _  .", "id": "high22001.txt"}

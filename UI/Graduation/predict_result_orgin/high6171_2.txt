@@ -1,0 +1,1 @@
+{"answer": "C", "question": "What do we know about the refracting telescope?", "id": "high6171.txt"}

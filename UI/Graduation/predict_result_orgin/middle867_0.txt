@@ -1,0 +1,1 @@
+{"answer": "D", "question": "According to  this  passage , people  who  prefer  to  be  quiet  probably     .", "id": "middle867.txt"}

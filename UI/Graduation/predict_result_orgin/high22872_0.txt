@@ -1,0 +1,1 @@
+{"answer": "A", "question": "There is the possibility that setting maximum rent may_.", "id": "high22872.txt"}

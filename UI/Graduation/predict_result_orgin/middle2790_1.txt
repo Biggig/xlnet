@@ -1,0 +1,1 @@
+{"answer": "B", "question": "When Vince saw Toby's hands, he felt    _  .", "id": "middle2790.txt"}

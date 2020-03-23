@@ -1,0 +1,1 @@
+{"answer": "C", "question": "After one year, the electricity produced from the tiles can provide enough energy for   _  .", "id": "middle5207.txt"}

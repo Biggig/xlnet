@@ -1,0 +1,1 @@
+{"answer": "A", "question": "We can infer from the passage that sales at the store has been   _   throughout the 1930s.", "id": "high17980.txt"}

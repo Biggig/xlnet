@@ -1,0 +1,1 @@
+{"answer": "A", "question": "The phrase\"It's not over till the fat lady sings\"was first used in   _  .", "id": "high18536.txt"}

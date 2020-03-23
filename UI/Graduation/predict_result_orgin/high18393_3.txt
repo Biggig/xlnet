@@ -1,0 +1,1 @@
+{"answer": "B", "question": "What is Moisyadi's attitude towards such experimentation?", "id": "high18393.txt"}

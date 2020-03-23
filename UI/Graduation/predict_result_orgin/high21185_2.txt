@@ -1,0 +1,1 @@
+{"answer": "B", "question": "In order to get men to do some housework, women should often   _", "id": "high21185.txt"}

@@ -1,0 +1,1 @@
+{"answer": "A", "question": "How does the Eiffel Tower look from a far place?", "id": "middle2441.txt"}

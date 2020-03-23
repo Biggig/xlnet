@@ -1,0 +1,1 @@
+{"answer": "B", "question": "Lopez and Uno have a lot in common except that   _  .", "id": "high9427.txt"}

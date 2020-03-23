@@ -1,0 +1,1 @@
+{"answer": "A", "question": "From what Kendrick said in the interview we learn that   _  .", "id": "high7640.txt"}

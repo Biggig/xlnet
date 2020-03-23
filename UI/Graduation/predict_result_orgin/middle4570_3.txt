@@ -1,0 +1,1 @@
+{"answer": "B", "question": "In which country can people work less than 40 hours a week?", "id": "middle4570.txt"}

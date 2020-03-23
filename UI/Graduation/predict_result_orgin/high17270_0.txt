@@ -1,0 +1,1 @@
+{"answer": "D", "question": "When the rescuers found the mom,she    .", "id": "high17270.txt"}

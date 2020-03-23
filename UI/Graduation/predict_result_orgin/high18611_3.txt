@@ -1,0 +1,1 @@
+{"answer": "B", "question": "From the story we know that on Christmas Day children feel very happy because they can receive  _  .", "id": "high18611.txt"}

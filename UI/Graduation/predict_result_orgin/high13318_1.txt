@@ -1,0 +1,1 @@
+{"answer": "C", "question": "To apply for the positions above, one must  _  .", "id": "high13318.txt"}

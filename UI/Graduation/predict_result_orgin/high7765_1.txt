@@ -1,0 +1,1 @@
+{"answer": "D", "question": "Augustine worries that global warming problems will be difficult to solve because  _  .", "id": "high7765.txt"}

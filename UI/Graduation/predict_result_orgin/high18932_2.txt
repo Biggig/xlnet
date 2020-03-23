@@ -1,0 +1,1 @@
+{"answer": "C", "question": "What should parents do with items like lighters and matches?", "id": "high18932.txt"}

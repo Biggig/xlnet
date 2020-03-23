@@ -1,0 +1,1 @@
+{"answer": "B", "question": "The boss asked John to find out where watermelons were sold in order to   _  .", "id": "high2839.txt"}

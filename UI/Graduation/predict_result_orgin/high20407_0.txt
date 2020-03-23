@@ -1,0 +1,1 @@
+{"answer": "C", "question": "Last week we published an article about   _  .", "id": "high20407.txt"}

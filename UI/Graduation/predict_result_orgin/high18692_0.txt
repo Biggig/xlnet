@@ -1,0 +1,1 @@
+{"answer": "D", "question": "In the United States,taxes are collected to provide revenues for    .", "id": "high18692.txt"}

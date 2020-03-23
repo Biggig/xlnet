@@ -1,0 +1,1 @@
+{"answer": "D", "question": "Which is the best title of the passage?", "id": "middle7602.txt"}

@@ -1,0 +1,1 @@
+{"answer": "D", "question": "According to Professor Max Parkin,   _  .", "id": "high13822.txt"}

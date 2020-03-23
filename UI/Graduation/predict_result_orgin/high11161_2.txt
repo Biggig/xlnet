@@ -1,0 +1,1 @@
+{"answer": "C", "question": "After a six-month study,some scientists fear that   _  .", "id": "high11161.txt"}

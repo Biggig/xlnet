@@ -1,0 +1,1 @@
+{"answer": "A", "question": "From the passage, we can infer that a slug .", "id": "middle7122.txt"}

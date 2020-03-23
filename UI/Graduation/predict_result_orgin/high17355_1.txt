@@ -1,0 +1,1 @@
+{"answer": "C", "question": "Why does the writer mention the song twice in the passage?", "id": "high17355.txt"}

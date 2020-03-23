@@ -1,0 +1,1 @@
+{"answer": "C", "question": "Frito-Lay's executives claim that the promoting of American food in the international market  _  .", "id": "high23663.txt"}

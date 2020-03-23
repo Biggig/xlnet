@@ -1,0 +1,1 @@
+{"answer": "A", "question": "What is Cartmill's opinion of regular check-ups for men?", "id": "high16774.txt"}

@@ -1,0 +1,1 @@
+{"answer": "D", "question": "What measure is not mentioned to protect intellectual property rights?", "id": "high24234.txt"}

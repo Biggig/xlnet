@@ -1,0 +1,1 @@
+{"answer": "C", "question": "People in some countries are fighting a battle against   _  .", "id": "high7560.txt"}

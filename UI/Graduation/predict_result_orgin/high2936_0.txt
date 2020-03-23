@@ -1,0 +1,1 @@
+{"answer": "A", "question": "Parents should become concerned when their children  _  .", "id": "high2936.txt"}

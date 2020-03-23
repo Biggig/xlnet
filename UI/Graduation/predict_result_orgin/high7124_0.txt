@@ -1,0 +1,1 @@
+{"answer": "C", "question": "Which is Not the reason why educating girls reduces poverty?", "id": "high7124.txt"}

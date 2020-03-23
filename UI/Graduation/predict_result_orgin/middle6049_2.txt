@@ -1,0 +1,1 @@
+{"answer": "B", "question": "What is the most important food in some Western countries?", "id": "middle6049.txt"}

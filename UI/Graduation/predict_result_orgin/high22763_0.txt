@@ -1,0 +1,1 @@
+{"answer": "D", "question": "Which of the following is TRUE of the facts about the author's father?", "id": "high22763.txt"}

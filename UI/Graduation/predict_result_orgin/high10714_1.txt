@@ -1,0 +1,1 @@
+{"answer": "D", "question": "Who might have taken a picture of the back seat of the family car in his or her trip mentioned in this passage?", "id": "high10714.txt"}

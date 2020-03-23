@@ -1,0 +1,1 @@
+{"answer": "B", "question": "A lottery winner may suddenly find himself with many socalled  friends, probably because   _  .", "id": "middle7841.txt"}

@@ -1,0 +1,1 @@
+{"answer": "C", "question": "The author's attitude towards Daniel Defoe is_.", "id": "high17565.txt"}

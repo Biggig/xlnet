@@ -1,0 +1,1 @@
+{"answer": "B", "question": "This story happened in   _  .", "id": "middle1304.txt"}

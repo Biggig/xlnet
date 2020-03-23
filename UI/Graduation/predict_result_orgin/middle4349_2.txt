@@ -1,0 +1,1 @@
+{"answer": "B", "question": "The purpose of education is to   _   according to Zeng Guofan.", "id": "middle4349.txt"}

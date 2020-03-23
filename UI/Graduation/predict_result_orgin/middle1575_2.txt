@@ -1,0 +1,1 @@
+{"answer": "A", "question": "What are dictionaries like according to the passage?", "id": "middle1575.txt"}

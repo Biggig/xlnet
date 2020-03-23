@@ -1,0 +1,1 @@
+{"answer": "C", "question": "The FDA has provided guidelines for producers of pet foods with raw meat because   _  .", "id": "high12540.txt"}

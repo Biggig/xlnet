@@ -1,0 +1,1 @@
+{"answer": "B", "question": "Students regard drinking and binge drinking as_.", "id": "high23017.txt"}

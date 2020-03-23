@@ -1,0 +1,1 @@
+{"answer": "B", "question": "People learn better through TV than through radio because  _  .", "id": "middle2340.txt"}

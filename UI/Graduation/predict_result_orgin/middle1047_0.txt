@@ -1,0 +1,1 @@
+{"answer": "B", "question": "What do Wang Baoxuan and his schoolmates do with the waste exercise books?", "id": "middle1047.txt"}

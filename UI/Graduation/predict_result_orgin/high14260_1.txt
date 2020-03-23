@@ -1,0 +1,1 @@
+{"answer": "D", "question": "Why couldn't the author's brother find a taxi in Tunis?", "id": "high14260.txt"}

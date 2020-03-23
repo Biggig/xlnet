@@ -1,0 +1,1 @@
+{"answer": "B", "question": "George Bernard's reply in the passages shows his  _  .", "id": "high20013.txt"}

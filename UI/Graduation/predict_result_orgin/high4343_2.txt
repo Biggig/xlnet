@@ -1,0 +1,1 @@
+{"answer": "A", "question": "Which statement isn't among the reasons why customers are furious?", "id": "high4343.txt"}

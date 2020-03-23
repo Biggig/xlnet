@@ -1,0 +1,1 @@
+{"answer": "D", "question": "What is the main reason of the food scandals in China ?", "id": "middle582.txt"}

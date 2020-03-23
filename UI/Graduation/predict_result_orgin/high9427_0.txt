@@ -1,0 +1,1 @@
+{"answer": "C", "question": "The reason why Lopez feels like an outsider lies in the fact that   _  .", "id": "high9427.txt"}

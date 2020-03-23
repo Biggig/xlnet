@@ -1,0 +1,1 @@
+{"answer": "B", "question": "It call be learned from the newspaper that Bombay is a city in  _  .", "id": "high23875.txt"}

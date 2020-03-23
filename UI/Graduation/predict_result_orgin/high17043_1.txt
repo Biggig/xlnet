@@ -1,0 +1,1 @@
+{"answer": "B", "question": "Professor WylieRosett agrees that people should  _  .", "id": "high17043.txt"}

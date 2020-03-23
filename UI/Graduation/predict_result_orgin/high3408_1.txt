@@ -1,0 +1,1 @@
+{"answer": "A", "question": "In the 18th century, who had the right to vote?", "id": "high3408.txt"}

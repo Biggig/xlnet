@@ -1,0 +1,1 @@
+{"answer": "D", "question": "At the top of the South Pole,your watch will   _  .", "id": "high7716.txt"}

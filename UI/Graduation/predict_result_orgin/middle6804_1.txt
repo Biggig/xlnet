@@ -1,0 +1,1 @@
+{"answer": "D", "question": "Drew Barrymore can be a Hollywood legend mainly because  _  .", "id": "middle6804.txt"}

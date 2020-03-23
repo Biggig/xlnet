@@ -1,0 +1,1 @@
+{"answer": "A", "question": "Tom was about to agree to let Ben whitewash when he changed his mind because   _  .", "id": "high1171.txt"}

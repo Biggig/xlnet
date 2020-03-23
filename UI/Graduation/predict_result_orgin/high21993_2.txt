@@ -1,0 +1,1 @@
+{"answer": "D", "question": "Aboveground insects will develop more quickly if their food plants   _  .", "id": "high21993.txt"}

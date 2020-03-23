@@ -1,0 +1,1 @@
+{"answer": "A", "question": "How much money does an American earning $40 000 per year pay to the federal government as income tax according to the passage?", "id": "high18692.txt"}

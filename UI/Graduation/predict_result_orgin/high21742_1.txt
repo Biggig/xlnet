@@ -1,0 +1,1 @@
+{"answer": "D", "question": "When we say someone \"lives a sheltered life\", we mean they   _   .", "id": "high21742.txt"}

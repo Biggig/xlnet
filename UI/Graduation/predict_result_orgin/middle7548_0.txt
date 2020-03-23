@@ -1,0 +1,1 @@
+{"answer": "B", "question": "How many people have been injured by the large fire itself?", "id": "middle7548.txt"}

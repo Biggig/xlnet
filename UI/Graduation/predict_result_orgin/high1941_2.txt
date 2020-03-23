@@ -1,0 +1,1 @@
+{"answer": "D", "question": "Stamp collectors have paid 16 800 for   _  .", "id": "high1941.txt"}

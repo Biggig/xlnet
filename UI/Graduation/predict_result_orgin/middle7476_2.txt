@@ -1,0 +1,1 @@
+{"answer": "A", "question": "How many restaurants are there in New York's Chinatown?", "id": "middle7476.txt"}

@@ -1,0 +1,1 @@
+{"answer": "B", "question": "The arriving of the pandas is expected to bring several positive effects except    _    .", "id": "high15810.txt"}

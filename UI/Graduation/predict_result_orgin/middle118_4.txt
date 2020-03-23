@@ -1,0 +1,1 @@
+{"answer": "A", "question": "Lockheed likes the pigeons because they_.", "id": "middle118.txt"}

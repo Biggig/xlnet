@@ -1,0 +1,1 @@
+{"answer": "D", "question": "In Three-Kingdom Period, Yueyang Tower was used as   _  .", "id": "high1295.txt"}

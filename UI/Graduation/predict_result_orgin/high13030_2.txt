@@ -1,0 +1,1 @@
+{"answer": "A", "question": "The office cleaners will be required to work about   _   hours a week.", "id": "high13030.txt"}

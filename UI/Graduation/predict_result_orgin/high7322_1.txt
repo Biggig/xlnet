@@ -1,0 +1,1 @@
+{"answer": "C", "question": "According to the passage, why is it exciting to begin college life?", "id": "high7322.txt"}

@@ -1,0 +1,1 @@
+{"answer": "A", "question": "The things were included in Bruno's 94 items EXCEPT  _  .", "id": "high3586.txt"}

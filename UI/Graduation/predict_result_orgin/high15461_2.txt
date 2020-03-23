@@ -1,0 +1,1 @@
+{"answer": "B", "question": "Every spring each group of whales    _   .", "id": "high15461.txt"}

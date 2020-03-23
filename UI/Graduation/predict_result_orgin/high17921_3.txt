@@ -1,0 +1,1 @@
+{"answer": "A", "question": "Lee's education method succeeds mainly because of her_.", "id": "high17921.txt"}

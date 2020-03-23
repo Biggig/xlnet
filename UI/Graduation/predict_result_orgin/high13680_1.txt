@@ -1,0 +1,1 @@
+{"answer": "A", "question": "With wide applications of cloud computing customers can   _  .", "id": "high13680.txt"}

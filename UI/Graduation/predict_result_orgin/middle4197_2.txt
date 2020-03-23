@@ -1,0 +1,1 @@
+{"answer": "D", "question": "Mr. Yang punches a hole in his new belt, because   _  .", "id": "middle4197.txt"}

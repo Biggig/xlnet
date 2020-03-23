@@ -1,0 +1,1 @@
+{"answer": "C", "question": "According to the passage, what is the main cause of oil pollution?", "id": "high22229.txt"}

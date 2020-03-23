@@ -1,0 +1,1 @@
+{"answer": "A", "question": "Paul Bunyan was   _  .", "id": "middle4299.txt"}

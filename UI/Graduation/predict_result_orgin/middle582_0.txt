@@ -1,0 +1,1 @@
+{"answer": "A", "question": "Chemicals are added to the foods in the factories because", "id": "middle582.txt"}

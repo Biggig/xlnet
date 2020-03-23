@@ -1,0 +1,1 @@
+{"answer": "C", "question": "Ishikawa's explanation suggests that the robot  _  .", "id": "high13688.txt"}

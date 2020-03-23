@@ -1,0 +1,1 @@
+{"answer": "A", "question": "Why is rolling better than sliding according to West ?", "id": "high11080.txt"}

@@ -1,0 +1,1 @@
+{"answer": "B", "question": "Home-schooled children are usually taught by   _  .", "id": "high23911.txt"}

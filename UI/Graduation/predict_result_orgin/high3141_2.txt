@@ -1,0 +1,1 @@
+{"answer": "B", "question": "Designer shoes will remain on the market because they   _  .", "id": "high3141.txt"}

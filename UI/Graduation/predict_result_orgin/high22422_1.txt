@@ -1,0 +1,1 @@
+{"answer": "D", "question": "The similarity between the Tugela Falls and the Niagara Falls is that  _  .", "id": "high22422.txt"}

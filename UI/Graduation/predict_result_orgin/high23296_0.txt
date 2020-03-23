@@ -1,0 +1,1 @@
+{"answer": "C", "question": "What is the vampire like in Bram Stoker's book?", "id": "high23296.txt"}

@@ -1,0 +1,1 @@
+{"answer": "D", "question": "According to the passage, who mostly helped Andrews to achieve success ?", "id": "high1216.txt"}

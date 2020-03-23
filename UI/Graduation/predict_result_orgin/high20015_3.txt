@@ -1,0 +1,1 @@
+{"answer": "C", "question": "The author raises problems that would most concern which of the following groups?", "id": "high20015.txt"}

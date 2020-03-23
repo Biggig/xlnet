@@ -1,0 +1,1 @@
+{"answer": "B", "question": "Why did the traveler take the third taxi?  Because   _   .", "id": "middle1378.txt"}

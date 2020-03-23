@@ -1,0 +1,1 @@
+{"answer": "C", "question": "What is Pamela Druckerman's attitude toward French parents' parenting methods?", "id": "high23778.txt"}

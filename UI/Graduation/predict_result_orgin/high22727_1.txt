@@ -1,0 +1,1 @@
+{"answer": "D", "question": "What did Zac Efron do when he was laughed at?", "id": "high22727.txt"}

@@ -1,0 +1,1 @@
+{"answer": "C", "question": ".  . When the school bus comes, the farmers  are    _  .", "id": "high12046.txt"}

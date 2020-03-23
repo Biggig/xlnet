@@ -1,0 +1,1 @@
+{"answer": "D", "question": "\"To face the music\" means \"to  _  \".", "id": "middle587.txt"}

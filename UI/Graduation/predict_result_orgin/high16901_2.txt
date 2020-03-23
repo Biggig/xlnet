@@ -1,0 +1,1 @@
+{"answer": "D", "question": "What do we learn about Red Thunder Cloud?", "id": "high16901.txt"}

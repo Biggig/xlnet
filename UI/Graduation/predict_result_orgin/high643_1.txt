@@ -1,0 +1,1 @@
+{"answer": "D", "question": "The author thinks that children are becoming overweight because", "id": "high643.txt"}

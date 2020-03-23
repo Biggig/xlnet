@@ -1,0 +1,1 @@
+{"answer": "B", "question": "How many people died in the earthquake which happened in Portugal in 1755?", "id": "high22456.txt"}

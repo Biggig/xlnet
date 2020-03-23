@@ -1,0 +1,1 @@
+{"answer": "D", "question": "Why does Hamad have his seven Mercedes-Benz500 SELs painted in different colors?", "id": "high1104.txt"}

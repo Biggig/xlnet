@@ -1,0 +1,1 @@
+{"answer": "B", "question": "Mr. Ding is a teacher of(......)  _  .", "id": "middle3770.txt"}

@@ -1,0 +1,1 @@
+{"answer": "C", "question": "Miss Fang and Mr. Wu are  _  .", "id": "middle3436.txt"}

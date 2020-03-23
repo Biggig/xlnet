@@ -1,0 +1,1 @@
+{"answer": "A", "question": "One day, the wise man saw a young man   _  .", "id": "high996.txt"}

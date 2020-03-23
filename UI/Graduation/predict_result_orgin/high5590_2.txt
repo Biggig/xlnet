@@ -1,0 +1,1 @@
+{"answer": "C", "question": "Which of the following is likely to be a topic of the Oprah Winfrey show?", "id": "high5590.txt"}

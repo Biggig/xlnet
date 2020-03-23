@@ -1,0 +1,1 @@
+{"answer": "C", "question": "Which of the following describes the way how hay begins burning on its own ?", "id": "high16196.txt"}

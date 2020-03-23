@@ -1,0 +1,1 @@
+{"answer": "D", "question": "On the Winter Solstice,  _   is the shortest in a year.", "id": "high7716.txt"}

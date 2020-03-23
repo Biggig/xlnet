@@ -1,0 +1,1 @@
+{"answer": "D", "question": "Why is Wang Lu forced to leave the UK after graduation?", "id": "high21265.txt"}

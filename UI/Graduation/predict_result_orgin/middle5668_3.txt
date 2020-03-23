@@ -1,0 +1,1 @@
+{"answer": "D", "question": "The king let Effendi go because   _  .", "id": "middle5668.txt"}

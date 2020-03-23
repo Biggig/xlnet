@@ -1,0 +1,1 @@
+{"answer": "C", "question": "Why would some mothers like to be alone? Because_.", "id": "high1904.txt"}

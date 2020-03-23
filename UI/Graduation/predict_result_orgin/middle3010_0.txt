@@ -1,0 +1,1 @@
+{"answer": "B", "question": "Rachel Carson had a deep love for nature and books because of   _  .", "id": "middle3010.txt"}

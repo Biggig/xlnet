@@ -1,0 +1,1 @@
+{"answer": "B", "question": "Which of the following is NOT mentioned about the man's change?", "id": "middle1198.txt"}

@@ -1,0 +1,1 @@
+{"answer": "C", "question": "Which of the following was not the problem some firemakers met?", "id": "high15061.txt"}

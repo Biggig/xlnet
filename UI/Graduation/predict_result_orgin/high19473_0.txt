@@ -1,0 +1,1 @@
+{"answer": "D", "question": "According to the survey, compared with those who don't work, teens with after-school jobs are  _  .", "id": "high19473.txt"}

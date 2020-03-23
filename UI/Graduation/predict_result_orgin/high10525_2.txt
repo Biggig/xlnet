@@ -1,0 +1,1 @@
+{"answer": "A", "question": "If you feel thirsty when you are lost in the forest, what should you do?", "id": "high10525.txt"}

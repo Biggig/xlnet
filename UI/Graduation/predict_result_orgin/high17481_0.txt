@@ -1,0 +1,1 @@
+{"answer": "A", "question": "According to the passage, why was Tabor able to achieve great success in Leadville?", "id": "high17481.txt"}

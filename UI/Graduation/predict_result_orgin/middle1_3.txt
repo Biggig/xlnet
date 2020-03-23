@@ -1,0 +1,1 @@
+{"answer": "D", "question": "How many leaders are there in one group?", "id": "middle1.txt"}

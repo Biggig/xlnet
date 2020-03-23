@@ -1,0 +1,1 @@
+{"answer": "C", "question": "Why do we call the sun \"a life giving star\"?", "id": "middle3474.txt"}

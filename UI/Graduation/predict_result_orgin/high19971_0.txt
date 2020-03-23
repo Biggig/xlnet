@@ -1,0 +1,1 @@
+{"answer": "C", "question": "What's the author's attitude towards \"poverty\"?", "id": "high19971.txt"}

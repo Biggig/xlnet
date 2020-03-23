@@ -1,0 +1,1 @@
+{"answer": "B", "question": "If the passwords of your credit-cards are not properly kept,   _  .", "id": "high22117.txt"}

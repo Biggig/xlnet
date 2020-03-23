@@ -1,0 +1,1 @@
+{"answer": "A", "question": "When scientists found that sheep show similar abilities in many ways to humans they may think it   _  .", "id": "high7640.txt"}

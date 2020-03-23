@@ -1,0 +1,1 @@
+{"answer": "B", "question": "The teacher  _  .", "id": "high808.txt"}

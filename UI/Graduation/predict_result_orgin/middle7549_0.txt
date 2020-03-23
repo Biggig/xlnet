@@ -1,0 +1,1 @@
+{"answer": "B", "question": "Pet owners send their pets to the Pet Hotel probably because they  _  .", "id": "middle7549.txt"}

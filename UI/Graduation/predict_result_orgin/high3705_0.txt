@@ -1,0 +1,1 @@
+{"answer": "A", "question": "It can be inferred from the passage that if a country had fewer people,   _  .", "id": "high3705.txt"}

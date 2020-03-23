@@ -1,0 +1,1 @@
+{"answer": "C", "question": "According to the text, some parents choose to homeschool their children because   _  .", "id": "high23911.txt"}

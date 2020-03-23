@@ -1,0 +1,1 @@
+{"answer": "C", "question": "What do we know about Dirk Kempthorne according to the passage?", "id": "high11161.txt"}
