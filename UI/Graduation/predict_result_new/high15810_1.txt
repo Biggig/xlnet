@@ -1,0 +1,1 @@
+{"answer": "C", "question": "en the pair of pandas arrives in Japan,    _    .", "id": "high15810.txt"}

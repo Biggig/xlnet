@@ -1,0 +1,1 @@
+{"answer": "C", "question": "Harlow built two \"mothers\" for baby monkeys to   _  .", "id": "high3304.txt"}

@@ -1,0 +1,1 @@
+{"answer": "C", "question": "According to the passage, which of the following shows the good influence on social lives?", "id": "high14352.txt"}

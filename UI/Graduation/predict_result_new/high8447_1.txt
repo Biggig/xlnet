@@ -1,0 +1,1 @@
+{"answer": "B", "question": "According to the passage, China's food industry is full of faking and cheating because  _  .", "id": "high8447.txt"}

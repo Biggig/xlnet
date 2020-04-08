@@ -1,0 +1,1 @@
+{"answer": "A", "question": "Scientist Robert Dore came to the conclusion based on  _  .", "id": "high1634.txt"}

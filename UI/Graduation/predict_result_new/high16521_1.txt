@@ -1,0 +1,1 @@
+{"answer": "A", "question": "The author explains the law of overlearning by", "id": "high16521.txt"}

@@ -1,0 +1,1 @@
+{"answer": "C", "question": "What does the term \"sixth sense\" in the text means?", "id": "high7509.txt"}

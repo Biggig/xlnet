@@ -1,0 +1,1 @@
+{"answer": "A", "question": "What does the author mean by saying \"the Glastonbury Festival has gone from strength to strength\"?", "id": "high122.txt"}

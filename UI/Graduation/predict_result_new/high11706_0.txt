@@ -1,0 +1,1 @@
+{"answer": "C", "question": "Tiger Moms and French Mamas are mentioned in the passage to   _  .", "id": "high11706.txt"}

@@ -1,0 +1,1 @@
+{"answer": "D", "question": "Compared to those of the ballet, Isadora Duncan's costumes were less   _  .", "id": "high9122.txt"}

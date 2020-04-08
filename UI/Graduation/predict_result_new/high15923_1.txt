@@ -1,0 +1,1 @@
+{"answer": "D", "question": "According to para. 2, Dr. Shuttleworth first started her annual World Tour in    _   .", "id": "high15923.txt"}

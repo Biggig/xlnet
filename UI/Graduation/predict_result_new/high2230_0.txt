@@ -1,0 +1,1 @@
+{"answer": "C", "question": "According to this passage, the true statement about human fingerprints is that   _  .", "id": "high2230.txt"}

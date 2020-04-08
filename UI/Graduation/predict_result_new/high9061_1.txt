@@ -1,0 +1,1 @@
+{"answer": "C", "question": "The Dixie PIT program was introduced in order to   _  .", "id": "high9061.txt"}

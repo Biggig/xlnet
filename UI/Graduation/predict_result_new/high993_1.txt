@@ -1,0 +1,1 @@
+{"answer": "B", "question": "Going on a \"gap year\" means   _  .", "id": "high993.txt"}

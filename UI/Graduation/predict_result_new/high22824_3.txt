@@ -1,0 +1,1 @@
+{"answer": "A", "question": "According to Abigail James,one of the advantages of single-sex schools is  _  .", "id": "high22824.txt"}

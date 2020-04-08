@@ -1,0 +1,1 @@
+{"answer": "D", "question": "Most people think that \"fashion\" means   _  .", "id": "middle7859.txt"}

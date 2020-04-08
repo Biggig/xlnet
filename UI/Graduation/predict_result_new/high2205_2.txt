@@ -1,0 +1,1 @@
+{"answer": "A", "question": "We can infer if the climate warms,the animals in Australia will most probably move to the   _   .", "id": "high2205.txt"}

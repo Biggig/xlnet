@@ -1,0 +1,1 @@
+{"answer": "A", "question": "What's the purpose of students sitting one independent exam to gain entrance to the seven universities?", "id": "high2317.txt"}

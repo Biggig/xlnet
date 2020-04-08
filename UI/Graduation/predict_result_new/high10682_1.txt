@@ -1,0 +1,1 @@
+{"answer": "D", "question": "Trees become unhealthy if the gardener   _  .", "id": "high10682.txt"}

@@ -1,0 +1,1 @@
+{"answer": "D", "question": "When the first piece hits the South Atlantic , it causes_.", "id": "high15425.txt"}

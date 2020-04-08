@@ -1,0 +1,1 @@
+{"answer": "B", "question": "According to Bart, the brain may be the greatest wonder in the future because   _  .", "id": "high8407.txt"}

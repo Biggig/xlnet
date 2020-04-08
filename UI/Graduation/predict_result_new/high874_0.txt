@@ -1,0 +1,1 @@
+{"answer": "A", "question": "The writer prepared to answer all of the following questions EXCEPT \"  _  \".", "id": "high874.txt"}

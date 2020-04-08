@@ -1,0 +1,1 @@
+{"answer": "C", "question": "Nowadays elephants in Thailand are", "id": "high9116.txt"}

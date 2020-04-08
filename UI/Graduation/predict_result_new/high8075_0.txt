@@ -1,0 +1,1 @@
+{"answer": "B", "question": "If a fourth-grade girl wants to learn baseball, she may contact  _  .", "id": "high8075.txt"}

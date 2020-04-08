@@ -1,0 +1,1 @@
+{"answer": "D", "question": "Which of the following ideas about flash mobbers is NOT right?", "id": "middle2638.txt"}

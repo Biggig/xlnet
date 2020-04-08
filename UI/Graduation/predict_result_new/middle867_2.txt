@@ -1,0 +1,1 @@
+{"answer": "A", "question": "Why are offices often coloured in cool colours according to the passage ?", "id": "middle867.txt"}

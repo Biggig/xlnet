@@ -1,0 +1,1 @@
+{"answer": "C", "question": "It can be concluded from the passage that determinists      _   .", "id": "high16228.txt"}

@@ -1,0 +1,1 @@
+{"answer": "A", "question": "What does Kofi Annan say should be the focus of the Copenhagen conference?", "id": "high1796.txt"}

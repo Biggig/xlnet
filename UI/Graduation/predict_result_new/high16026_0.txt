@@ -1,0 +1,1 @@
+{"answer": "C", "question": "Many people prevented their children playing with Simona because   _   .", "id": "high16026.txt"}

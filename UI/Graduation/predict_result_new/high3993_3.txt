@@ -1,0 +1,1 @@
+{"answer": "C", "question": "Which of the following is not talked about in Carnegie's book?", "id": "high3993.txt"}

@@ -1,0 +1,1 @@
+{"answer": "D", "question": "Good distribution means   _  .", "id": "high11813.txt"}

@@ -1,0 +1,1 @@
+{"answer": "A", "question": "Parents of \"nuclear\" families sometimes feel at a loss because   _  .", "id": "high21979.txt"}

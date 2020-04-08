@@ -1,0 +1,1 @@
+{"answer": "A", "question": "When Artie Shaw became an adult,    _   .", "id": "high16439.txt"}

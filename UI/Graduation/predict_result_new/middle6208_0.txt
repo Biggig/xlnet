@@ -1,0 +1,1 @@
+{"answer": "C", "question": "If you are a student in Japan,   _  .", "id": "middle6208.txt"}

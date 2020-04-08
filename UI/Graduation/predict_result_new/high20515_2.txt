@@ -1,0 +1,1 @@
+{"answer": "C", "question": "Who found the true color1 of the universe?", "id": "high20515.txt"}

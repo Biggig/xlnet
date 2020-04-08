@@ -1,0 +1,1 @@
+{"answer": "A", "question": "What was the difficulty that passengers met with on the very first day of the opening?", "id": "high22037.txt"}

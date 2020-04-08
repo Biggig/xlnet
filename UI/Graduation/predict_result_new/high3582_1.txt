@@ -1,0 +1,1 @@
+{"answer": "B", "question": "Why did some of South Korea's politicians show PSY\"s moves?", "id": "high3582.txt"}

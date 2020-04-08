@@ -1,0 +1,1 @@
+{"answer": "C", "question": "In Jack's opinion, what was the main reason why the School Football Team won?", "id": "high17189.txt"}

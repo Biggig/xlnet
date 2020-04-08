@@ -1,0 +1,1 @@
+{"answer": "A", "question": "Cheetahs will not fight another animal to protect their food because   _", "id": "high908.txt"}

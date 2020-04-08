@@ -1,0 +1,1 @@
+{"answer": "A", "question": "In 1845, thousands of Irish people were forced to live in America mainly because   _  .", "id": "high21191.txt"}

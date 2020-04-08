@@ -1,0 +1,1 @@
+{"answer": "D", "question": "Tourists get up at 6 am because they   _  .", "id": "high13797.txt"}

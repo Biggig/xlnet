@@ -1,0 +1,1 @@
+{"answer": "B", "question": "Which of the following charges an adult the lowest fee?", "id": "high14695.txt"}

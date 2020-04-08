@@ -1,0 +1,1 @@
+{"answer": "A", "question": "According to the text, if Lang Ping stands with the opponents during women's volleyball matches, who will most probably have trouble?", "id": "high24207.txt"}

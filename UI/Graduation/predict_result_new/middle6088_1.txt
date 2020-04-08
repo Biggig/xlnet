@@ -1,0 +1,1 @@
+{"answer": "B", "question": "Kites are made of the following materials EXCEPT   _   according to the passage.", "id": "middle6088.txt"}

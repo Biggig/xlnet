@@ -1,0 +1,1 @@
+{"answer": "A", "question": "Doctors suggest that people should wash their hands   _  .", "id": "high5823.txt"}

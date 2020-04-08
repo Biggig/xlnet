@@ -1,0 +1,1 @@
+{"answer": "D", "question": "The author uses what Dr. Goodall says to show   _  .", "id": "high14985.txt"}

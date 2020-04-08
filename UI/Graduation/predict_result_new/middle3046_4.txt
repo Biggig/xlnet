@@ -1,0 +1,1 @@
+{"answer": "C", "question": "The sentence\"When in Rome,do as the Romans do.\"Means that  _  .", "id": "middle3046.txt"}

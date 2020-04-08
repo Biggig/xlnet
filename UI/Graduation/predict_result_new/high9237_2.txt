@@ -1,0 +1,1 @@
+{"answer": "A", "question": "By giving the example of Apple's iPod, Sir John intends to   _   .", "id": "high9237.txt"}

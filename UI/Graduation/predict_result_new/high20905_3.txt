@@ -1,0 +1,1 @@
+{"answer": "D", "question": "If you drew a funny picture on your friend's face while he was sleeping, you were   _  .", "id": "high20905.txt"}

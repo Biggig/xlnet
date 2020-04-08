@@ -1,0 +1,1 @@
+{"answer": "B", "question": "Which novel of Mo Yan won the Mao Dun Literature Prize in 2011?", "id": "high23289.txt"}

@@ -1,0 +1,1 @@
+{"answer": "B", "question": "Which of the following phones will NOT use Windows Phone 7 operating system?", "id": "high11322.txt"}

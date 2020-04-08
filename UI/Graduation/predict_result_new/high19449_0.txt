@@ -1,0 +1,1 @@
+{"answer": "D", "question": "Why did Keefe want to keep the picture she found?", "id": "high19449.txt"}

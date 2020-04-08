@@ -1,0 +1,1 @@
+{"answer": "B", "question": "How many ways does the writer talk about to reduce indoor air pollution?", "id": "middle7292.txt"}

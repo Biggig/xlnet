@@ -1,0 +1,1 @@
+{"answer": "B", "question": "\"A package trip\" probably means   _  .", "id": "high17307.txt"}

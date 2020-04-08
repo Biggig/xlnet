@@ -1,0 +1,1 @@
+{"answer": "C", "question": "Small stores in Scotland   _", "id": "high23246.txt"}

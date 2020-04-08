@@ -1,0 +1,1 @@
+{"answer": "A", "question": "One of the assumptions on which Frito-Lay bases its development strategy is that  _  .", "id": "high23663.txt"}

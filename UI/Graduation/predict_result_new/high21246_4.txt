@@ -1,0 +1,1 @@
+{"answer": "B", "question": "In Stevie Wonder's song, what is he comparing himself to?", "id": "high21246.txt"}

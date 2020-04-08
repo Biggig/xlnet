@@ -1,0 +1,1 @@
+{"answer": "C", "question": "It is implied that one of the most significant changes in higher education in the past decade is   _  .", "id": "high23837.txt"}

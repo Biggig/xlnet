@@ -1,0 +1,1 @@
+{"answer": "D", "question": "Before you apply for a scholarship, it's best to  _  .", "id": "high7021.txt"}

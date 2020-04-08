@@ -1,0 +1,1 @@
+{"answer": "D", "question": "We can't  _  through the Internet.", "id": "middle3379.txt"}

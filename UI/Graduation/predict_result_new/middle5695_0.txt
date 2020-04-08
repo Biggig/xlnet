@@ -1,0 +1,1 @@
+{"answer": "A", "question": "The most important thing of learning a language is   _  .", "id": "middle5695.txt"}

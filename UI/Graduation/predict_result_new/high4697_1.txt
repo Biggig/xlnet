@@ -1,0 +1,1 @@
+{"answer": "D", "question": "Wal-Mart's low price policy results in   _  .", "id": "high4697.txt"}

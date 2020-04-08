@@ -1,0 +1,1 @@
+{"answer": "D", "question": "From the passage, we can safely draw the conclusion that in the age of Shakespeare   _  .", "id": "high14361.txt"}

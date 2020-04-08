@@ -1,0 +1,1 @@
+{"answer": "C", "question": "Tom doesn't like Sichuan food because    _  .", "id": "middle5772.txt"}

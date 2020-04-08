@@ -1,0 +1,1 @@
+{"answer": "C", "question": "According to the text,vending machines selling cigarettes  _  .", "id": "high23246.txt"}

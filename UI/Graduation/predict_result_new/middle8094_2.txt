@@ -1,0 +1,1 @@
+{"answer": "D", "question": "The glove in space may travel at a speed of    _    kilometers per hour.", "id": "middle8094.txt"}

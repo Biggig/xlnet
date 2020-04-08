@@ -1,0 +1,1 @@
+{"answer": "B", "question": "_  of Xiao Maiyou's children went to Pecking University.", "id": "middle3524.txt"}

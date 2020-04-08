@@ -1,0 +1,1 @@
+{"answer": "D", "question": "What color was Lucy's old toothbrush ?", "id": "middle2840.txt"}

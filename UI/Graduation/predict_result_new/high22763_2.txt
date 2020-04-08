@@ -1,0 +1,1 @@
+{"answer": "D", "question": "The author gave her daughter the hat to hope that her daughter cold  _  .", "id": "high22763.txt"}

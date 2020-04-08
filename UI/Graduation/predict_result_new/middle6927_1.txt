@@ -1,0 +1,1 @@
+{"answer": "D", "question": "People have the festival because they think monkeys   _  .", "id": "middle6927.txt"}

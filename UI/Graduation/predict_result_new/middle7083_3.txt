@@ -1,0 +1,1 @@
+{"answer": "D", "question": "What's the main business purpose for Tencent and Alibaba launch lotteries?", "id": "middle7083.txt"}

@@ -1,0 +1,1 @@
+{"answer": "C", "question": "Why didn't Florence swim across the Catalina Channel for the first time?", "id": "high23129.txt"}

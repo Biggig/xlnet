@@ -1,0 +1,1 @@
+{"answer": "D", "question": "If you intend to leave the room tomorrow, you may leave at any of the following hours except   _", "id": "high13662.txt"}

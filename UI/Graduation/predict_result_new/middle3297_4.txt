@@ -1,0 +1,1 @@
+{"answer": "C", "question": "From Joe's answered, \"Oh, every year.\", we can infer  that  _  .", "id": "middle3297.txt"}

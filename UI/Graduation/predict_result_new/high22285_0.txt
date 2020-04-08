@@ -1,0 +1,1 @@
+{"answer": "B", "question": "What had urged Willie Stewart to paddle down the Colorado River ?", "id": "high22285.txt"}

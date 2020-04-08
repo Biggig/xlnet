@@ -1,0 +1,1 @@
+{"answer": "A", "question": "How can you understand Earthworms better according to this passage?", "id": "middle1248.txt"}

@@ -1,0 +1,1 @@
+{"answer": "B", "question": "Which of the following statements about Zhai Tiantian is true?", "id": "high726.txt"}

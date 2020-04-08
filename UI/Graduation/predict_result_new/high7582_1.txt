@@ -1,0 +1,1 @@
+{"answer": "C", "question": "Who would pay for the cost of the reality TV shows according to the passage?", "id": "high7582.txt"}

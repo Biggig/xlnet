@@ -1,0 +1,1 @@
+{"answer": "C", "question": "People made panic purchases of salt for the reasons EXCEPT  _  .", "id": "high20049.txt"}

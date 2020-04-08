@@ -1,0 +1,1 @@
+{"answer": "D", "question": "The woman' s dream is mentioned mainly to   _  .", "id": "high8521.txt"}

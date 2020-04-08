@@ -1,0 +1,1 @@
+{"answer": "B", "question": "From the passage, we can guess the party is to celebrate  _  .", "id": "middle5862.txt"}

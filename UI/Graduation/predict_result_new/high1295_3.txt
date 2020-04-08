@@ -1,0 +1,1 @@
+{"answer": "C", "question": "When did Yueyang Tower become more famous?", "id": "high1295.txt"}

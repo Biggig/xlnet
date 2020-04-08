@@ -1,0 +1,1 @@
+{"answer": "C", "question": "If Lucy would like to buy some cheap records, she cannot go to the Music Shop on   _  .", "id": "middle3481.txt"}

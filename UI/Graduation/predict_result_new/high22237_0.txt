@@ -1,0 +1,1 @@
+{"answer": "A", "question": "Vodka is a kind of   _  .", "id": "high22237.txt"}

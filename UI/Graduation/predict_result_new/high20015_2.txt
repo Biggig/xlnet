@@ -1,0 +1,1 @@
+{"answer": "C", "question": "According to the passage, in the late 1960's some residents of Bostonwere concerned with which aspect of skyscrapers?", "id": "high20015.txt"}

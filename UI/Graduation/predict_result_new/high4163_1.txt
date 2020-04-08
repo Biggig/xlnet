@@ -1,0 +1,1 @@
+{"answer": "C", "question": "Which of the following is TRUE about the learning of attitudes?", "id": "high4163.txt"}

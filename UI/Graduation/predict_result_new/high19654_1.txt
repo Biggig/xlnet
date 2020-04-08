@@ -1,0 +1,1 @@
+{"answer": "B", "question": "Why will local government remove the 50 million square feet of lawns?", "id": "high19654.txt"}

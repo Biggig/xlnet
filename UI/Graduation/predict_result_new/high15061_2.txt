@@ -1,0 +1,1 @@
+{"answer": "D", "question": "We can infer that Huang Lanye was a   _  in their group", "id": "high15061.txt"}

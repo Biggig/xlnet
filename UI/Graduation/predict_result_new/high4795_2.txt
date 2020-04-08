@@ -1,0 +1,1 @@
+{"answer": "B", "question": "Which of the following can be the best tide of the passage?", "id": "high4795.txt"}

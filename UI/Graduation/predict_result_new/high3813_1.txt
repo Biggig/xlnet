@@ -1,0 +1,1 @@
+{"answer": "C", "question": "Why is it difficult for children to go to school in India?", "id": "high3813.txt"}

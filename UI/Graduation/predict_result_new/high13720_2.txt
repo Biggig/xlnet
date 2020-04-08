@@ -1,0 +1,1 @@
+{"answer": "C", "question": "What does Alexander think was the purpose of the 1914 voyage?", "id": "high13720.txt"}

@@ -1,0 +1,1 @@
+{"answer": "C", "question": "Tourists can experience the Polynesian culture mainly through   _  .", "id": "high20828.txt"}

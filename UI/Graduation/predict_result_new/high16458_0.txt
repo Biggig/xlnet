@@ -1,0 +1,1 @@
+{"answer": "A", "question": "It can be inferred from the story that in 1974    _   .", "id": "high16458.txt"}

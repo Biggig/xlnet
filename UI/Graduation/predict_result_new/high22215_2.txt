@@ -1,0 +1,1 @@
+{"answer": "B", "question": "Which of the following statements is NOT TRUE as for the Kenya plane crash?", "id": "high22215.txt"}

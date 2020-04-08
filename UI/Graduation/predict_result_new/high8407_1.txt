@@ -1,0 +1,1 @@
+{"answer": "B", "question": "What does Bart refer to by saying \"chips are our destiny\"?", "id": "high8407.txt"}

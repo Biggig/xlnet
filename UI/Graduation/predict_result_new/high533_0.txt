@@ -1,0 +1,1 @@
+{"answer": "D", "question": "According to the passage, which is NOT the reason why some people can be distracted from their work?", "id": "high533.txt"}

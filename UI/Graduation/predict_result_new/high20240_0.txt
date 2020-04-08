@@ -1,0 +1,1 @@
+{"answer": "D", "question": "Which of the following activities is NOT a creative one according to the passage?", "id": "high20240.txt"}

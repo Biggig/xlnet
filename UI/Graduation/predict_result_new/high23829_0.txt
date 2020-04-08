@@ -1,0 +1,1 @@
+{"answer": "B", "question": "Compared to women, men usually treat shopping more   _  .", "id": "high23829.txt"}

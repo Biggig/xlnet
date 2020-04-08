@@ -1,0 +1,1 @@
+{"answer": "D", "question": "people are not allowed to  _   .", "id": "middle1853.txt"}

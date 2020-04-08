@@ -1,0 +1,1 @@
+{"answer": "A", "question": "What is Rico Cannon's opinion on paying student athletes?", "id": "high7117.txt"}

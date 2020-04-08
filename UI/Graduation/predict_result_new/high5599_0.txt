@@ -1,0 +1,1 @@
+{"answer": "D", "question": "According to the author, why most Chinese dislike their jobs?", "id": "high5599.txt"}

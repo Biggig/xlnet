@@ -1,0 +1,1 @@
+{"answer": "B", "question": "Jeannie can help Lee Ann do all the following things EXCEPT  _  .", "id": "high80.txt"}

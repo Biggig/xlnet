@@ -1,0 +1,1 @@
+{"answer": "C", "question": "What did Leland Stanford make a bet with his friend about?", "id": "middle5912.txt"}

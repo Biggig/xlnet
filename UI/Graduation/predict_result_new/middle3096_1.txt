@@ -1,0 +1,1 @@
+{"answer": "A", "question": "The reason why only a few homeowners used solar panels is that they are   _  .", "id": "middle3096.txt"}

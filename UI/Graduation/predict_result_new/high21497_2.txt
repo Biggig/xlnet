@@ -1,0 +1,1 @@
+{"answer": "D", "question": "Scientists are fairly sure that, by the year 2050,   _  .", "id": "high21497.txt"}

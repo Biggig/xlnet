@@ -1,0 +1,1 @@
+{"answer": "A", "question": "According to the passage, which of the following statements is true?", "id": "high6620.txt"}

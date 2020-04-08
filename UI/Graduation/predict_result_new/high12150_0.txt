@@ -1,0 +1,1 @@
+{"answer": "C", "question": "According to the passage, wearing black clothes probably   _  .", "id": "high12150.txt"}

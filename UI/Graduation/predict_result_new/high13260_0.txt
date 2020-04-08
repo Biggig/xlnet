@@ -1,0 +1,1 @@
+{"answer": "B", "question": "Why is another text sent to blood donors after a \"thank you\" one?", "id": "high13260.txt"}

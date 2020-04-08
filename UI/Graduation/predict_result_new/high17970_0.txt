@@ -1,0 +1,1 @@
+{"answer": "D", "question": "According to the text, which of the following is NOT a benefit of being sociable people?", "id": "high17970.txt"}

@@ -1,0 +1,1 @@
+{"answer": "A", "question": "Rainforests can help to adjust the climate because they  _  .", "id": "high14759.txt"}

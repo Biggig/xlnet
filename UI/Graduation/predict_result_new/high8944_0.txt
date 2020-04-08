@@ -1,0 +1,1 @@
+{"answer": "D", "question": "In which season did the earthquake take place?", "id": "high8944.txt"}

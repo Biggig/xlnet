@@ -1,0 +1,1 @@
+{"answer": "B", "question": "Why do people kill animals?", "id": "high3943.txt"}

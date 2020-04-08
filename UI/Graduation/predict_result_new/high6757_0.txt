@@ -1,0 +1,1 @@
+{"answer": "C", "question": "If you visit the Gold Coast Wax Museum, you can", "id": "high6757.txt"}

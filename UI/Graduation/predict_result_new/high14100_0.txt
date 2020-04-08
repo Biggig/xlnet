@@ -1,0 +1,1 @@
+{"answer": "D", "question": "Which of the following shows the advanced musical ability in humpback whales?", "id": "high14100.txt"}

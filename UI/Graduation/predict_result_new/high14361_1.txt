@@ -1,0 +1,1 @@
+{"answer": "B", "question": "Why did Judith commit suicide to end her life?", "id": "high14361.txt"}

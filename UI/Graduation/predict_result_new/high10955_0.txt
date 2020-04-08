@@ -1,0 +1,1 @@
+{"answer": "B", "question": "Since the 1950s,most of the stars of pop music have come from  _  .", "id": "high10955.txt"}

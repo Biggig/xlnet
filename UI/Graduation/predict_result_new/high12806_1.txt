@@ -1,0 +1,1 @@
+{"answer": "A", "question": "The group of 15 Nepali artists   _  .", "id": "high12806.txt"}

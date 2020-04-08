@@ -1,0 +1,1 @@
+{"answer": "B", "question": "How many times has the writer been to Beijing?", "id": "middle1049.txt"}

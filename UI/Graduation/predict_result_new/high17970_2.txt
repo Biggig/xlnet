@@ -1,0 +1,1 @@
+{"answer": "C", "question": "People who have lots of friends tend to take fewer risks, mainly because   _  .", "id": "high17970.txt"}

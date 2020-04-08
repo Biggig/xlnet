@@ -1,0 +1,1 @@
+{"answer": "C", "question": "According to the passage, computer viruses seem to  _  .", "id": "high3429.txt"}

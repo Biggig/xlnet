@@ -1,0 +1,1 @@
+{"answer": "D", "question": "The festival is usually in   _   in Thailand.", "id": "middle6927.txt"}

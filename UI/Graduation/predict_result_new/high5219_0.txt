@@ -1,0 +1,1 @@
+{"answer": "B", "question": "In the television advertisement, Doris looks bored because   _  .", "id": "high5219.txt"}

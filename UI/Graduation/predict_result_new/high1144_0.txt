@@ -1,0 +1,1 @@
+{"answer": "B", "question": "How many years has the Capital Dancing Company existed when the author received the phone call from it?", "id": "high1144.txt"}

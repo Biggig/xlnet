@@ -1,0 +1,1 @@
+{"answer": "C", "question": "Which of the following proverbs best displays the author's final thought?", "id": "high10714.txt"}

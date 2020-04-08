@@ -1,0 +1,1 @@
+{"answer": "A", "question": "From the story, we can infer Dad was  _   when he died.", "id": "middle4827.txt"}

@@ -1,0 +1,1 @@
+{"answer": "A", "question": "According to the passage, you should follow   _   rules if you want to be healthy.", "id": "middle7602.txt"}

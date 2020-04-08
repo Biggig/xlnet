@@ -1,0 +1,1 @@
+{"answer": "B", "question": "Steve Jobs didn't finish his college education because he   _  .", "id": "high6057.txt"}

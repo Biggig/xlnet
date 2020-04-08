@@ -1,0 +1,1 @@
+{"answer": "A", "question": "When the young man played a joke on him, the servant was not angry but smiled because   _  .", "id": "high9170.txt"}

@@ -1,0 +1,1 @@
+{"answer": "B", "question": "Which point is about how to end a friendship?", "id": "middle2850.txt"}

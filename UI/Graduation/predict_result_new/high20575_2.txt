@@ -1,0 +1,1 @@
+{"answer": "C", "question": "If Tom answered mostly Group 2, which advice will you give him?", "id": "high20575.txt"}

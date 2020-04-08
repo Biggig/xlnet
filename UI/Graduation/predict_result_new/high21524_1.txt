@@ -1,0 +1,1 @@
+{"answer": "D", "question": "How long had the brother and sister been working in the same building before they got to know each other?", "id": "high21524.txt"}

@@ -1,0 +1,1 @@
+{"answer": "C", "question": "Some people believe when the tough new rules come into effect,   _  .", "id": "high3422.txt"}

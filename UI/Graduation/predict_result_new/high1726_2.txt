@@ -1,0 +1,1 @@
+{"answer": "C", "question": "The argument against Bowlby's conclusion shows that  _  .", "id": "high1726.txt"}

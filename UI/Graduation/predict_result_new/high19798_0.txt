@@ -1,0 +1,1 @@
+{"answer": "B", "question": "With an EZ-Link card, you can take_.", "id": "high19798.txt"}

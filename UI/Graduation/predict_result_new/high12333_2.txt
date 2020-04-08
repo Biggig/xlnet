@@ -1,0 +1,1 @@
+{"answer": "D", "question": "People give these elephants a special holiday in order to   _  .", "id": "high12333.txt"}

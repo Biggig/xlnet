@@ -1,0 +1,1 @@
+{"answer": "A", "question": "Which of the following is NOT the reason for colleges to change their names?", "id": "high23837.txt"}

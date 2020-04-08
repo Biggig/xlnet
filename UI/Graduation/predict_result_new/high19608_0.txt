@@ -1,0 +1,1 @@
+{"answer": "A", "question": "What may upset snowshoe hares because of El Nino?", "id": "high19608.txt"}

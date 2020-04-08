@@ -1,0 +1,1 @@
+{"answer": "D", "question": "Why do Singaporeans avoid arguing with their boss?", "id": "high7203.txt"}

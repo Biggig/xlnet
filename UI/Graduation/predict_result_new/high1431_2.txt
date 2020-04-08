@@ -1,0 +1,1 @@
+{"answer": "D", "question": "According to the passage, one had better not take naps   _  .", "id": "high1431.txt"}

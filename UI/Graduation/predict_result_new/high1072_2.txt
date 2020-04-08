@@ -1,0 +1,1 @@
+{"answer": "C", "question": "What is Kate Carter's opinion about wearing fur and wearing leather?", "id": "high1072.txt"}

@@ -1,0 +1,1 @@
+{"answer": "B", "question": "How often will a blue moon happen over the next twenty years?", "id": "middle3503.txt"}

@@ -1,0 +1,1 @@
+{"answer": "C", "question": "If someone says to you \"Will you come for coffee?\", you   _  .", "id": "middle5490.txt"}

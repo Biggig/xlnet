@@ -1,0 +1,1 @@
+{"answer": "C", "question": "What makes the book The Fashion Police distinguish itself from others?", "id": "high849.txt"}

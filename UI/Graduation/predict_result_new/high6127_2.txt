@@ -1,0 +1,1 @@
+{"answer": "C", "question": "Which piece of advice is NOT given by the author?", "id": "high6127.txt"}

@@ -1,0 +1,1 @@
+{"answer": "B", "question": "So far, how long has the Shanghai World Expo been on ?", "id": "middle7896.txt"}

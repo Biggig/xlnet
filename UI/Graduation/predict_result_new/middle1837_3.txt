@@ -1,0 +1,1 @@
+{"answer": "B", "question": "Jim Hatfield decided to become a do-it-yourself when   _   .", "id": "middle1837.txt"}

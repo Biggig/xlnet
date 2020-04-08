@@ -1,0 +1,1 @@
+{"answer": "B", "question": "What happens to the light from the stars we see when the air in the earth's atmosphere is moving?", "id": "middle1737.txt"}

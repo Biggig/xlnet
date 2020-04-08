@@ -1,0 +1,1 @@
+{"answer": "D", "question": "The man from the West recognized the tall man not to be the one he had been waiting for because the tall man   _  .", "id": "high20011.txt"}

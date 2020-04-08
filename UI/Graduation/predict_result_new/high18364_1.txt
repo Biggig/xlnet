@@ -1,0 +1,1 @@
+{"answer": "A", "question": "Which of the following words can be used to describe the author?", "id": "high18364.txt"}

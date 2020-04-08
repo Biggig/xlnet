@@ -1,0 +1,1 @@
+{"answer": "A", "question": "Farmer John asked the carpenter to build a fence because  _  .", "id": "high5471.txt"}

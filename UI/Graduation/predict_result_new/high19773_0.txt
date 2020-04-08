@@ -1,0 +1,1 @@
+{"answer": "C", "question": "Which of the following you cannot seein the Castle of Monteriggioni ?", "id": "high19773.txt"}

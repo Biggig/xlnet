@@ -1,0 +1,1 @@
+{"answer": "C", "question": "We can most probably read the passage in a magazine about    _   .", "id": "middle8212.txt"}

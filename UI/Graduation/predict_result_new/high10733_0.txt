@@ -1,0 +1,1 @@
+{"answer": "A", "question": "Which of the following demographic growth patterns is most similar to the long thin powder fuse?", "id": "high10733.txt"}

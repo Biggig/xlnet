@@ -1,0 +1,1 @@
+{"answer": "B", "question": "According to this passage most people worry about shopping on the Internet because   _  .", "id": "high22117.txt"}

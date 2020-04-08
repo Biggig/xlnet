@@ -1,0 +1,1 @@
+{"answer": "D", "question": "The following helped Skaar and Oksas survive the fire except  _  .", "id": "high21541.txt"}

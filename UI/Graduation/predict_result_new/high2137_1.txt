@@ -1,0 +1,1 @@
+{"answer": "C", "question": "People usually buy many gifts  _  .", "id": "high2137.txt"}

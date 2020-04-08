@@ -1,0 +1,1 @@
+{"answer": "C", "question": "What did the Spanish restaurant group do about food photography?", "id": "high5001.txt"}

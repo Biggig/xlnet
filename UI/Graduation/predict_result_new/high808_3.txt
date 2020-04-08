@@ -1,0 +1,1 @@
+{"answer": "A", "question": "The phrase \"rose to his feet\" means  _  .", "id": "high808.txt"}

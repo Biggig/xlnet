@@ -1,0 +1,1 @@
+{"answer": "D", "question": "In which part of a newspaper would you most probably read this passage?", "id": "middle3868.txt"}

@@ -1,0 +1,1 @@
+{"answer": "B", "question": "The case of name changing from Cal State, Hayward, to Cal State,East Bay indicates that the university   _  .", "id": "high23837.txt"}

@@ -1,0 +1,1 @@
+{"answer": "C", "question": "Alfred Strong is a famous   _   in the United States.", "id": "high1141.txt"}

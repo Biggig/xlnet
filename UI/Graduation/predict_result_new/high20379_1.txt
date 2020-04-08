@@ -1,0 +1,1 @@
+{"answer": "C", "question": "At first the author felt depressed because of the following reasons except that   _  .", "id": "high20379.txt"}

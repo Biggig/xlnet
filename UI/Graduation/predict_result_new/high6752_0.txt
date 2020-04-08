@@ -1,0 +1,1 @@
+{"answer": "D", "question": "Where did the writer probably work parttime before attending the university?", "id": "high6752.txt"}

@@ -1,0 +1,1 @@
+{"answer": "D", "question": "_   is a kind of individual sports.", "id": "middle2436.txt"}

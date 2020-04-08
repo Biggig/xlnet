@@ -1,0 +1,1 @@
+{"answer": "C", "question": "William admires the Salwen family's  _  .", "id": "high14562.txt"}

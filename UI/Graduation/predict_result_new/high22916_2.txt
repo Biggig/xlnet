@@ -1,0 +1,1 @@
+{"answer": "B", "question": "After Willard's wife died, he came back to his hometown   _   there.", "id": "high22916.txt"}

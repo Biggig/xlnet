@@ -1,0 +1,1 @@
+{"answer": "B", "question": "From the last sentence of the passage,we learn the man   _   before the doctor told him not to smoke more than one cigarette a day.", "id": "high4668.txt"}

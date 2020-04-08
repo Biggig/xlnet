@@ -1,0 +1,1 @@
+{"answer": "B", "question": "When the enemy braves saw the stone bridge they  _  .", "id": "high20387.txt"}

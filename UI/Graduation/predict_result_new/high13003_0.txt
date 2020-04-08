@@ -1,0 +1,1 @@
+{"answer": "C", "question": "The plaque at the entrance of the Jackson Street Hospital is considered as   _  .", "id": "high13003.txt"}

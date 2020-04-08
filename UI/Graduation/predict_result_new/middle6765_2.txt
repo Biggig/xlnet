@@ -1,0 +1,1 @@
+{"answer": "B", "question": "When did the wrier think he lost the silver ring he bought for his sister?", "id": "middle6765.txt"}

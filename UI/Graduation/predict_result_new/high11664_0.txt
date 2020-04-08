@@ -1,0 +1,1 @@
+{"answer": "C", "question": "According to the passage, persuasion means   _  .", "id": "high11664.txt"}

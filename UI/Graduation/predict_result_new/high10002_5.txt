@@ -1,0 +1,1 @@
+{"answer": "C", "question": "In the eyes of the writer, Alberto Torres is a man of   _  .", "id": "high10002.txt"}

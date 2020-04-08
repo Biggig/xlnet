@@ -1,0 +1,1 @@
+{"answer": "C", "question": "According to the passage, the root( ) cause for weather changes on the Earth is  _  .", "id": "high2458.txt"}

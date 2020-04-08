@@ -1,0 +1,1 @@
+{"answer": "C", "question": "When using the teleprompter, people are able to   _  .", "id": "high21712.txt"}

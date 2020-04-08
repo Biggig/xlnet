@@ -1,0 +1,1 @@
+{"answer": "A", "question": "Emperor Shah Jahan built the Taj Mahal to   _  .", "id": "high13207.txt"}

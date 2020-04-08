@@ -1,0 +1,1 @@
+{"answer": "B", "question": "The iphone being tested at Aoyama Gakuin University is mainly to   _", "id": "high9156.txt"}

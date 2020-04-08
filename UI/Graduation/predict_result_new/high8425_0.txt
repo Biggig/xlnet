@@ -1,0 +1,1 @@
+{"answer": "D", "question": "How many young people surveyed said they like their parents?", "id": "high8425.txt"}

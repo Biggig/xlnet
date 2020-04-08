@@ -1,0 +1,1 @@
+{"answer": "C", "question": "What did the writer feel about the food when she visited the USA for the first time?", "id": "middle8212.txt"}

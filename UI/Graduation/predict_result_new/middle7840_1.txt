@@ -1,0 +1,1 @@
+{"answer": "D", "question": "From what Gan Zangchun said, he is worrying about_.", "id": "middle7840.txt"}

@@ -1,0 +1,1 @@
+{"answer": "A", "question": "We can conclude from the passage that the problems of prep school scheme might result from  _  .", "id": "high21306.txt"}

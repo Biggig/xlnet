@@ -1,0 +1,1 @@
+{"answer": "A", "question": "Which is the best way to make friends with an American?", "id": "high1118.txt"}

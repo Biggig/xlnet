@@ -1,0 +1,1 @@
+{"answer": "B", "question": "Luca and other brilliant inventors around him shared a dream of   _  .", "id": "high11886.txt"}

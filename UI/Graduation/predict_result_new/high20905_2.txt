@@ -1,0 +1,1 @@
+{"answer": "B", "question": "The expression \"monkeyshine\" has the closest meaning to   _  .", "id": "high20905.txt"}

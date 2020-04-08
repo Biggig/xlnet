@@ -1,0 +1,1 @@
+{"answer": "B", "question": "Spy cams will be more widely used in the future because   _  .         .", "id": "high3080.txt"}

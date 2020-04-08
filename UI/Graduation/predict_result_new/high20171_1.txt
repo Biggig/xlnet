@@ -1,0 +1,1 @@
+{"answer": "B", "question": "Ugg boots were invented by   _  .", "id": "high20171.txt"}

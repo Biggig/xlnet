@@ -1,0 +1,1 @@
+{"answer": "C", "question": "Why are animals who live in groups especially likely to follow rules?", "id": "high20365.txt"}

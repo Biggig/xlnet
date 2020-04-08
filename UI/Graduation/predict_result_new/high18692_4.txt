@@ -1,0 +1,1 @@
+{"answer": "C", "question": "After reading the passage,we might feel that Americans seem to be    .", "id": "high18692.txt"}

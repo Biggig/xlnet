@@ -1,0 +1,1 @@
+{"answer": "C", "question": "The first postage stamp was made   _   .", "id": "middle3540.txt"}

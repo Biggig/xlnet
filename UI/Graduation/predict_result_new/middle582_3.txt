@@ -1,0 +1,1 @@
+{"answer": "B", "question": "According to the passage, most of the buns were sold to  _   .", "id": "middle582.txt"}

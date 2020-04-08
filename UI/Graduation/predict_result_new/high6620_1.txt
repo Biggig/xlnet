@@ -1,0 +1,1 @@
+{"answer": "B", "question": "How many parrots did Robin Crusoe mention in this passage?", "id": "high6620.txt"}

@@ -1,0 +1,1 @@
+{"answer": "B", "question": "The battery of the author's car was dead because  _  .", "id": "high269.txt"}

@@ -1,0 +1,1 @@
+{"answer": "A", "question": "Jack didn't know when Napoleon had died because  _  .", "id": "middle5627.txt"}

@@ -1,0 +1,1 @@
+{"answer": "D", "question": "What kind of Challenges will not Luke Ravenstahl cope with?", "id": "high24095.txt"}

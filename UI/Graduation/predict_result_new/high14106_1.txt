@@ -1,0 +1,1 @@
+{"answer": "C", "question": "The lion and the polar bears are similar in   _  .", "id": "high14106.txt"}

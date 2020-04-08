@@ -1,0 +1,1 @@
+{"answer": "B", "question": "What causes advances in technology according to Dr. Silva?", "id": "high3932.txt"}

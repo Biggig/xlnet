@@ -1,0 +1,1 @@
+{"answer": "C", "question": "Which of the following could NOT be used to describe the author's father?", "id": "high9903.txt"}

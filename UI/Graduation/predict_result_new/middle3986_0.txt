@@ -1,0 +1,1 @@
+{"answer": "D", "question": "There was a man playing the piano in a bar,   _   likes his music.", "id": "middle3986.txt"}

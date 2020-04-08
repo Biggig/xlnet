@@ -1,0 +1,1 @@
+{"answer": "A", "question": "According to the passage, John Keynes believed that  _  .", "id": "high479.txt"}

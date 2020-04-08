@@ -1,0 +1,1 @@
+{"answer": "D", "question": "According to the latest study, about  _  women washed their hands after using public bathroom.", "id": "high3606.txt"}

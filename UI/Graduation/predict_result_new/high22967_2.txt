@@ -1,0 +1,1 @@
+{"answer": "B", "question": "If Jim wants to make a 5 minutes animated movie, he needs to take about   _  .", "id": "high22967.txt"}

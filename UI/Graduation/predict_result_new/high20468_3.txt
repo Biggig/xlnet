@@ -1,0 +1,1 @@
+{"answer": "C", "question": "What is true concerning the book Pride and Prejudice?", "id": "high20468.txt"}

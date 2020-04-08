@@ -1,0 +1,1 @@
+{"answer": "C", "question": "According to the text, the UK scientists have known that   _  .", "id": "high708.txt"}

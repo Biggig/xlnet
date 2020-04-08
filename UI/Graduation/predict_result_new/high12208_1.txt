@@ -1,0 +1,1 @@
+{"answer": "A", "question": "The five councils worked out a plan to build an incinerator plant to_.", "id": "high12208.txt"}

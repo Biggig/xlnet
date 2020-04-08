@@ -1,0 +1,1 @@
+{"answer": "B", "question": "Why does a traveler get lost in Yucatan?", "id": "middle3619.txt"}

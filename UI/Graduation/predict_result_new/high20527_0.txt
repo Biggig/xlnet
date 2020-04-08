@@ -1,0 +1,1 @@
+{"answer": "D", "question": "Compared with the old robot-driven cars, the new ones   _  .", "id": "high20527.txt"}

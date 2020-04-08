@@ -1,0 +1,1 @@
+{"answer": "A", "question": "Spring Dawn on the Su Causeway is listed as the    _    of Ten Scenes of West Lake.", "id": "middle8196.txt"}

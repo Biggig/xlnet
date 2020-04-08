@@ -1,0 +1,1 @@
+{"answer": "C", "question": "Which of the following is NOT true about Huntington's Disease?", "id": "high22947.txt"}

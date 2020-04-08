@@ -1,0 +1,1 @@
+{"answer": "C", "question": "Why did Mark cry when he tightly held the coin ?", "id": "high12779.txt"}

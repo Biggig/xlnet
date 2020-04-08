@@ -1,0 +1,1 @@
+{"answer": "C", "question": "It is the bride's parents who normally have to  _  .", "id": "high9738.txt"}

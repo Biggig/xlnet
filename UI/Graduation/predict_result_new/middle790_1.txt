@@ -1,0 +1,1 @@
+{"answer": "A", "question": "A girl is looking at the birds. She is   _   .", "id": "middle790.txt"}

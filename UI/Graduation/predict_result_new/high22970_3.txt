@@ -1,0 +1,1 @@
+{"answer": "D", "question": "We can safely come to the conclusion that people's life will be made even better through   _  .", "id": "high22970.txt"}

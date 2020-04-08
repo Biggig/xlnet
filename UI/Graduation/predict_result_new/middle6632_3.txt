@@ -1,0 +1,1 @@
+{"answer": "C", "question": "Robots could be the following, NOT including  _  according to the passage.", "id": "middle6632.txt"}

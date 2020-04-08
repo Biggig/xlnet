@@ -1,0 +1,1 @@
+{"answer": "A", "question": "The town of Kinsale is beautiful for its   _   .", "id": "middle5436.txt"}

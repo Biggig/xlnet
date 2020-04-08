@@ -1,0 +1,1 @@
+{"answer": "C", "question": "Which of the following was turned out nearly at the same time with the jet plane?", "id": "high22970.txt"}

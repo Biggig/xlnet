@@ -1,0 +1,1 @@
+{"answer": "B", "question": "What does the sentence \"You're quite a fellow to build this bridge!\" mean?", "id": "high5471.txt"}

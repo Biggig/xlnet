@@ -1,0 +1,1 @@
+{"answer": "C", "question": "How can you use your chopsticks according to the passage?", "id": "high3046.txt"}

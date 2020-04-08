@@ -1,0 +1,1 @@
+{"answer": "D", "question": "When he was asked about the most important thing he had done in life at a presentation, the author    _   .", "id": "high15438.txt"}

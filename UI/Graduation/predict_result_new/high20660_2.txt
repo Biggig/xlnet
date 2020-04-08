@@ -1,0 +1,1 @@
+{"answer": "B", "question": "What Mr.A.Walker does want to make known in his letter is that  _  .", "id": "high20660.txt"}

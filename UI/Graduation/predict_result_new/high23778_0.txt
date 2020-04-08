@@ -1,0 +1,1 @@
+{"answer": "C", "question": "While eating at restaurants in Paris, French kids   _", "id": "high23778.txt"}

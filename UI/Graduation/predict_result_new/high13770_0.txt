@@ -1,0 +1,1 @@
+{"answer": "C", "question": "What do you focus on when travelling in France?", "id": "high13770.txt"}

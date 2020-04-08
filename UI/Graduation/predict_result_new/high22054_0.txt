@@ -1,0 +1,1 @@
+{"answer": "D", "question": "Compared to other languages, Silbo Gomero is special because it   _  .", "id": "high22054.txt"}

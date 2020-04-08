@@ -1,0 +1,1 @@
+{"answer": "B", "question": "From the text we know that \"Rembrandt\" is most likely to be the name of a famous  _  .", "id": "high11996.txt"}

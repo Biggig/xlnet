@@ -1,0 +1,1 @@
+{"answer": "C", "question": "Which of the following statements does Andy Warhol probably agree to?", "id": "high11607.txt"}

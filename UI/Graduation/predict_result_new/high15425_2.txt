@@ -1,0 +1,1 @@
+{"answer": "B", "question": "Why can't the northern half of the earth escape for long ?", "id": "high15425.txt"}

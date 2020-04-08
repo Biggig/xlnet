@@ -1,0 +1,1 @@
+{"answer": "C", "question": "What drove Shi to do the survey of migrant workers?", "id": "high6696.txt"}

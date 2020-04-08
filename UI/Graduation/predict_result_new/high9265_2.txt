@@ -1,0 +1,1 @@
+{"answer": "B", "question": "It can be learned from Para.10 that the author was afraid that   _  .", "id": "high9265.txt"}

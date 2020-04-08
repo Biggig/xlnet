@@ -1,0 +1,1 @@
+{"answer": "D", "question": "According to the passage, which of the following is changed into electricity?", "id": "middle3323.txt"}

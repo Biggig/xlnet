@@ -1,0 +1,1 @@
+{"answer": "D", "question": "People of Egypt usually start a day with   _  .", "id": "middle6366.txt"}

@@ -1,0 +1,1 @@
+{"answer": "C", "question": "Which of the following is closest to the main idea of the passage?", "id": "high2443.txt"}

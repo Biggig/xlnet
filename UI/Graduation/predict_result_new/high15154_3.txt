@@ -1,0 +1,1 @@
+{"answer": "D", "question": "Why did the airline company give Lieberman the job?", "id": "high15154.txt"}

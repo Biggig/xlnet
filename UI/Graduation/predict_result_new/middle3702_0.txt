@@ -1,0 +1,1 @@
+{"answer": "A", "question": "When the farmer went out for a walk with his daughter, he put on a pair of   _   shoes.", "id": "middle3702.txt"}

@@ -1,0 +1,1 @@
+{"answer": "A", "question": "If a student want to learn better, the most important thing for him to do is  _  .", "id": "high1616.txt"}

@@ -1,0 +1,1 @@
+{"answer": "D", "question": "According to the passage, the researchers' next goal of the experiment is the creation of a glowing   _  .", "id": "high18393.txt"}

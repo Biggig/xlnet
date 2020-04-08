@@ -1,0 +1,1 @@
+{"answer": "B", "question": "Among all the characters mentioned in the passage, who directed films in Hollywood?", "id": "high15782.txt"}

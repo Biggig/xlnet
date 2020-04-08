@@ -1,0 +1,1 @@
+{"answer": "B", "question": "One can conclude that the Olympic Organizing Committee   _  .", "id": "high3704.txt"}

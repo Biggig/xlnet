@@ -1,0 +1,1 @@
+{"answer": "D", "question": "Who are annoyed with food photography in restaurants?", "id": "high5001.txt"}

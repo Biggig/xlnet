@@ -1,0 +1,1 @@
+{"answer": "D", "question": "At Mother's Camp, women can't_.", "id": "high1904.txt"}

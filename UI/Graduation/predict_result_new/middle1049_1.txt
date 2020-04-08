@@ -1,0 +1,1 @@
+{"answer": "A", "question": "People's living conditions have improved   _  in Beijing.", "id": "middle1049.txt"}

@@ -1,0 +1,1 @@
+{"answer": "C", "question": "What's the writer's attitude towards GM foods?", "id": "high13257.txt"}

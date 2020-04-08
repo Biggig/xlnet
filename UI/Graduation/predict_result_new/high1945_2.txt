@@ -1,0 +1,1 @@
+{"answer": "A", "question": "According to the passage, which of the following can show that the holiday is special?", "id": "high1945.txt"}

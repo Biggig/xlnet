@@ -1,0 +1,1 @@
+{"answer": "A", "question": "The study on bossy behavior implies that parents  _  .", "id": "high24004.txt"}

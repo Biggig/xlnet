@@ -1,0 +1,1 @@
+{"answer": "C", "question": "Having recognized the seriousness of the prep school scheme, the N.C.A.A. has taken all the measures EXCEPT  _  .              .", "id": "high21306.txt"}

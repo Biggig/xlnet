@@ -1,0 +1,1 @@
+{"answer": "A", "question": "The new research differs from past studies in that   _  .", "id": "high4504.txt"}

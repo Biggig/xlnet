@@ -1,0 +1,1 @@
+{"answer": "D", "question": "It's widely believed that the stone blocks were moved to the pyramid site by   _  .", "id": "high11080.txt"}

@@ -1,0 +1,1 @@
+{"answer": "B", "question": "Why do women choose to stand in the front?", "id": "high9833.txt"}

@@ -1,0 +1,1 @@
+{"answer": "C", "question": "From the last parts (para7-11), we can infer that   _   .", "id": "high9323.txt"}

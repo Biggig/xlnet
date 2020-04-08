@@ -1,0 +1,1 @@
+{"answer": "C", "question": "Many children and people like Mickey Mouse because  _  .", "id": "middle926.txt"}

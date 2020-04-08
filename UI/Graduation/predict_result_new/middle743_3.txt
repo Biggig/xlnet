@@ -1,0 +1,1 @@
+{"answer": "A", "question": "The story of learning swimming and playing football tells us  _", "id": "middle743.txt"}

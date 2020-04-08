@@ -1,0 +1,1 @@
+{"answer": "D", "question": "As a salesman with the company, Mr. Briggs   _  .", "id": "high22154.txt"}

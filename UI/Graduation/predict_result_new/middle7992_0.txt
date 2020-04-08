@@ -1,0 +1,1 @@
+{"answer": "D", "question": "Many students stay at home and watch TV from morning to night  _  .", "id": "middle7992.txt"}

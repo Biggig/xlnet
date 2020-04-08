@@ -1,0 +1,1 @@
+{"answer": "C", "question": "The author of Passage 1 would most likely view the author of Passage 2 as    _   .", "id": "high15561.txt"}

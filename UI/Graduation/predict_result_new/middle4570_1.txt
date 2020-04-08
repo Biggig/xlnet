@@ -1,0 +1,1 @@
+{"answer": "B", "question": "In which countries can people still get money during the holidays according to the     passage?", "id": "middle4570.txt"}

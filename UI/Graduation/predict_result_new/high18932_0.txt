@@ -1,0 +1,1 @@
+{"answer": "D", "question": "What should children do when their clothing catches on fire?", "id": "high18932.txt"}

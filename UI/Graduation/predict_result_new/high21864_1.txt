@@ -1,0 +1,1 @@
+{"answer": "A", "question": "If a student under 21 drinks alcohol for the first time in Virginia,he might   _  .", "id": "high21864.txt"}

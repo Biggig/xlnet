@@ -1,0 +1,1 @@
+{"answer": "B", "question": "It is NOT true that   _  .", "id": "middle5580.txt"}

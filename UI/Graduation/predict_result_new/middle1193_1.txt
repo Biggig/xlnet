@@ -1,0 +1,1 @@
+{"answer": "D", "question": "It is not polite to answer the real invitation by saying \"  _  \"", "id": "middle1193.txt"}

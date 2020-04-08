@@ -1,0 +1,1 @@
+{"answer": "C", "question": "To make yourself a \"true photographer\",you   _  .", "id": "high8948.txt"}

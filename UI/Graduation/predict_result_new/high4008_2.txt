@@ -1,0 +1,1 @@
+{"answer": "B", "question": "Trabold thought \"Hitler and the Germans\" was so popular because   _  .", "id": "high4008.txt"}

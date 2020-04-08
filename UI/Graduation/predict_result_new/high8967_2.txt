@@ -1,0 +1,1 @@
+{"answer": "D", "question": "If you take the bus from Pingzheng Bus Station to Jiuzhaigou, you can  _  .", "id": "high8967.txt"}

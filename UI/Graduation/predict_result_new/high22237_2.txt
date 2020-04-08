@@ -1,0 +1,1 @@
+{"answer": "C", "question": "When the businessman said \"I thought Cuba is not a rich country.\",he meant \"  _  \".", "id": "high22237.txt"}

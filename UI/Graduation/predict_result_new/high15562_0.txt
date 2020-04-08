@@ -1,0 +1,1 @@
+{"answer": "B", "question": "According to the passage, the advantage of the new scanning software is that    _   .", "id": "high15562.txt"}

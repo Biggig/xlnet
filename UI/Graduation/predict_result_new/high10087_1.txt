@@ -1,0 +1,1 @@
+{"answer": "D", "question": "What should we do if we don't want to shrink faster?", "id": "high10087.txt"}

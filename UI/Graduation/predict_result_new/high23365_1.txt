@@ -1,0 +1,1 @@
+{"answer": "D", "question": "The reason why lions don't normally prey on people is   _  .", "id": "high23365.txt"}

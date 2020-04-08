@@ -1,0 +1,1 @@
+{"answer": "C", "question": "Some people say the world is smaller than before because.", "id": "middle3379.txt"}

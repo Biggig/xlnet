@@ -1,0 +1,1 @@
+{"answer": "B", "question": "\"Many people live as if life were a dress rehearsal\" suggests that   _  .", "id": "high20231.txt"}

@@ -1,0 +1,1 @@
+{"answer": "A", "question": "According to the passage, if there are 100 Chinese men smokers in the room, as a result,the number of cigarettes they smoke is at least   _   each day.", "id": "high22834.txt"}

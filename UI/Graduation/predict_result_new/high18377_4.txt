@@ -1,0 +1,1 @@
+{"answer": "B", "question": "The fact that the new law has been passed shows that  _  .", "id": "high18377.txt"}

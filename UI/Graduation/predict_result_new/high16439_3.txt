@@ -1,0 +1,1 @@
+{"answer": "D", "question": "In his later years, Artie Shaw    _   .", "id": "high16439.txt"}

@@ -1,0 +1,1 @@
+{"answer": "B", "question": "Why are some Chinese likely to go skiing in Europe?", "id": "high2592.txt"}

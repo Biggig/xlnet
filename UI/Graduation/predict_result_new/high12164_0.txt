@@ -1,0 +1,1 @@
+{"answer": "B", "question": ".Sun Pictures is different from other theaters because   _  .", "id": "high12164.txt"}

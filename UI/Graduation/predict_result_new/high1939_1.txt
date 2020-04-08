@@ -1,0 +1,1 @@
+{"answer": "B", "question": "All the following can contribute to a sudden lack of ambition EXCEPT  _  .", "id": "high1939.txt"}

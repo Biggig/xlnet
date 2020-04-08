@@ -1,0 +1,1 @@
+{"answer": "B", "question": "Which type of writing is the article likely to be?", "id": "high17984.txt"}

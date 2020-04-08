@@ -1,0 +1,1 @@
+{"answer": "A", "question": "Which of the following can serve as the best title of the passage in a newspaper?", "id": "high1945.txt"}

@@ -1,0 +1,1 @@
+{"answer": "B", "question": "According to Robert Foss, the high death rate of teenage drivers is mainly because   _  .", "id": "middle1246.txt"}

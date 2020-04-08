@@ -1,0 +1,1 @@
+{"answer": "D", "question": "According to the experts, it's better for a student of 40 kilos to carry a backpack of   _   at most.", "id": "middle1711.txt"}

@@ -1,0 +1,1 @@
+{"answer": "A", "question": "It is the belief of Foito-Lay's head of global marking that  _  .", "id": "high23663.txt"}

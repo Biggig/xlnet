@@ -1,0 +1,1 @@
+{"answer": "C", "question": "The author's attitude towards teens having after-school jobs is  _  .", "id": "high19473.txt"}

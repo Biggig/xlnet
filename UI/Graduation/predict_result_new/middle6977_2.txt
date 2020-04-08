@@ -1,0 +1,1 @@
+{"answer": "C", "question": "The writer left Beijing for the Great Wall  _  .", "id": "middle6977.txt"}

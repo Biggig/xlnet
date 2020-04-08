@@ -1,0 +1,1 @@
+{"answer": "A", "question": "According to the analysis, compared with normal children today, children treated as mentally ill 50 years ago   _  .", "id": "high14089.txt"}

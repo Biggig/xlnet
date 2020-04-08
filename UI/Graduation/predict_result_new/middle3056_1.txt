@@ -1,0 +1,1 @@
+{"answer": "C", "question": "When you are getting into trouble or feeling sad, you should   _  to your best friend.", "id": "middle3056.txt"}

@@ -1,0 +1,1 @@
+{"answer": "B", "question": "The novel Love mainly describes   _  .", "id": "high7314.txt"}

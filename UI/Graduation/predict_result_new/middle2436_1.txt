@@ -1,0 +1,1 @@
+{"answer": "A", "question": "In a football match team A gets 1 point and team B gets 3 points, then   _   .", "id": "middle2436.txt"}

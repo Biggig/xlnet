@@ -1,0 +1,1 @@
+{"answer": "C", "question": "What difficulty did Deanna meet after starting the trip with Ted?", "id": "high14303.txt"}

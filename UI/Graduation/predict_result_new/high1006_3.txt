@@ -1,0 +1,1 @@
+{"answer": "D", "question": "The author began to love books for the following reasons EXCEPT that   _  .", "id": "high1006.txt"}

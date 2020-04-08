@@ -1,0 +1,1 @@
+{"answer": "D", "question": "Why was Mo Yan awarded the Nobel Literature Prize of 2012?", "id": "high23289.txt"}

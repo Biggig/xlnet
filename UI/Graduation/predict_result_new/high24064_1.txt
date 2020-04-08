@@ -1,0 +1,1 @@
+{"answer": "A", "question": "The underlind word \"spurning\" in the last sentence can be replaced by   _  .", "id": "high24064.txt"}

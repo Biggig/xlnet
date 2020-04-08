@@ -1,0 +1,1 @@
+{"answer": "C", "question": "According to MacBride, what's the problem for New York City?", "id": "high13608.txt"}

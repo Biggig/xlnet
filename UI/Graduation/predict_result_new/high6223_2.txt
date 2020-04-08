@@ -1,0 +1,1 @@
+{"answer": "C", "question": "Which group can provide food and shelter?", "id": "high6223.txt"}

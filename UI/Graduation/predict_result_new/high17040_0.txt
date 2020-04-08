@@ -1,0 +1,1 @@
+{"answer": "A", "question": "In this passage, the word \"gravity\" means  _  .", "id": "high17040.txt"}

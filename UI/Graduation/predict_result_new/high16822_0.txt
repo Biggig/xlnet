@@ -1,0 +1,1 @@
+{"answer": "D", "question": "City farms are close to the following places EXCEPT    .", "id": "high16822.txt"}

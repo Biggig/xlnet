@@ -1,0 +1,1 @@
+{"answer": "D", "question": "What can we infer from the author's description of the scene at the hospital?", "id": "high15438.txt"}

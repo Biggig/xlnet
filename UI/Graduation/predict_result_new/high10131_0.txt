@@ -1,0 +1,1 @@
+{"answer": "D", "question": "What does Sir Steven Redgrave mainly talk about?", "id": "high10131.txt"}

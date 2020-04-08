@@ -1,0 +1,1 @@
+{"answer": "D", "question": "The problem of keeping stamps at home is that   _  .", "id": "high9026.txt"}

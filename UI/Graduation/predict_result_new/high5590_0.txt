@@ -1,0 +1,1 @@
+{"answer": "B", "question": "Compared with other TV talk shows, both the Jerry Springer and the Oprah Winfrey shows are   _  .", "id": "high5590.txt"}

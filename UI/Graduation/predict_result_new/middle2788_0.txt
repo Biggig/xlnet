@@ -1,0 +1,1 @@
+{"answer": "B", "question": "All of the followings are common spices in Chinese cooking EXCEPT  _  .", "id": "middle2788.txt"}

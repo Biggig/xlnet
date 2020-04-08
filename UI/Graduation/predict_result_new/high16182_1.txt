@@ -1,0 +1,1 @@
+{"answer": "B", "question": "When will an auction be held?", "id": "high16182.txt"}

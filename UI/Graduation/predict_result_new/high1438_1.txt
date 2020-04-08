@@ -1,0 +1,1 @@
+{"answer": "A", "question": ". When things far away seem indistinct  , one is probably  _  .", "id": "high1438.txt"}

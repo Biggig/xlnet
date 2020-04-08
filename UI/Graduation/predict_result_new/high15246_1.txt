@@ -1,0 +1,1 @@
+{"answer": "D", "question": "What prevents Mary, aged 25, becoming an air hostess?", "id": "high15246.txt"}

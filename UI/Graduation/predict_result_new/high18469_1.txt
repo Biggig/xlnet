@@ -1,0 +1,1 @@
+{"answer": "B", "question": "Which part of Joel Haler's body didn't work?", "id": "high18469.txt"}

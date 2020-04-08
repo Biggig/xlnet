@@ -1,0 +1,1 @@
+{"answer": "C", "question": "The first man thought the pyramids were the most wonderful things in the world because   _  .", "id": "middle1029.txt"}

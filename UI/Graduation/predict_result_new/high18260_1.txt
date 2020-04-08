@@ -1,0 +1,1 @@
+{"answer": "B", "question": "According to Dr. Lintern, what helped them find a lot of the easy deposits in Australia?", "id": "high18260.txt"}

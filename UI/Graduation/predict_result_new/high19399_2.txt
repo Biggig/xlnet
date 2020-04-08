@@ -1,0 +1,1 @@
+{"answer": "C", "question": "Why did Eva Mozes Kor shake hands with Groning?", "id": "high19399.txt"}

@@ -1,0 +1,1 @@
+{"answer": "D", "question": "Which is the measure the retailers won't take to attract shoppers?", "id": "high18328.txt"}

@@ -1,0 +1,1 @@
+{"answer": "B", "question": "Though the social problems Jerry Springer talks about appear unpleasant, people who watch the shows   _  .", "id": "high5590.txt"}

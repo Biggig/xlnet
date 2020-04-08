@@ -1,0 +1,1 @@
+{"answer": "C", "question": "The word \"home\" has no exact translation because   _  .", "id": "high5061.txt"}

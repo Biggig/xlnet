@@ -1,0 +1,1 @@
+{"answer": "D", "question": "According to the passage, fathers' involvement in their children's lives may NOT result in    _   .", "id": "high8726.txt"}

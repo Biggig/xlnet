@@ -1,0 +1,1 @@
+{"answer": "C", "question": "What do scientists find about the tribes?", "id": "high8644.txt"}

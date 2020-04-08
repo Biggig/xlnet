@@ -1,0 +1,1 @@
+{"answer": "A", "question": "The Earth has   _  .", "id": "high1078.txt"}

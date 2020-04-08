@@ -1,0 +1,1 @@
+{"answer": "C", "question": "What probably made Ronnie come to life after driving the truck in the ditch?", "id": "high23985.txt"}

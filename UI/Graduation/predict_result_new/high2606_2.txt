@@ -1,0 +1,1 @@
+{"answer": "C", "question": "If you wish to receive an order totaling $90.00 within 3 days, how much would the shipping cost?", "id": "high2606.txt"}

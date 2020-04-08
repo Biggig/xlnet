@@ -1,0 +1,1 @@
+{"answer": "B", "question": "According to the passage, to get a good lerning state, the most important thing is   _  .", "id": "high18225.txt"}

@@ -1,0 +1,1 @@
+{"answer": "B", "question": "The newly teaching robots are more advanced because they have  _", "id": "high20723.txt"}

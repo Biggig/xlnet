@@ -1,0 +1,1 @@
+{"answer": "B", "question": "Why did Ann buy some cheese, some bread and some oranges?", "id": "high17307.txt"}

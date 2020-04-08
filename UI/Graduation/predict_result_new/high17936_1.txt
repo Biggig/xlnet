@@ -1,0 +1,1 @@
+{"answer": "C", "question": "People in the US don't_when on the New Year's Eve.", "id": "high17936.txt"}

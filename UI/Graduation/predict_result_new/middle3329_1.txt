@@ -1,0 +1,1 @@
+{"answer": "D", "question": "Those pests with different colours from plants have to  _  to keep out of danger.", "id": "middle3329.txt"}

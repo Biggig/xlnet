@@ -1,0 +1,1 @@
+{"answer": "C", "question": "Which of the following statements is NOT mentioned about the private holiday home the writer stayed in?", "id": "middle1361.txt"}

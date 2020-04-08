@@ -1,0 +1,1 @@
+{"answer": "B", "question": "The main reason for the success of the great scientists is that  _  .", "id": "high1616.txt"}

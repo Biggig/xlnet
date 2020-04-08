@@ -1,0 +1,1 @@
+{"answer": "B", "question": "Facebook users check their account frequently to   _  .", "id": "high12448.txt"}

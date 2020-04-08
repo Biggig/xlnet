@@ -1,0 +1,1 @@
+{"answer": "C", "question": "The purpose of writing a letter to the president was to   _  .", "id": "high5386.txt"}

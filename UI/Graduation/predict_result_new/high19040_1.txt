@@ -1,0 +1,1 @@
+{"answer": "C", "question": "According to the passage,Hippo Point is intended for   _  .", "id": "high19040.txt"}

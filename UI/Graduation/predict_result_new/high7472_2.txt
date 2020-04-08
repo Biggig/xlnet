@@ -1,0 +1,1 @@
+{"answer": "D", "question": "For a worker on an assembly line in a car factory, the job is not enjoyable because   _  .", "id": "high7472.txt"}

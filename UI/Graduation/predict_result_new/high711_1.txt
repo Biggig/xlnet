@@ -1,0 +1,1 @@
+{"answer": "C", "question": "When the woman said, \"How they look like the two of last night!\"   _  .", "id": "high711.txt"}

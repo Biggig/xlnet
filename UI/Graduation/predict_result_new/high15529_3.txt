@@ -1,0 +1,1 @@
+{"answer": "A", "question": "It is clear that Gordon had not intended to    _   .", "id": "high15529.txt"}

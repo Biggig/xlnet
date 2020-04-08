@@ -1,0 +1,1 @@
+{"answer": "B", "question": "What does the author intend to tell us by sharing his story?", "id": "high18364.txt"}

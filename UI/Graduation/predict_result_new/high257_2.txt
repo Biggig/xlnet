@@ -1,0 +1,1 @@
+{"answer": "B", "question": "How can the thieves get the information of the credit card?", "id": "high257.txt"}

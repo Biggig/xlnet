@@ -1,0 +1,1 @@
+{"answer": "A", "question": "In this passage the author's attitude towards \"children numerical skills\" is   _  .", "id": "high23600.txt"}

@@ -1,0 +1,1 @@
+{"answer": "A", "question": "55. The clothes which you buy from the supermarket are called    _    clothes.", "id": "high16066.txt"}

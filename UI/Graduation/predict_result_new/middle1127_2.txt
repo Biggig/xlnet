@@ -1,0 +1,1 @@
+{"answer": "C", "question": "According to the passage, what will happen to you if you don't have any breakfast?", "id": "middle1127.txt"}

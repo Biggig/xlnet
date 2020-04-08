@@ -1,0 +1,1 @@
+{"answer": "C", "question": "The coin was missing because   _  .", "id": "high24212.txt"}

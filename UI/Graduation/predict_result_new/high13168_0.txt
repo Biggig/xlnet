@@ -1,0 +1,1 @@
+{"answer": "D", "question": "What did the writer think of Sandra Keierleber at the beginning?", "id": "high13168.txt"}

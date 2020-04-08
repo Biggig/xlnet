@@ -1,0 +1,1 @@
+{"answer": "B", "question": "Michelle Wie's ambition is to_.", "id": "high17462.txt"}

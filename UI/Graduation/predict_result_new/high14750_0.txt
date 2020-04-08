@@ -1,0 +1,1 @@
+{"answer": "B", "question": "Why will there be a quick growth in electric bicycle production in the next five years in China?", "id": "high14750.txt"}

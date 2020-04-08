@@ -1,0 +1,1 @@
+{"answer": "B", "question": "Since the new system has performed,   _   of water can be saved.", "id": "high5407.txt"}

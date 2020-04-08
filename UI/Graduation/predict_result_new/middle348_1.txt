@@ -1,0 +1,1 @@
+{"answer": "C", "question": "If you don't have a  _  , you can never get anything.", "id": "middle348.txt"}

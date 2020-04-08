@@ -1,0 +1,1 @@
+{"answer": "D", "question": "Which of the following was NOT the benefit got by the author through attending summer school?", "id": "high3463.txt"}

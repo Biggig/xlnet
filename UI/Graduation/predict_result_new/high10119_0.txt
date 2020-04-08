@@ -1,0 +1,1 @@
+{"answer": "B", "question": "According to this article, why are you more likely to see the northern lights in the winter?", "id": "high10119.txt"}

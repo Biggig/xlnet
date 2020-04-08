@@ -1,0 +1,1 @@
+{"answer": "A", "question": "Consumers can buy the \"Talk to the Hand\" gloves   _  .", "id": "high10444.txt"}

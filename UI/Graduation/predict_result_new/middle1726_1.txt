@@ -1,0 +1,1 @@
+{"answer": "B", "question": "In America, women like shopping on.", "id": "middle1726.txt"}

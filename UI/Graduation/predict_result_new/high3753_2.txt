@@ -1,0 +1,1 @@
+{"answer": "D", "question": "The strawberries the children eat serve as  _  .", "id": "high3753.txt"}

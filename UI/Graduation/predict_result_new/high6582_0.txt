@@ -1,0 +1,1 @@
+{"answer": "D", "question": "What happened on Thursday night in Good Friend Chinese and Seafood Restaurant?", "id": "high6582.txt"}

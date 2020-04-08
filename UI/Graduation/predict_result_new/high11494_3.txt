@@ -1,0 +1,1 @@
+{"answer": "D", "question": "When the music starts,the players must   _  .", "id": "high11494.txt"}

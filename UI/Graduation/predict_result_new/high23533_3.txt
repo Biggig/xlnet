@@ -1,0 +1,1 @@
+{"answer": "C", "question": "The quotation \" the odds were all on Nathan's side\" means that   _  .", "id": "high23533.txt"}

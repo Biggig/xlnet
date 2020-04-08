@@ -1,0 +1,1 @@
+{"answer": "C", "question": "The passage states that some people object to persuasion because they think it is   _  .", "id": "high11664.txt"}

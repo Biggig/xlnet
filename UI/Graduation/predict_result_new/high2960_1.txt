@@ -1,0 +1,1 @@
+{"answer": "D", "question": "Leopold refuses to classify herself as a hipster because  _  .", "id": "high2960.txt"}

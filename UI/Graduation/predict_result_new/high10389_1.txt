@@ -1,0 +1,1 @@
+{"answer": "D", "question": "Employers usually think those who left their former job in a short time   _  .", "id": "high10389.txt"}

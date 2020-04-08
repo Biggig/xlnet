@@ -1,0 +1,1 @@
+{"answer": "D", "question": "How many people are probably there in the author's family?   _  .", "id": "high22994.txt"}

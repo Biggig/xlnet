@@ -1,0 +1,1 @@
+{"answer": "D", "question": "The man in the passage failed to get the plant because  _  .", "id": "high9905.txt"}

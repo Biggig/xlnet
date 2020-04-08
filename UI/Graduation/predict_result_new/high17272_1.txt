@@ -1,0 +1,1 @@
+{"answer": "A", "question": "Why didn't Churchill want the tickets for the first night?", "id": "high17272.txt"}

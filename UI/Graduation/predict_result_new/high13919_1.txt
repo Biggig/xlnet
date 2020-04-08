@@ -1,0 +1,1 @@
+{"answer": "D", "question": "At what speed do the nearest sand dunes move towards Beijing according to the passage?", "id": "high13919.txt"}

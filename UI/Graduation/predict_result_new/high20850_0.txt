@@ -1,0 +1,1 @@
+{"answer": "B", "question": "Which word can best describe the feeling of the father when Christrmas was coming?", "id": "high20850.txt"}

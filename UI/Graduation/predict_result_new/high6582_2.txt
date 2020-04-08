@@ -1,0 +1,1 @@
+{"answer": "D", "question": "The restaurant owner fired on Walker when   _  .", "id": "high6582.txt"}

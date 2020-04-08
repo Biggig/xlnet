@@ -1,0 +1,1 @@
+{"answer": "C", "question": "In North America, men sometimes misunderstand women's intention because  _  .", "id": "high8631.txt"}

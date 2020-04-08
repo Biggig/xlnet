@@ -1,0 +1,1 @@
+{"answer": "B", "question": "Einstein and Marits got divorced because   _  .", "id": "high1025.txt"}

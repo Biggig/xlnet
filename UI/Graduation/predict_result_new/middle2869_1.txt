@@ -1,0 +1,1 @@
+{"answer": "C", "question": "According to Morgan, what kind of people are most likely to suffer from nearsightedness?", "id": "middle2869.txt"}

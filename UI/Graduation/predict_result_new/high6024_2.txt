@@ -1,0 +1,1 @@
+{"answer": "B", "question": "What kind of books was read most according to the passage?", "id": "high6024.txt"}

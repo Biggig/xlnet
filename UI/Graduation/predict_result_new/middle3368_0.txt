@@ -1,0 +1,1 @@
+{"answer": "C", "question": "The APOPO trained the rats to search for  _  .", "id": "middle3368.txt"}

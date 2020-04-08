@@ -1,0 +1,1 @@
+{"answer": "C", "question": "DEC has disappeared probably because   _  .", "id": "high12762.txt"}

@@ -1,0 +1,1 @@
+{"answer": "C", "question": "The author did the following except that he  _  .", "id": "high4036.txt"}

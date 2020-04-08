@@ -1,0 +1,1 @@
+{"answer": "C", "question": "Which subject is the most attractive to foreign students in the USA?", "id": "high2934.txt"}

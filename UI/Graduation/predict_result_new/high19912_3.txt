@@ -1,0 +1,1 @@
+{"answer": "D", "question": "What can't guests do in the hotel according to the passage?", "id": "high19912.txt"}

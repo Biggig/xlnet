@@ -1,0 +1,1 @@
+{"answer": "A", "question": "We can conclude from the article that the situation seemed  _  for astronauts on board the ISS when the rocket exploded.", "id": "high9589.txt"}

@@ -1,0 +1,1 @@
+{"answer": "D", "question": "Who saved Austin according to his father?", "id": "high3337.txt"}

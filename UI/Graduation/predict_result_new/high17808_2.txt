@@ -1,0 +1,1 @@
+{"answer": "B", "question": "Which of the following newspapers would you read if you are interested in lives of film stars?", "id": "high17808.txt"}

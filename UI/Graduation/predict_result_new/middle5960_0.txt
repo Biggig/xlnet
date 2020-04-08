@@ -1,0 +1,1 @@
+{"answer": "A", "question": "When did Sarah realize that she had also given Billy her diamond ring?", "id": "middle5960.txt"}

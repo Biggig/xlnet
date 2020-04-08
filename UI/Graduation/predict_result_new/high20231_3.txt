@@ -1,0 +1,1 @@
+{"answer": "B", "question": "Why are some people depressed and anxious day and night?", "id": "high20231.txt"}

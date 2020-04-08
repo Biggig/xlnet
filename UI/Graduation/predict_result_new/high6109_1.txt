@@ -1,0 +1,1 @@
+{"answer": "B", "question": "Why did John Parnell mention the fact about Earth?", "id": "high6109.txt"}

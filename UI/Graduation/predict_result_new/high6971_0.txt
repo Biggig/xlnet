@@ -1,0 +1,1 @@
+{"answer": "B", "question": "The expression \"play a crucial role in\" can be understood as \"  _  \".", "id": "high6971.txt"}

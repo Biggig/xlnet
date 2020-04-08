@@ -1,0 +1,1 @@
+{"answer": "D", "question": "Which of the following ways to stop smoking is NOT mentioned in the passage?", "id": "middle3901.txt"}

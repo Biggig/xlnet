@@ -1,0 +1,1 @@
+{"answer": "A", "question": ".How did people feel when Tom appeared at his own funeral ?", "id": "high6885.txt"}

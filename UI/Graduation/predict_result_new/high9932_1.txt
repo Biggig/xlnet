@@ -1,0 +1,1 @@
+{"answer": "A", "question": "Why Chai jing decided to make the film at first ?", "id": "high9932.txt"}

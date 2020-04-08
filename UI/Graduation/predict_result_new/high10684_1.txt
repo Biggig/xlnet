@@ -1,0 +1,1 @@
+{"answer": "D", "question": "How often can the volunteers take a shower?", "id": "high10684.txt"}

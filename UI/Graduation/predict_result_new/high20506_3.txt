@@ -1,0 +1,1 @@
+{"answer": "D", "question": "Sophia Sparks prefers the term \"inspirational tree climbing\" because it   _  .", "id": "high20506.txt"}

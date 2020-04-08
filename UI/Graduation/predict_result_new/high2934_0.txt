@@ -1,0 +1,1 @@
+{"answer": "D", "question": "After 2002, the number of foreign students in the USA fell mainly because   _  .", "id": "high2934.txt"}

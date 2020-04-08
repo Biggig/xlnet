@@ -1,0 +1,1 @@
+{"answer": "D", "question": "The black dress will be probably suitable for you on condition that there are no   _  .", "id": "high12150.txt"}

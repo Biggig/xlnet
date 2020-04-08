@@ -1,0 +1,1 @@
+{"answer": "B", "question": "Why are overseas job candidates gradually losing their advantage?", "id": "high20457.txt"}

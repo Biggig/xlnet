@@ -1,0 +1,1 @@
+{"answer": "B", "question": "In order to make a living, Mark Twain   _  .", "id": "high14749.txt"}

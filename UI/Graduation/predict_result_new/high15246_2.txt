@@ -1,0 +1,1 @@
+{"answer": "C", "question": "Which of the following is not mentioned in the three advertisements?", "id": "high15246.txt"}

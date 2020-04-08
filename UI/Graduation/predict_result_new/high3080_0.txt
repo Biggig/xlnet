@@ -1,0 +1,1 @@
+{"answer": "D", "question": "In the writer's opinion, surveillance cameras   _  .         .", "id": "high3080.txt"}

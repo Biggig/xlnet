@@ -1,0 +1,1 @@
+{"answer": "C", "question": "American teenagers can work when they are   _   years old by law.", "id": "middle869.txt"}

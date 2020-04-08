@@ -1,0 +1,1 @@
+{"answer": "B", "question": "Which of the following is NOT the job that Lohan has done until now?", "id": "high23639.txt"}

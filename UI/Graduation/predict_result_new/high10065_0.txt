@@ -1,0 +1,1 @@
+{"answer": "C", "question": "What will be tested in the new SAT?", "id": "high10065.txt"}

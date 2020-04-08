@@ -1,0 +1,1 @@
+{"answer": "B", "question": "What color shirts did Mike's team wear?", "id": "middle2375.txt"}

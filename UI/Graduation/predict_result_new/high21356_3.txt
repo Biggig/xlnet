@@ -1,0 +1,1 @@
+{"answer": "D", "question": "People who find a book from BookCrossing are expected to  _  .", "id": "high21356.txt"}

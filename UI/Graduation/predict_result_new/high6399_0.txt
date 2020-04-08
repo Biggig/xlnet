@@ -1,0 +1,1 @@
+{"answer": "A", "question": "Which is Not the reason why the public is riding subways and buses in increasing numbers.", "id": "high6399.txt"}

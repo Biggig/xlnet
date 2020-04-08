@@ -1,0 +1,1 @@
+{"answer": "A", "question": "Compared with glass bottled wine, boxed wine   _  .", "id": "high21130.txt"}

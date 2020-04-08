@@ -1,0 +1,1 @@
+{"answer": "D", "question": "Which of the following descriptions about online learning is NOT true according to the passage?", "id": "high5351.txt"}

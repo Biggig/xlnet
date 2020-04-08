@@ -1,0 +1,1 @@
+{"answer": "D", "question": "The last sentence of the whole passage ''That's gr8!  But I'm v busy rite now. Will call U 2nite.\" May probably means  _  .", "id": "high23180.txt"}

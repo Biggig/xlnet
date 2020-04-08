@@ -1,0 +1,1 @@
+{"answer": "D", "question": "According to Bernie , Marie's death is mainly because of   _  .", "id": "high17980.txt"}

@@ -1,0 +1,1 @@
+{"answer": "D", "question": "The purpose of the project \"Dear to Speak\" is to   _   .", "id": "high9319.txt"}

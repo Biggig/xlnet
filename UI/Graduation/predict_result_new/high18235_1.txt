@@ -1,0 +1,1 @@
+{"answer": "B", "question": "According to the advertisement, which of the following DOESN'T belong to soft skills?", "id": "high18235.txt"}

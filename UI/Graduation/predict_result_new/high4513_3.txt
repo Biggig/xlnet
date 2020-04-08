@@ -1,0 +1,1 @@
+{"answer": "B", "question": "According to the passage, getting smaller can make people and animals   _", "id": "high4513.txt"}

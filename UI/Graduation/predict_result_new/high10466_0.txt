@@ -1,0 +1,1 @@
+{"answer": "D", "question": "With the study of philosophy, you can  _  .", "id": "high10466.txt"}

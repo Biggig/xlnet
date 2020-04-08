@@ -1,0 +1,1 @@
+{"answer": "D", "question": "It can be inferred that the author felt  _  when he found the silver photo on Bay.", "id": "high18339.txt"}

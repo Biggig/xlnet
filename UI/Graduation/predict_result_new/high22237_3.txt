@@ -1,0 +1,1 @@
+{"answer": "B", "question": "What did the businessman want to say by throwing the lawyer out of the window?", "id": "high22237.txt"}

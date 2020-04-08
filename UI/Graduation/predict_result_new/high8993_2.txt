@@ -1,0 +1,1 @@
+{"answer": "D", "question": "My friend telephoned me two hours later   _   .", "id": "high8993.txt"}

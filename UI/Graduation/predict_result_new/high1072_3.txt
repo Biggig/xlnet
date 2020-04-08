@@ -1,0 +1,1 @@
+{"answer": "D", "question": "What is Marc Bekoff's attitude towards sales of fur?", "id": "high1072.txt"}

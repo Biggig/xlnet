@@ -1,0 +1,1 @@
+{"answer": "B", "question": "How many persons are mentioned about breaking world records in the passage?", "id": "high17707.txt"}

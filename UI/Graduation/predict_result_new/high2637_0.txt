@@ -1,0 +1,1 @@
+{"answer": "B", "question": "The role of children and teens has changed mainly because   _  .", "id": "high2637.txt"}

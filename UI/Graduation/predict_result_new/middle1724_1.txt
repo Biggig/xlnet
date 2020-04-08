@@ -1,0 +1,1 @@
+{"answer": "C", "question": "Sadness didn't see Love when he passed by Love, did he?", "id": "middle1724.txt"}

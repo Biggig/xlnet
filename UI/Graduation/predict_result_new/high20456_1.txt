@@ -1,0 +1,1 @@
+{"answer": "B", "question": "If you don't pay off the credit card debts in full each month, the best way to save money is to   _  .", "id": "high20456.txt"}

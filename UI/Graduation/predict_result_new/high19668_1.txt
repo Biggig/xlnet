@@ -1,0 +1,1 @@
+{"answer": "D", "question": "In order to solve the problem of Arabica, coffee plants, some farmers_.", "id": "high19668.txt"}

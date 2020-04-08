@@ -1,0 +1,1 @@
+{"answer": "B", "question": "The author believes that a student can be given a second chance   _  .", "id": "high20770.txt"}

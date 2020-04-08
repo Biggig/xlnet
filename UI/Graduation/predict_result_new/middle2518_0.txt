@@ -1,0 +1,1 @@
+{"answer": "A", "question": "An ice cream sundae was  _  a dish of plain ice cream.", "id": "middle2518.txt"}

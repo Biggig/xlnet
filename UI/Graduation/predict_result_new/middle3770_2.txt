@@ -1,0 +1,1 @@
+{"answer": "A", "question": "Mr. Read is Zhang Fei's  _", "id": "middle3770.txt"}

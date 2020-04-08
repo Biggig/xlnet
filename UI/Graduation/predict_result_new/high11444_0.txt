@@ -1,0 +1,1 @@
+{"answer": "B", "question": "How many students received an admission e-mail from the University of California, San Diego (UCSD)?", "id": "high11444.txt"}

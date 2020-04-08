@@ -1,0 +1,1 @@
+{"answer": "D", "question": "The attitude of Sedikides towards homesickness is   _  .", "id": "high6341.txt"}

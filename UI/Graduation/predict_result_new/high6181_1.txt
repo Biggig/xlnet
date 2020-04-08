@@ -1,0 +1,1 @@
+{"answer": "B", "question": "According to the police,what was the direct reason for the incident?", "id": "high6181.txt"}

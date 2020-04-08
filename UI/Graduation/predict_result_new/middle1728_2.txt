@@ -1,0 +1,1 @@
+{"answer": "B", "question": "What did Mo say about himself after he got the prize?", "id": "middle1728.txt"}

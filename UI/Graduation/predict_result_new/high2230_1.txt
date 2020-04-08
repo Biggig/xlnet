@@ -1,0 +1,1 @@
+{"answer": "D", "question": "We prefer to use fingerprints to identify people because   _  .", "id": "high2230.txt"}

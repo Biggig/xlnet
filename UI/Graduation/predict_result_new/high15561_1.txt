@@ -1,0 +1,1 @@
+{"answer": "B", "question": "The author of Passage 1 would most likely respond to the \"argument\" (line 1 Passage 2) with   _   .", "id": "high15561.txt"}

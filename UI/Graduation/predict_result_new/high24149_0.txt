@@ -1,0 +1,1 @@
+{"answer": "D", "question": "Tommy's mother felt surprised that his son  _  .", "id": "high24149.txt"}

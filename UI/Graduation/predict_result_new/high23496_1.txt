@@ -1,0 +1,1 @@
+{"answer": "B", "question": "If you want to see a play with old jokes and songs, which phone number will you ring to book a seat?", "id": "high23496.txt"}

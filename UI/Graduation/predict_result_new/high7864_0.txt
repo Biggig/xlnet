@@ -1,0 +1,1 @@
+{"answer": "A", "question": "One feels homesick means he's not   _  .", "id": "high7864.txt"}

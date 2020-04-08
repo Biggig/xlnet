@@ -1,0 +1,1 @@
+{"answer": "B", "question": "Which of the following is another example of something that has a crescent shape?", "id": "middle3503.txt"}

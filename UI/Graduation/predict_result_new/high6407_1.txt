@@ -1,0 +1,1 @@
+{"answer": "D", "question": "China will take measures to deal with air pollution except  _  .", "id": "high6407.txt"}

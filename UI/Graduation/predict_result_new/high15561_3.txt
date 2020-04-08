@@ -1,0 +1,1 @@
+{"answer": "A", "question": "In Passage 2 lines 8--10, the \"present\" is characterized as    _   .", "id": "high15561.txt"}

@@ -1,0 +1,1 @@
+{"answer": "C", "question": "Compared with two other ways, the obvious disadvantage of studying abroad lies in its    _   .", "id": "high16395.txt"}

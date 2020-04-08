@@ -1,0 +1,1 @@
+{"answer": "A", "question": "All of the following prevent migrant worker's kids from attending schools in cities EXCEPT  _", "id": "high6696.txt"}

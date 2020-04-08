@@ -1,0 +1,1 @@
+{"answer": "C", "question": "Why has \"binge drinking\" caused widespread concern?", "id": "high23017.txt"}

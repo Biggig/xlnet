@@ -1,0 +1,1 @@
+{"answer": "C", "question": "The writer's major concern about the trip to Israel was that   _  .", "id": "high6752.txt"}

@@ -1,0 +1,1 @@
+{"answer": "C", "question": "Mr. Obama probably agreed that   _  .", "id": "high11873.txt"}

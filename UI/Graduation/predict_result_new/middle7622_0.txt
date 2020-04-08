@@ -1,0 +1,1 @@
+{"answer": "C", "question": "Why does Gu Shaoqiang become popular recently according to the passage?", "id": "middle7622.txt"}

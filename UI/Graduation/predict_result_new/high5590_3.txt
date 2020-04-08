@@ -1,0 +1,1 @@
+{"answer": "A", "question": "What is the advantage of the Jerry Springer show?", "id": "high5590.txt"}

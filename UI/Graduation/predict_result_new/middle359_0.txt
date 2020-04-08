@@ -1,0 +1,1 @@
+{"answer": "C", "question": "Mabel doesn't marry Sam because   _  .", "id": "middle359.txt"}

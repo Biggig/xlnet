@@ -1,0 +1,1 @@
+{"answer": "A", "question": "The farmer found all the lambs after  _  .", "id": "middle7304.txt"}

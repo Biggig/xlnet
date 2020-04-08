@@ -1,0 +1,1 @@
+{"answer": "B", "question": "According to the article we know it is    _    to prevent the forests from slowly disappearing.", "id": "high15956.txt"}

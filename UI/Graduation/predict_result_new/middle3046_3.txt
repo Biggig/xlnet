@@ -1,0 +1,1 @@
+{"answer": "B", "question": "In Bulgaria,if a man nods, it means that he  _   with you.", "id": "middle3046.txt"}

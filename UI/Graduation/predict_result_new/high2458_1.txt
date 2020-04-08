@@ -1,0 +1,1 @@
+{"answer": "B", "question": "Only a small part of the Sun's energy reaches the Earth's surface because most of it is  _  .", "id": "high2458.txt"}

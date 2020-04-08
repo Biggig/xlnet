@@ -1,0 +1,1 @@
+{"answer": "C", "question": "What are the main factors that influence the distribution of people ?", "id": "middle3259.txt"}

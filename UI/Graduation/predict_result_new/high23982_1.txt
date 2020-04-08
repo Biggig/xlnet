@@ -1,0 +1,1 @@
+{"answer": "B", "question": "Why are men under more stress than women when stuck in a traffic jam?", "id": "high23982.txt"}

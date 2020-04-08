@@ -1,0 +1,1 @@
+{"answer": "D", "question": "The victims affected by the light pollution are  _  .", "id": "high2345.txt"}

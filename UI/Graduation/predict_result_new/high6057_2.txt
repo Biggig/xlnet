@@ -1,0 +1,1 @@
+{"answer": "B", "question": "What can we learn from what Steve Jobs said?", "id": "high6057.txt"}

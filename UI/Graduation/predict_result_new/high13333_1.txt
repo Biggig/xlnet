@@ -1,0 +1,1 @@
+{"answer": "D", "question": "The postman was a regular at the Hagadorn house because   _   .", "id": "high13333.txt"}

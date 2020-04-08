@@ -1,0 +1,1 @@
+{"answer": "C", "question": "What does Lin Tao think in his second school year?", "id": "middle5433.txt"}

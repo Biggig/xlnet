@@ -1,0 +1,1 @@
+{"answer": "B", "question": "Why did Gleason call the director over and smile at him? That's because Gleason   _  .", "id": "high1279.txt"}

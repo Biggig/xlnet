@@ -1,0 +1,1 @@
+{"answer": "B", "question": "Jon Bon Jovi thinks Steve Jobs has destroyed the music industry because   _  .", "id": "high21840.txt"}

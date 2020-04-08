@@ -1,0 +1,1 @@
+{"answer": "C", "question": "In the interviews, people were asked about all of the following things EXCEPT   _  .", "id": "high18272.txt"}

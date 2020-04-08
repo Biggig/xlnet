@@ -1,0 +1,1 @@
+{"answer": "C", "question": "Which of the following is N0T based on common sense?", "id": "high5843.txt"}

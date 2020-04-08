@@ -1,0 +1,1 @@
+{"answer": "B", "question": "What's the attitude of Mr. Smith towards the new uniform rules?", "id": "high132.txt"}

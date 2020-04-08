@@ -1,0 +1,1 @@
+{"answer": "A", "question": "You can buy dumplings from the supermarket when  _  .", "id": "middle2512.txt"}

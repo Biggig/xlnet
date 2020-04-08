@@ -1,0 +1,1 @@
+{"answer": "D", "question": "According to the passage, the movement of individual species of plants   _  .", "id": "high14687.txt"}

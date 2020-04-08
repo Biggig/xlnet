@@ -1,0 +1,1 @@
+{"answer": "B", "question": "According to the passage, Woody died at the age of   _  .", "id": "high22947.txt"}

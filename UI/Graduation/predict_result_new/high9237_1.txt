@@ -1,0 +1,1 @@
+{"answer": "C", "question": "According to the lecture Full Steam Ahead for Growth,   _   .", "id": "high9237.txt"}

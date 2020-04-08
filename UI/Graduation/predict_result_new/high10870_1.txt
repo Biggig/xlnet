@@ -1,0 +1,1 @@
+{"answer": "A", "question": "If your pet is burned by chemicals, you should  _  .", "id": "high10870.txt"}

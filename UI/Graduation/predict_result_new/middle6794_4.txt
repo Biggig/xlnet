@@ -1,0 +1,1 @@
+{"answer": "C", "question": "Adult editors may invite   _   to the meeting to make the paper more popular with kids.", "id": "middle6794.txt"}

@@ -1,0 +1,1 @@
+{"answer": "C", "question": "What is the advantage of universities selecting students according to independent examinations?", "id": "high2317.txt"}

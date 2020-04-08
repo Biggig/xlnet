@@ -1,0 +1,1 @@
+{"answer": "B", "question": "If you are a person who is wet behind the ears, you are  _  .", "id": "high15255.txt"}

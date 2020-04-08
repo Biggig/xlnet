@@ -1,0 +1,1 @@
+{"answer": "A", "question": "On this journey on The Flying Bluebird, the author felt uncomfortable because   _  .", "id": "high9265.txt"}

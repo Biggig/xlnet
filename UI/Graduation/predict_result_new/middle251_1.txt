@@ -1,0 +1,1 @@
+{"answer": "D", "question": "When someone breaks his bone, the following should be done except   _  .", "id": "middle251.txt"}

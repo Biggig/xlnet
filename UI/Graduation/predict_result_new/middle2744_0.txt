@@ -1,0 +1,1 @@
+{"answer": "B", "question": "According to the passage, over of the students in Wang Hui's class have adopted pets online this year.", "id": "middle2744.txt"}

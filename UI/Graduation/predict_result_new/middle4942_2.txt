@@ -1,0 +1,1 @@
+{"answer": "B", "question": "The date of publication must be noticed because   _  .", "id": "middle4942.txt"}

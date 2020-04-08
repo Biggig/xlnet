@@ -1,0 +1,1 @@
+{"answer": "A", "question": "Why will polar bears die out if there is not enough sea ice?", "id": "high11161.txt"}

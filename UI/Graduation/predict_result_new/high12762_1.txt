@@ -1,0 +1,1 @@
+{"answer": "B", "question": "The founding of CNN is used as an example to prove   _  .", "id": "high12762.txt"}

@@ -1,0 +1,1 @@
+{"answer": "C", "question": "Buying locally grown food has many advantages EXCEPT   _   .", "id": "high1334.txt"}

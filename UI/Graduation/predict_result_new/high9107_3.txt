@@ -1,0 +1,1 @@
+{"answer": "A", "question": "How many people were killed by the two bombs dropped in Japan?", "id": "high9107.txt"}

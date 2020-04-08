@@ -1,0 +1,1 @@
+{"answer": "D", "question": "Mahe's experience with 9/11 can be described as   _  .", "id": "high19449.txt"}

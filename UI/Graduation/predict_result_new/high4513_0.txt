@@ -1,0 +1,1 @@
+{"answer": "C", "question": "According to the passage, the fact Homo floresiensis are very small is based on  _  .", "id": "high4513.txt"}

@@ -1,0 +1,1 @@
+{"answer": "C", "question": "In which hotels can guests book a trip more conveniently?", "id": "high19912.txt"}

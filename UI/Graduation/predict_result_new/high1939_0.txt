@@ -1,0 +1,1 @@
+{"answer": "C", "question": "According to the passage, the parents of kids with no ambition  _  .", "id": "high1939.txt"}

@@ -1,0 +1,1 @@
+{"answer": "B", "question": "\"The Picture House\"encourages sharing photos of its food to  _  .", "id": "high11977.txt"}

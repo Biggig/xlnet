@@ -1,0 +1,1 @@
+{"answer": "D", "question": "People who suffer from astigmatism have  _  .", "id": "high1438.txt"}

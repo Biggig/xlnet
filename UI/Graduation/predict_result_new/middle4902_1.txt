@@ -1,0 +1,1 @@
+{"answer": "C", "question": "The video about Bush's ice bucket challenge was posted on   _  .", "id": "middle4902.txt"}

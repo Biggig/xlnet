@@ -1,0 +1,1 @@
+{"answer": "B", "question": "Psychologist Holt-Lunstad says that   _  .", "id": "high17970.txt"}

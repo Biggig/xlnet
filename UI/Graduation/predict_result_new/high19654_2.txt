@@ -1,0 +1,1 @@
+{"answer": "D", "question": "According to the new order, Californians should_.", "id": "high19654.txt"}

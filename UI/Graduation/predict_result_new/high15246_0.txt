@@ -1,0 +1,1 @@
+{"answer": "B", "question": "What prevents Jack, an experienced taxi driver, working for Capes Taxi?", "id": "high15246.txt"}

@@ -1,0 +1,1 @@
+{"answer": "B", "question": "Many honors were offered to Draper including   _  .", "id": "middle7101.txt"}

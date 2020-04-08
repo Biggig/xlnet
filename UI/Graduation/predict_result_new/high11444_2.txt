@@ -1,0 +1,1 @@
+{"answer": "A", "question": "The admissions director Mae Brown did what she could to   _  .", "id": "high11444.txt"}

@@ -1,0 +1,1 @@
+{"answer": "B", "question": "What's the disadvantage of online shopping according to the passage?", "id": "high4380.txt"}

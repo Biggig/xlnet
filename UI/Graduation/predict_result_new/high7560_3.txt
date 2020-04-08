@@ -1,0 +1,1 @@
+{"answer": "D", "question": "We can guess that Mauritania and Algeria belong to   _  .", "id": "high7560.txt"}

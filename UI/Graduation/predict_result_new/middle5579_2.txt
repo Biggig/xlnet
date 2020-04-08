@@ -1,0 +1,1 @@
+{"answer": "B", "question": "In bungee jumping, you   _  .", "id": "middle5579.txt"}

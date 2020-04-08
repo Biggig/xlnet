@@ -1,0 +1,1 @@
+{"answer": "D", "question": "What should people do if they want to sign up for a program in this ad?", "id": "high12080.txt"}

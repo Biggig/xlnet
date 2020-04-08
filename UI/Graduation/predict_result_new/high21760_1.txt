@@ -1,0 +1,1 @@
+{"answer": "B", "question": "How much will Mrs. Robert and her 15-year-old son pay for the cruise?", "id": "high21760.txt"}

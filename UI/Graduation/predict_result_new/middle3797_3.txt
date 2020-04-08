@@ -1,0 +1,1 @@
+{"answer": "D", "question": "The bird let the tiger eat the man because   _  .", "id": "middle3797.txt"}

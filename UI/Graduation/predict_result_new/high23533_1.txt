@@ -1,0 +1,1 @@
+{"answer": "A", "question": "It was sometimes quicker to use the tracks rather than the road because the   _  .", "id": "high23533.txt"}

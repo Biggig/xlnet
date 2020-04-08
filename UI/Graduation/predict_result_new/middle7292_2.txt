@@ -1,0 +1,1 @@
+{"answer": "D", "question": "Which is NOT the right way to reduce indoor air pollution?", "id": "middle7292.txt"}

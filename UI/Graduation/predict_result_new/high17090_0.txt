@@ -1,0 +1,1 @@
+{"answer": "D", "question": "Jordan Romero climbed up Mount Everest mainly to   _  .", "id": "high17090.txt"}

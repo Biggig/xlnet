@@ -1,0 +1,1 @@
+{"answer": "D", "question": "Why can the superstores sell products at much lower prices?", "id": "high4380.txt"}

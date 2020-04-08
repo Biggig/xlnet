@@ -1,0 +1,1 @@
+{"answer": "D", "question": "The writer  believes his father is a hero because   _  .", "id": "high21904.txt"}

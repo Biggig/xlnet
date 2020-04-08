@@ -1,0 +1,1 @@
+{"answer": "C", "question": "Why did Mrs. Smith invite Johnson to have breakfast with her family?", "id": "high9700.txt"}

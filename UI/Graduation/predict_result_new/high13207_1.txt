@@ -1,0 +1,1 @@
+{"answer": "D", "question": "Which of the following about the Taj Mahal is NOT true?", "id": "high13207.txt"}

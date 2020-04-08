@@ -1,0 +1,1 @@
+{"answer": "D", "question": "When we say a person is heartsick, we mean that  _  .", "id": "high11747.txt"}

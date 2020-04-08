@@ -1,0 +1,1 @@
+{"answer": "C", "question": "The examples of kids lying in the passage show   _  .", "id": "high10001.txt"}

@@ -1,0 +1,1 @@
+{"answer": "D", "question": "Which of the following is the reason for quoting Jonathan Ive?", "id": "high12033.txt"}

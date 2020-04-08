@@ -1,0 +1,1 @@
+{"answer": "B", "question": "According to the passage, what did nature represent to Isadora Duncan?", "id": "high9122.txt"}

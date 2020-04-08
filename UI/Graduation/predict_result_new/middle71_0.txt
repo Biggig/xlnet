@@ -1,0 +1,1 @@
+{"answer": "C", "question": "Jeff's right leg was cut off  because of  the  _  .", "id": "middle71.txt"}

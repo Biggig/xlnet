@@ -1,0 +1,1 @@
+{"answer": "C", "question": "What are the functions of vitamin E?", "id": "high9546.txt"}

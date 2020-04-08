@@ -1,0 +1,1 @@
+{"answer": "D", "question": "What does Dr. Ross Cartmill mean by \"the ostrich approach\"? (Line 1, Para. 9)", "id": "high16774.txt"}

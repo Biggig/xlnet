@@ -1,0 +1,1 @@
+{"answer": "C", "question": "The habit of listening to music can make the writer   _  .", "id": "middle7287.txt"}

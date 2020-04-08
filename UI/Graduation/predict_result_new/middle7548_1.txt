@@ -1,0 +1,1 @@
+{"answer": "C", "question": "What did beer-maker Labatt do for the people in Fort McMurray?", "id": "middle7548.txt"}

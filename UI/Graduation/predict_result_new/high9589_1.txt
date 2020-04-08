@@ -1,0 +1,1 @@
+{"answer": "B", "question": "How did teacher Greg Adragna feel about the explosion of the rocket?", "id": "high9589.txt"}

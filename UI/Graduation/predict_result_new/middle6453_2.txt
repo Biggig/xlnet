@@ -1,0 +1,1 @@
+{"answer": "C", "question": "What language can all the teachers speak?", "id": "middle6453.txt"}

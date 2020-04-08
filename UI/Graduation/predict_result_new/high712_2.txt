@@ -1,0 +1,1 @@
+{"answer": "C", "question": "The prize section of the poster is included in order to  _  .", "id": "high712.txt"}

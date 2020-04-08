@@ -1,0 +1,1 @@
+{"answer": "D", "question": "What do you think the disabled would feel about the new law?", "id": "high18377.txt"}

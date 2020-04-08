@@ -1,0 +1,1 @@
+{"answer": "D", "question": "_  is mentioned in the passage as the power of kitesurfing.", "id": "middle1133.txt"}

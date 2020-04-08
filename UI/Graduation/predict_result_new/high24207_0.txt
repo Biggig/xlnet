@@ -1,0 +1,1 @@
+{"answer": "C", "question": "According to this passage, Lang Ping is   _   at present.", "id": "high24207.txt"}

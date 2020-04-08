@@ -1,0 +1,1 @@
+{"answer": "C", "question": "Which of the following provides tourists with a souvenir?", "id": "high20828.txt"}

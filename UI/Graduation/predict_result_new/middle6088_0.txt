@@ -1,0 +1,1 @@
+{"answer": "D", "question": "The first kite was born when   _  .", "id": "middle6088.txt"}

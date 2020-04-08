@@ -1,0 +1,1 @@
+{"answer": "B", "question": "According to the website Bookpages, today's vampires   _  .", "id": "high23296.txt"}

@@ -1,0 +1,1 @@
+{"answer": "C", "question": "Which of the following aspects of the device is NOT mentioned in the passage?", "id": "high8678.txt"}

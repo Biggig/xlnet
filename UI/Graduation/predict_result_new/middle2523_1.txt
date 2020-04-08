@@ -1,0 +1,1 @@
+{"answer": "C", "question": "What is the real name of Joe's \"girlfriend\"?", "id": "middle2523.txt"}

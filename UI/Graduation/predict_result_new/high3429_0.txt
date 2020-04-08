@@ -1,0 +1,1 @@
+{"answer": "C", "question": "The group of young men created the virus to  _  .", "id": "high3429.txt"}

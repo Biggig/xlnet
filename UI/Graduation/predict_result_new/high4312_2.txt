@@ -1,0 +1,1 @@
+{"answer": "C", "question": "The example of the grocery store is used to illustrate   _  .", "id": "high4312.txt"}

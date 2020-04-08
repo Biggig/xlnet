@@ -1,0 +1,1 @@
+{"answer": "D", "question": "What does Doctor Smith advise   people to do in the passage ?", "id": "middle5901.txt"}

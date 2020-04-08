@@ -1,0 +1,1 @@
+{"answer": "D", "question": "We can use Google Glass to do the following EXCEPT  _  .", "id": "high8526.txt"}

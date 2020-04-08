@@ -1,0 +1,1 @@
+{"answer": "C", "question": "When did Lang Lang perform his first public recital?", "id": "high18193.txt"}

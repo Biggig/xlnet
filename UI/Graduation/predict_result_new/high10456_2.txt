@@ -1,0 +1,1 @@
+{"answer": "C", "question": "Those who are interested in management and the use of high technology would probably choose  _  .", "id": "high10456.txt"}

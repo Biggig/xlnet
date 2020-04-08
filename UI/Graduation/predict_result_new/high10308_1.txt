@@ -1,0 +1,1 @@
+{"answer": "C", "question": "Which of the following should NOT be done according to the five techniques?", "id": "high10308.txt"}

@@ -1,0 +1,1 @@
+{"answer": "D", "question": "The London double-decker bus is returning mainly because   _  .", "id": "high23974.txt"}

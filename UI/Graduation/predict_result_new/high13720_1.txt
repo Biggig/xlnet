@@ -1,0 +1,1 @@
+{"answer": "D", "question": "Who reached the South Pole first according to the text?", "id": "high13720.txt"}

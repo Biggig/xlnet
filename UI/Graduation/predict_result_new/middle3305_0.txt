@@ -1,0 +1,1 @@
+{"answer": "B", "question": "At first , people can see Hip-hop dancing   _  .", "id": "middle3305.txt"}

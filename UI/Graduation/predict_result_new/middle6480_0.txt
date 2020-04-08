@@ -1,0 +1,1 @@
+{"answer": "B", "question": "What do you need to have if you want to set a record in pumpkin-carving?", "id": "middle6480.txt"}

@@ -1,0 +1,1 @@
+{"answer": "C", "question": "We learn from the third technique that a good salesman should ask himself \"   _   ?\".", "id": "high1028.txt"}

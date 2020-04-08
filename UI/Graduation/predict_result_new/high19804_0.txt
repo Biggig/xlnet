@@ -1,0 +1,1 @@
+{"answer": "C", "question": "Which of the following is true about the situation in Iceland and Thailand?", "id": "high19804.txt"}

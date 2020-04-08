@@ -1,0 +1,1 @@
+{"answer": "A", "question": "In which publication would you most likely find this passage?", "id": "high873.txt"}

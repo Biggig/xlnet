@@ -1,0 +1,1 @@
+{"answer": "B", "question": "What is the finding of the Global Humanitarian Forum?", "id": "high1796.txt"}

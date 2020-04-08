@@ -1,0 +1,1 @@
+{"answer": "C", "question": "Which of the following is not mentioned as cultural and natural monuments ofman-kind?", "id": "high7137.txt"}

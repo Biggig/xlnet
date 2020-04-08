@@ -1,0 +1,1 @@
+{"answer": "A", "question": "According to the passage, in which country are we likely to feel safer when shopping?", "id": "high23362.txt"}

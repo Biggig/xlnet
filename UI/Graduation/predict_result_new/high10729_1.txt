@@ -1,0 +1,1 @@
+{"answer": "D", "question": "What was the main reason for Bartholdi to build the Statue of Liberty?", "id": "high10729.txt"}

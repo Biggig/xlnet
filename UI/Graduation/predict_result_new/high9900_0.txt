@@ -1,0 +1,1 @@
+{"answer": "B", "question": "When did scientists fly there to watch the birth of the island?", "id": "high9900.txt"}

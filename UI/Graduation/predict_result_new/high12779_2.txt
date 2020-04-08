@@ -1,0 +1,1 @@
+{"answer": "B", "question": "Which of the following can best describe the author ?", "id": "high12779.txt"}

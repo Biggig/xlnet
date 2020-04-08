@@ -1,0 +1,1 @@
+{"answer": "C", "question": "Why does the author stand in a coffee shop above Shibuya crossing?", "id": "high9070.txt"}

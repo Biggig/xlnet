@@ -1,0 +1,1 @@
+{"answer": "C", "question": "If you do not wish to be disturbed, you should  _  .", "id": "high13662.txt"}

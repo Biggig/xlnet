@@ -1,0 +1,1 @@
+{"answer": "D", "question": "We should take good care of our eyes  _  .", "id": "high1438.txt"}

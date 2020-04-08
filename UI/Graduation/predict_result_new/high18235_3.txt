@@ -1,0 +1,1 @@
+{"answer": "D", "question": "If you attend the two Residential Study weeks, you will have to pay for   _   besides your tuition.", "id": "high18235.txt"}

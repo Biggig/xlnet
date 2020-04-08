@@ -1,0 +1,1 @@
+{"answer": "C", "question": "The author said that they depended on each other in the same way because  _  .", "id": "high4607.txt"}

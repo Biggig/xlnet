@@ -1,0 +1,1 @@
+{"answer": "D", "question": "At a town meeting, people do the following things EXCEPT   _  .", "id": "high3408.txt"}

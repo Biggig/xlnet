@@ -1,0 +1,1 @@
+{"answer": "B", "question": "We say \"Bless you!\" when   _  .", "id": "high10339.txt"}

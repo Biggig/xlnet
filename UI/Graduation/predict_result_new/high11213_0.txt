@@ -1,0 +1,1 @@
+{"answer": "B", "question": "The reason why young Smith was forced to leave his home town is that   _", "id": "high11213.txt"}

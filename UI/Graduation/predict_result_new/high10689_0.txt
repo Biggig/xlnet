@@ -1,0 +1,1 @@
+{"answer": "A", "question": "In regards to walking to school, modern parents seem much concerned with the   _  .", "id": "high10689.txt"}

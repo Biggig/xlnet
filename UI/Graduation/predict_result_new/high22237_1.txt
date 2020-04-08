@@ -1,0 +1,1 @@
+{"answer": "B", "question": "The Russian and the Cuban both wanted to   _  .", "id": "high22237.txt"}

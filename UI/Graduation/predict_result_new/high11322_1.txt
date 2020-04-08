@@ -1,0 +1,1 @@
+{"answer": "A", "question": "Why did Microsoft see a drop in market share last year?", "id": "high11322.txt"}

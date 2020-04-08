@@ -1,0 +1,1 @@
+{"answer": "A", "question": "After hearing what the clerk had said about the couple,the writer was   _  .", "id": "middle499.txt"}

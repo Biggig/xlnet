@@ -1,0 +1,1 @@
+{"answer": "C", "question": "Brumbaugh kneels on the ground before climbing trees to   _  .", "id": "high20506.txt"}

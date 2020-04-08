@@ -1,0 +1,1 @@
+{"answer": "B", "question": "What did the man think of the dog at the beginning?", "id": "middle1198.txt"}

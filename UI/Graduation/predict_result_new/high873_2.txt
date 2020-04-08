@@ -1,0 +1,1 @@
+{"answer": "B", "question": "What do polar bears in Hudson Bay do during the summer?", "id": "high873.txt"}

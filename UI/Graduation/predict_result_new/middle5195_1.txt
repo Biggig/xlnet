@@ -1,0 +1,1 @@
+{"answer": "D", "question": "Jack thinks he can be a famous   _   or a famous writer.", "id": "middle5195.txt"}

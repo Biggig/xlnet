@@ -1,0 +1,1 @@
+{"answer": "B", "question": "What made Ben Rogers eagerly gave up his apple and offer to brush the fence for Tom?", "id": "high1171.txt"}

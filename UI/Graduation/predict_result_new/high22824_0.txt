@@ -1,0 +1,1 @@
+{"answer": "C", "question": "The author believes that a single-sex school would  _  .", "id": "high22824.txt"}

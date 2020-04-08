@@ -1,0 +1,1 @@
+{"answer": "D", "question": "Why did the writer go to Camden Market alone?", "id": "middle6765.txt"}

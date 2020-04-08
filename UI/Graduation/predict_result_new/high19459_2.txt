@@ -1,0 +1,1 @@
+{"answer": "C", "question": "We can conclude that Einstein   _  .", "id": "high19459.txt"}

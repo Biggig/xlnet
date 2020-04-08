@@ -1,0 +1,1 @@
+{"answer": "A", "question": "Compared to the carpenters in the past, modern carpenters are  _  .", "id": "high1788.txt"}

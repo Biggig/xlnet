@@ -1,0 +1,1 @@
+{"answer": "D", "question": "The new SAT could be more difficult for international students because  _  .", "id": "high10065.txt"}

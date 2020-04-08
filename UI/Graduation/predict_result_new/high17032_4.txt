@@ -1,0 +1,1 @@
+{"answer": "B", "question": "From the process, we can know that making invisible ink is_.", "id": "high17032.txt"}

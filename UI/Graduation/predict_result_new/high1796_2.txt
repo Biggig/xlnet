@@ -1,0 +1,1 @@
+{"answer": "C", "question": "What does Dr. Pielke say about the Forum's report?", "id": "high1796.txt"}

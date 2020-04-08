@@ -1,0 +1,1 @@
+{"answer": "A", "question": "Those who take part in the reality TV shows are usually   _  .", "id": "high7582.txt"}

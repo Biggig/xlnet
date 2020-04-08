@@ -1,0 +1,1 @@
+{"answer": "B", "question": "Which of the following is TRUE of the recent Pew report?", "id": "high17894.txt"}

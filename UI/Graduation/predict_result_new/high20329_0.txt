@@ -1,0 +1,1 @@
+{"answer": "B", "question": "What was the life for the two brothers before the conflict ?", "id": "high20329.txt"}

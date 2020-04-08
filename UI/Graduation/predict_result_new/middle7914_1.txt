@@ -1,0 +1,1 @@
+{"answer": "B", "question": "Which of the following about train-spotters is true according to the passage?", "id": "middle7914.txt"}

@@ -1,0 +1,1 @@
+{"answer": "A", "question": "Usually, before being given a transfusion,   _  .", "id": "middle1598.txt"}

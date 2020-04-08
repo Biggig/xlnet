@@ -1,0 +1,1 @@
+{"answer": "D", "question": "_  leads to consumers' trust in online shopping.", "id": "high7148.txt"}

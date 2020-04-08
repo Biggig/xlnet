@@ -1,0 +1,1 @@
+{"answer": "D", "question": "The phrase \"the last straw\" probably refers to    _   .", "id": "high15487.txt"}

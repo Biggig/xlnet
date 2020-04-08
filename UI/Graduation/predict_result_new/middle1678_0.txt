@@ -1,0 +1,1 @@
+{"answer": "D", "question": "When the boat sank  , the lifeboat gave the people   _  .", "id": "middle1678.txt"}

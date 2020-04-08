@@ -1,0 +1,1 @@
+{"answer": "D", "question": "The time for test preparation has been changed to   _  .", "id": "high15305.txt"}

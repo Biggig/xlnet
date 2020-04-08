@@ -1,0 +1,1 @@
+{"answer": "C", "question": "According to the passage, what's the popular trend for people to send \"red envelopes\" ?", "id": "middle7083.txt"}

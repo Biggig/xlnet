@@ -1,0 +1,1 @@
+{"answer": "C", "question": "The researcher provided curry goat and rice and peas in order to   _  .", "id": "high2500.txt"}

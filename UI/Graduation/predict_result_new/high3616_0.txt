@@ -1,0 +1,1 @@
+{"answer": "B", "question": "Reporters who write on films are said to be lucky because they   _  .", "id": "high3616.txt"}

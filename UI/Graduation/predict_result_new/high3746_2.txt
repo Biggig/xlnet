@@ -1,0 +1,1 @@
+{"answer": "D", "question": "The Indoor Sun Shoppe   _  .", "id": "high3746.txt"}

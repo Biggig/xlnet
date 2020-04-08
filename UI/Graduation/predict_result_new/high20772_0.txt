@@ -1,0 +1,1 @@
+{"answer": "C", "question": "These advertisements are most probably advertisements   _  .", "id": "high20772.txt"}

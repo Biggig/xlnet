@@ -1,0 +1,1 @@
+{"answer": "C", "question": "According to the passage, for an athlete one of the biggest mistakes is   _  .", "id": "high3571.txt"}

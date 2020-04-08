@@ -1,0 +1,1 @@
+{"answer": "A", "question": "Who experienced the German occupation according to the passage?", "id": "high4008.txt"}

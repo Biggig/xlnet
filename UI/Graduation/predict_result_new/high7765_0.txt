@@ -1,0 +1,1 @@
+{"answer": "C", "question": "Why does Lindsey suggest schools put recycling bins in classrooms?", "id": "high7765.txt"}

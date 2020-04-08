@@ -1,0 +1,1 @@
+{"answer": "A", "question": "The mother was surprised to see her baby for the first time because the baby  _  .", "id": "middle70.txt"}

@@ -1,0 +1,1 @@
+{"answer": "C", "question": "Which of the following is NOT mentioned in the passage to support the writer's opinion?", "id": "high19059.txt"}

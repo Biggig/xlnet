@@ -1,0 +1,1 @@
+{"answer": "B", "question": "In the UAE, when should you refuse the coffee if it is offered?", "id": "high7203.txt"}

@@ -1,0 +1,1 @@
+{"answer": "A", "question": "In the 19thcentury, Americans moved from east to west because they  _  .", "id": "high12446.txt"}

@@ -1,0 +1,1 @@
+{"answer": "C", "question": "With the increase of atmospheric CO2,  _  .", "id": "high1634.txt"}

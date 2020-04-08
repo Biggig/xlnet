@@ -1,0 +1,1 @@
+{"answer": "C", "question": "What problems does Chen Xingzhu have according to the passage?", "id": "middle3233.txt"}

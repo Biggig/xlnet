@@ -1,0 +1,1 @@
+{"answer": "A", "question": "Paper was made  _  in southern Europe.", "id": "middle4953.txt"}

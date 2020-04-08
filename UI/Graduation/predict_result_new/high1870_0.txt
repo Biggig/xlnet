@@ -1,0 +1,1 @@
+{"answer": "B", "question": "By using social networking, patients with rare diseases can   _  .", "id": "high1870.txt"}

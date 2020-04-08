@@ -1,0 +1,1 @@
+{"answer": "D", "question": "How are the cow wastes collected into the digester at Blue Farm?", "id": "middle3323.txt"}

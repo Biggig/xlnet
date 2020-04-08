@@ -1,0 +1,1 @@
+{"answer": "A", "question": "When you work at a computer, the keyboard should be   _  .", "id": "middle1051.txt"}

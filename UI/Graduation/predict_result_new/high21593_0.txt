@@ -1,0 +1,1 @@
+{"answer": "B", "question": "When the rock forces its way through the Earth's crust,   _  .", "id": "high21593.txt"}

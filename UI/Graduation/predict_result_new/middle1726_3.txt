@@ -1,0 +1,1 @@
+{"answer": "D", "question": "What is a shopping mall?", "id": "middle1726.txt"}

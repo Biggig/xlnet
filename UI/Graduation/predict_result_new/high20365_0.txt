@@ -1,0 +1,1 @@
+{"answer": "A", "question": "Some animals living in groups are similar to humans in  _  .", "id": "high20365.txt"}

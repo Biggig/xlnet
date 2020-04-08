@@ -1,0 +1,1 @@
+{"answer": "B", "question": "Einstein offered a  _   explanation for the question why the sky is blue.", "id": "middle7085.txt"}

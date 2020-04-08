@@ -1,0 +1,1 @@
+{"answer": "B", "question": "Why do some children feel humiliated when their parents kiss them in front of friends?", "id": "high22963.txt"}

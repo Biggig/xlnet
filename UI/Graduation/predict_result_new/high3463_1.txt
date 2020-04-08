@@ -1,0 +1,1 @@
+{"answer": "C", "question": "What made the author go to summer school for the first time?", "id": "high3463.txt"}

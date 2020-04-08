@@ -1,0 +1,1 @@
+{"answer": "B", "question": "The case history of the twins appears to support the conclusion that   _  .", "id": "high3328.txt"}

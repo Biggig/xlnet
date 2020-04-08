@@ -1,0 +1,1 @@
+{"answer": "D", "question": "What type (s) of safety system can help the police find a stolen car back?", "id": "high6678.txt"}

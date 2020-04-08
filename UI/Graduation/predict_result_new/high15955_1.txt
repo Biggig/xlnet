@@ -1,0 +1,1 @@
+{"answer": "B", "question": "As a child, ABC-TV's Sam Champion wanted to be a   _   .", "id": "high15955.txt"}

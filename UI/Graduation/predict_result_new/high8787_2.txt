@@ -1,0 +1,1 @@
+{"answer": "C", "question": "Elizabeth Radsma never saw chocolate during the war because   _  .", "id": "high8787.txt"}

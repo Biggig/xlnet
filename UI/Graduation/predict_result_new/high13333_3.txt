@@ -1,0 +1,1 @@
+{"answer": "D", "question": "The Fort Wayne mayor officially proclaimed Amy Jo Hagadorn Day   _   .", "id": "high13333.txt"}

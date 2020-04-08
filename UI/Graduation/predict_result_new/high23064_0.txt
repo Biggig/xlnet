@@ -1,0 +1,1 @@
+{"answer": "A", "question": "At the end of his first trip, the writer said\"Never again\"because", "id": "high23064.txt"}

@@ -1,0 +1,1 @@
+{"answer": "A", "question": "To carry out home exercises continuously, you need  _  .", "id": "high12069.txt"}

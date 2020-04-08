@@ -1,0 +1,1 @@
+{"answer": "B", "question": "What does the author really mean by saying \"it's a lot better to take risks when you're younger\"?", "id": "high6919.txt"}

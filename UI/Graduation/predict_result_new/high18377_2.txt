@@ -1,0 +1,1 @@
+{"answer": "B", "question": "The word \"Braille\" means_.", "id": "high18377.txt"}

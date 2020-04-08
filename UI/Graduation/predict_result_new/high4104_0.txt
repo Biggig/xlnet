@@ -1,0 +1,1 @@
+{"answer": "A", "question": "Point was the purpose of Edinburgh Festival at he beginning?", "id": "high4104.txt"}

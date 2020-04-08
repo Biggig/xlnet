@@ -1,0 +1,1 @@
+{"answer": "C", "question": "Jean Wilton Anderson   _  .", "id": "high24178.txt"}

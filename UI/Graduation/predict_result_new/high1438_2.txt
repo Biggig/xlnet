@@ -1,0 +1,1 @@
+{"answer": "D", "question": "Having two eyes instead of one is particularly useful for  _  .", "id": "high1438.txt"}

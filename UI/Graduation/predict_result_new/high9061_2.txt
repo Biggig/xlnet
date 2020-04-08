@@ -1,0 +1,1 @@
+{"answer": "C", "question": "How did Christy McKinley know Ms. Schatzman's opinion of the chi tea?", "id": "high9061.txt"}

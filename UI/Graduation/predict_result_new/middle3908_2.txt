@@ -1,0 +1,1 @@
+{"answer": "B", "question": "What does \"makes a great difference\" mean in the passage?", "id": "middle3908.txt"}

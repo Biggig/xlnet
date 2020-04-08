@@ -1,0 +1,1 @@
+{"answer": "A", "question": "The best title of the passage is \"_\"", "id": "middle730.txt"}

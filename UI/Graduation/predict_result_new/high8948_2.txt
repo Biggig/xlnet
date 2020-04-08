@@ -1,0 +1,1 @@
+{"answer": "B", "question": "E-readers are thought to weaken our reading comprehension because   _  .", "id": "high8948.txt"}

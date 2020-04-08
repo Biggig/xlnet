@@ -1,0 +1,1 @@
+{"answer": "D", "question": "From Li Keqiang's report, we learn that   _  .", "id": "middle6461.txt"}

@@ -1,0 +1,1 @@
+{"answer": "D", "question": "By saying that\"I got a pass into this place\"(in Para.3),the man means that  _  .", "id": "high6002.txt"}

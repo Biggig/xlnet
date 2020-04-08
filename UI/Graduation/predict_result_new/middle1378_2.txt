@@ -1,0 +1,1 @@
+{"answer": "C", "question": "Usually the cost of the traveling one day may be   _  .", "id": "middle1378.txt"}

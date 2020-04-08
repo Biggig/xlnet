@@ -1,0 +1,1 @@
+{"answer": "B", "question": "What makes people think about simple facts differently?", "id": "middle111.txt"}

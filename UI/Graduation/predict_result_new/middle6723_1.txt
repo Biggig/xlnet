@@ -1,0 +1,1 @@
+{"answer": "C", "question": "According to Mr. Expert, why can't Joan tell her friends her feeling?", "id": "middle6723.txt"}

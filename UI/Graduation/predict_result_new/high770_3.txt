@@ -1,0 +1,1 @@
+{"answer": "D", "question": "The passage explains the origins of the following expressions EXCEPT  _  .", "id": "high770.txt"}

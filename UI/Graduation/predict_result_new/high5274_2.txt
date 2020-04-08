@@ -1,0 +1,1 @@
+{"answer": "A", "question": "We may infer from the text that the Journal of Phonetics is a magazine on  _  .", "id": "high5274.txt"}

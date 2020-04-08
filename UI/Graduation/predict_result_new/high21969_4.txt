@@ -1,0 +1,1 @@
+{"answer": "D", "question": "The passage is most probably taken from the column of   _   in a newspaper.", "id": "high21969.txt"}

@@ -1,0 +1,1 @@
+{"answer": "B", "question": "According to the passage, some native American \"Dutch\" expressions were related to the German instead of the Dutch, simply because   _  .", "id": "high5318.txt"}

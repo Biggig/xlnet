@@ -1,0 +1,1 @@
+{"answer": "C", "question": "If you do not use your arms or legs for some time,   _  .", "id": "middle2491.txt"}

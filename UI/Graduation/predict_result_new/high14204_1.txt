@@ -1,0 +1,1 @@
+{"answer": "D", "question": "Some small businesses fail to get a bank loan because   _  .", "id": "high14204.txt"}

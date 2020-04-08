@@ -1,0 +1,1 @@
+{"answer": "C", "question": "Which of the following is conveyed in this story?", "id": "high15438.txt"}

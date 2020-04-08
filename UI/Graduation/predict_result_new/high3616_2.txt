@@ -1,0 +1,1 @@
+{"answer": "D", "question": "From the passage we can infer that, to be a good reporter, he must be all of the following except   _  .", "id": "high3616.txt"}

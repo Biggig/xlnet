@@ -1,0 +1,1 @@
+{"answer": "D", "question": "The woman photographer would not marry a man who   _  .", "id": "high20407.txt"}

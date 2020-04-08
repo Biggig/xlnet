@@ -1,0 +1,1 @@
+{"answer": "B", "question": "Which of the following is the characteristic of boys according to Abigail James'report?", "id": "high22824.txt"}

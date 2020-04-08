@@ -1,0 +1,1 @@
+{"answer": "B", "question": "We can infer that the young man was   _  after hearing the blind man's explanation.", "id": "high11214.txt"}

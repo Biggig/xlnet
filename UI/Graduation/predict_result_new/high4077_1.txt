@@ -1,0 +1,1 @@
+{"answer": "A", "question": "It was difficult for the couple to live a green life for the whole year because  _  .", "id": "high4077.txt"}

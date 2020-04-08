@@ -1,0 +1,1 @@
+{"answer": "B", "question": "How long did Juac most probably stay in Ethiopia?", "id": "high11014.txt"}

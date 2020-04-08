@@ -1,0 +1,1 @@
+{"answer": "C", "question": "How will the government deal with the treasure mentioned in the passage?", "id": "high12148.txt"}

@@ -1,0 +1,1 @@
+{"answer": "B", "question": "What size of the land have been polluted and turned into desert?", "id": "middle7840.txt"}

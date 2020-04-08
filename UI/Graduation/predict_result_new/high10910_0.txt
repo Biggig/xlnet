@@ -1,0 +1,1 @@
+{"answer": "C", "question": "Why did the author carry out the survey?", "id": "high10910.txt"}

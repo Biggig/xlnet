@@ -1,0 +1,1 @@
+{"answer": "C", "question": "How many kinds of cuisines are mentioned in the passage?", "id": "high20828.txt"}

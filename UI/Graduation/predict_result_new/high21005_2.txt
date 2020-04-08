@@ -1,0 +1,1 @@
+{"answer": "D", "question": "What does Sarah Gontijo think it takes to learn a new language effectively?", "id": "high21005.txt"}

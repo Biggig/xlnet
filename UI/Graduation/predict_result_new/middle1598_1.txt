@@ -1,0 +1,1 @@
+{"answer": "D", "question": "The third most common blood type among the Europeans is   _  .", "id": "middle1598.txt"}

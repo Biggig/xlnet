@@ -1,0 +1,1 @@
+{"answer": "C", "question": "Sullivan was so popular that his admirers   _  .", "id": "high7401.txt"}

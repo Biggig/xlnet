@@ -1,0 +1,1 @@
+{"answer": "A", "question": "Joy Foster was born in   _  .", "id": "middle6008.txt"}

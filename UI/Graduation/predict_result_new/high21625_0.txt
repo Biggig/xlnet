@@ -1,0 +1,1 @@
+{"answer": "C", "question": "Which of the following is NOT the advantage of the kangaroo method?", "id": "high21625.txt"}

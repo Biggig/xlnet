@@ -1,0 +1,1 @@
+{"answer": "B", "question": "What is the principle of the hospital in employing a worker?", "id": "high10002.txt"}

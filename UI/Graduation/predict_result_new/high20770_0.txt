@@ -1,0 +1,1 @@
+{"answer": "B", "question": "The seventh grade team leader in the author's school called    a meeting to   _  .", "id": "high20770.txt"}

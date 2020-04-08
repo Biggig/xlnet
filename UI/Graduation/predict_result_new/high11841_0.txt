@@ -1,0 +1,1 @@
+{"answer": "C", "question": "What is special about the Ariau Amazon Towers hotel?", "id": "high11841.txt"}

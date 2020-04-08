@@ -1,0 +1,1 @@
+{"answer": "D", "question": "Confusion arises about what it means to be \"a good parent\" because   _  .", "id": "high21979.txt"}

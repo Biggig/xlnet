@@ -1,0 +1,1 @@
+{"answer": "C", "question": "Why are ffiendl3,doctors bad for their patients'health?", "id": "high8890.txt"}

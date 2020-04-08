@@ -1,0 +1,1 @@
+{"answer": "C", "question": "According to the text,the great changes of Alaska's Arctic lakes   _  .", "id": "high12013.txt"}

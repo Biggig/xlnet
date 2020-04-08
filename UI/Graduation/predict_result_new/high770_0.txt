@@ -1,0 +1,1 @@
+{"answer": "D", "question": "If Robert says he is in deep water, we may guess  _  .", "id": "high770.txt"}

@@ -1,0 +1,1 @@
+{"answer": "D", "question": "To make sure that the device runs smoothly,  _  .", "id": "high8678.txt"}

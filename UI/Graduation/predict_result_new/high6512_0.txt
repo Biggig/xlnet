@@ -1,0 +1,1 @@
+{"answer": "C", "question": "The UCLA study shows that in response to stress, men are more likely than women to   _   .", "id": "high6512.txt"}

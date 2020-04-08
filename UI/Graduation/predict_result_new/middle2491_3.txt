@@ -1,0 +1,1 @@
+{"answer": "A", "question": "Few people know that it is only   _   if a friend has a poor memory.", "id": "middle2491.txt"}

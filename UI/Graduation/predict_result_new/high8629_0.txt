@@ -1,0 +1,1 @@
+{"answer": "D", "question": "Mountaineering is a sport which involves all the following things EXCEPT   _  .", "id": "high8629.txt"}

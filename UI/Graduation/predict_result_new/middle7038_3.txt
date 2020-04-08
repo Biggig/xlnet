@@ -1,0 +1,1 @@
+{"answer": "B", "question": "Whose problem is the most serious   in the story?", "id": "middle7038.txt"}

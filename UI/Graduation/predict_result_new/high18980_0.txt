@@ -1,0 +1,1 @@
+{"answer": "A", "question": "It can be learned from the passage the Reykiavik_.", "id": "high18980.txt"}

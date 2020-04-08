@@ -1,0 +1,1 @@
+{"answer": "B", "question": "If people were asked to tell the direction of a sound from the side, who would perform best?", "id": "high20111.txt"}

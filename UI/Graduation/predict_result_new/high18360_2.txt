@@ -1,0 +1,1 @@
+{"answer": "B", "question": "Which of the following may NOT belong to the advantages of India?", "id": "high18360.txt"}

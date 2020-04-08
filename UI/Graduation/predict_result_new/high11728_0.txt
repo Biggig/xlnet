@@ -1,0 +1,1 @@
+{"answer": "D", "question": "What have researchers at Johns Hopkins University found recently?", "id": "high11728.txt"}

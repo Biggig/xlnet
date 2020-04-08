@@ -1,0 +1,1 @@
+{"answer": "B", "question": "The Queen's broadcasts were chosen for the study mainly because  _  .", "id": "high5274.txt"}

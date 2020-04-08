@@ -1,0 +1,1 @@
+{"answer": "A", "question": "Which section does the text most probably appear in a newspaper?", "id": "high7509.txt"}

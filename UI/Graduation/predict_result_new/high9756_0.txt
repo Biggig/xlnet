@@ -1,0 +1,1 @@
+{"answer": "D", "question": "The author expected to travel to Europe in order to  _   .", "id": "high9756.txt"}

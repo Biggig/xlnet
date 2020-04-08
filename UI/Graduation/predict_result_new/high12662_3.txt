@@ -1,0 +1,1 @@
+{"answer": "C", "question": "We can learn from the text that the driver was   _  .", "id": "high12662.txt"}

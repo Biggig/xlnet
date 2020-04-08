@@ -1,0 +1,1 @@
+{"answer": "C", "question": "2010 was declared as the International Year of Youth because    _   .", "id": "high15923.txt"}

@@ -1,0 +1,1 @@
+{"answer": "B", "question": "What is suggested by health experts when one suffers from a sudden increase in hair loss?", "id": "high21752.txt"}

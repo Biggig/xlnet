@@ -1,0 +1,1 @@
+{"answer": "B", "question": "Mr. and Mrs. Green went to the country   _  .", "id": "middle7023.txt"}

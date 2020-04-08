@@ -1,0 +1,1 @@
+{"answer": "A", "question": "The author mentioned Europe in the essay to   _  ?", "id": "high653.txt"}

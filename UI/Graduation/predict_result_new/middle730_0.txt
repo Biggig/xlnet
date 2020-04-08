@@ -1,0 +1,1 @@
+{"answer": "D", "question": "How many times have the scientists done such study according to the passage?", "id": "middle730.txt"}

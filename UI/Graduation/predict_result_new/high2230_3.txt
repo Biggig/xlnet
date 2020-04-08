@@ -1,0 +1,1 @@
+{"answer": "C", "question": "About the classification of fingerprints, which is TRUE?   _  .", "id": "high2230.txt"}

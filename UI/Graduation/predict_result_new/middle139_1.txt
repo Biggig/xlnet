@@ -1,0 +1,1 @@
+{"answer": "D", "question": "How many feelings did Love ask for help but failed?", "id": "middle139.txt"}

@@ -1,0 +1,1 @@
+{"answer": "B", "question": "Bernard Jackson was found guilty and sentenced 5 years' prison because   _   .", "id": "high15767.txt"}

@@ -1,0 +1,1 @@
+{"answer": "B", "question": "The sentence \"TV also helps to open our minds\" means:  _", "id": "middle2340.txt"}

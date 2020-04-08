@@ -1,0 +1,1 @@
+{"answer": "C", "question": "A child who has been informed of being \"uncool\" may   _  .", "id": "high1558.txt"}

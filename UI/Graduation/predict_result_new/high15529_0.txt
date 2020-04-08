@@ -1,0 +1,1 @@
+{"answer": "C", "question": "What gave Rosemary the idea that she had hurt Gordon's feelings deeply?", "id": "high15529.txt"}

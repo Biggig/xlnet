@@ -1,0 +1,1 @@
+{"answer": "B", "question": "If you buy the four books on April 30, 2014, you will have to pay   _   for them.", "id": "high9264.txt"}

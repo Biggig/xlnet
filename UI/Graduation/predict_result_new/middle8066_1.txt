@@ -1,0 +1,1 @@
+{"answer": "D", "question": "Paper-boys and Papergirls deliver newspapers    _", "id": "middle8066.txt"}

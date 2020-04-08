@@ -1,0 +1,1 @@
+{"answer": "A", "question": "What is the author's purpose of giving Neil Schellnegger and Danny Hatcher as examples?", "id": "high3312.txt"}

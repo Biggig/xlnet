@@ -1,0 +1,1 @@
+{"answer": "A", "question": "\"Don't lose heart, and you are sure to win the match.\" Here \"Don't lose heart\" means\"  _  \".", "id": "middle3056.txt"}

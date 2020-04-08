@@ -1,0 +1,1 @@
+{"answer": "D", "question": "In the course of his four voyages, Columbus succeeded in   _  .", "id": "high21358.txt"}

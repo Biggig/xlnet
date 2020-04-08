@@ -1,0 +1,1 @@
+{"answer": "A", "question": "When Mr. Stedman said, \"...I was happy to let go. \", he meant he was happy to   _  .", "id": "high20171.txt"}

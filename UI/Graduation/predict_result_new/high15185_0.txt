@@ -1,0 +1,1 @@
+{"answer": "C", "question": "The main reasons for Coteborg University's popularity according to the passage is   _   .", "id": "high15185.txt"}

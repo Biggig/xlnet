@@ -1,0 +1,1 @@
+{"answer": "A", "question": "Odyssey of the Mind competitions aim to   _  .", "id": "high22922.txt"}

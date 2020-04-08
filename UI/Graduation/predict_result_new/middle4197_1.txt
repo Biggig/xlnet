@@ -1,0 +1,1 @@
+{"answer": "B", "question": "Mr.Yang controls his weight in   _   way(s).", "id": "middle4197.txt"}

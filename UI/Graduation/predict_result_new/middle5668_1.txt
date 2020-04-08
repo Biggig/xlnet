@@ -1,0 +1,1 @@
+{"answer": "D", "question": "The Prime Minister died because   _  .", "id": "middle5668.txt"}

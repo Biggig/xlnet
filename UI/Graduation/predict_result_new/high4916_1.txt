@@ -1,0 +1,1 @@
+{"answer": "B", "question": "Many people have to cancel their travel plan because they   _  .", "id": "high4916.txt"}

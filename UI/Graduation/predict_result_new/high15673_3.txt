@@ -1,0 +1,1 @@
+{"answer": "A", "question": "The judge's remark implied that York would be more severely punished if he    _   .", "id": "high15673.txt"}

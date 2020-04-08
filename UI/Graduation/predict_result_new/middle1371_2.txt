@@ -1,0 +1,1 @@
+{"answer": "D", "question": "If young people depend on their own efforts,   _  .", "id": "middle1371.txt"}

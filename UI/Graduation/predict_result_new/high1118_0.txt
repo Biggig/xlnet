@@ -1,0 +1,1 @@
+{"answer": "D", "question": "According to the text, Americans like to visit the following places except  _  .", "id": "high1118.txt"}

@@ -1,0 +1,1 @@
+{"answer": "A", "question": "We know from the text that \"IPCC\"  _  .", "id": "high9639.txt"}

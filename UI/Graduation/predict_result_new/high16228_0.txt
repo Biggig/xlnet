@@ -1,0 +1,1 @@
+{"answer": "D", "question": "According to the passage, a proactive person's behavior can result from    _   .", "id": "high16228.txt"}

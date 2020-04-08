@@ -1,0 +1,1 @@
+{"answer": "B", "question": "Why did Nelson Mandela love boxing?", "id": "high5745.txt"}

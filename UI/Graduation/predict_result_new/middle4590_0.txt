@@ -1,0 +1,1 @@
+{"answer": "C", "question": "Why did the police ask Detective Wolf to go to the airport?", "id": "middle4590.txt"}

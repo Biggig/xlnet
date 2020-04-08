@@ -1,0 +1,1 @@
+{"answer": "C", "question": "The writer of the first kind of travel books gave his ideas after he   _  .", "id": "middle4942.txt"}

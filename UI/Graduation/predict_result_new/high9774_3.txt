@@ -1,0 +1,1 @@
+{"answer": "B", "question": "How many of the parties offer gifts or prizes?", "id": "high9774.txt"}

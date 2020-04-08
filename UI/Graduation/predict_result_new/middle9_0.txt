@@ -1,0 +1,1 @@
+{"answer": "D", "question": "How many kinds of animals are talked about in the passage?", "id": "middle9.txt"}

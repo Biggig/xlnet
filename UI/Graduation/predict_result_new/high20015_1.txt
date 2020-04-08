@@ -1,0 +1,1 @@
+{"answer": "D", "question": "According to the passage, what is one disadvantage of skyscrapers that have mirrored walls?", "id": "high20015.txt"}

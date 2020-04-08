@@ -1,0 +1,1 @@
+{"answer": "D", "question": "When a lady says, \"I am sorry I am not dancing this dance.\", she actually means  _  .", "id": "high8032.txt"}

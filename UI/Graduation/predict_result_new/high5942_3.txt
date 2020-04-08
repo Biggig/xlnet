@@ -1,0 +1,1 @@
+{"answer": "B", "question": "\"Insomniacs\" are persons who  _  .", "id": "high5942.txt"}

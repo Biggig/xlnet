@@ -1,0 +1,1 @@
+{"answer": "C", "question": "The artist in this story was   _  .", "id": "middle183.txt"}

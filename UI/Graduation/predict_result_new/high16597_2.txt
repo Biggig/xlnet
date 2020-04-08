@@ -1,0 +1,1 @@
+{"answer": "C", "question": "Which of the following is NOT a speculation about Bryant's motive to change his number?", "id": "high16597.txt"}

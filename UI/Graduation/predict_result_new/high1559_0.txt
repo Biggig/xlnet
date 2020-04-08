@@ -1,0 +1,1 @@
+{"answer": "C", "question": "Why is a microblog different from a traditional blog?", "id": "high1559.txt"}

@@ -1,0 +1,1 @@
+{"answer": "B", "question": "New technologies could travel along the Silk Road because people  _  .", "id": "high7350.txt"}

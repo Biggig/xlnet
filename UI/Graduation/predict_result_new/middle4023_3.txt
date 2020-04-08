@@ -1,0 +1,1 @@
+{"answer": "C", "question": "What influences do robots have on us?", "id": "middle4023.txt"}

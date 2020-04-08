@@ -1,0 +1,1 @@
+{"answer": "D", "question": "According to the author, what is the role of science fiction in society?", "id": "high7578.txt"}

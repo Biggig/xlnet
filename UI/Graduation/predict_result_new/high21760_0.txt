@@ -1,0 +1,1 @@
+{"answer": "B", "question": "When will the cruise to Emerald Bay end?", "id": "high21760.txt"}

@@ -1,0 +1,1 @@
+{"answer": "B", "question": "What can you see when you drop a rock into the water?", "id": "middle1737.txt"}

@@ -1,0 +1,1 @@
+{"answer": "A", "question": "If swimming makes you nervous, what should you do according to the writer?", "id": "high18436.txt"}

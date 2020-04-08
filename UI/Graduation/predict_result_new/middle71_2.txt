@@ -1,0 +1,1 @@
+{"answer": "D", "question": "The sentence \"I ran for everybody \"means   _", "id": "middle71.txt"}

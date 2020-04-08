@@ -1,0 +1,1 @@
+{"answer": "A", "question": "Prime Minister David Cameron feels a little bit comfortable for   _   .", "id": "high17894.txt"}

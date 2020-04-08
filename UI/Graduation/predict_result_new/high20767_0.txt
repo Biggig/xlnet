@@ -1,0 +1,1 @@
+{"answer": "C", "question": "The passage may be selected from   _  .", "id": "high20767.txt"}

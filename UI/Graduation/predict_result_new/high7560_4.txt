@@ -1,0 +1,1 @@
+{"answer": "D", "question": "Choose the sentence which best gives the main idea of the passage.", "id": "high7560.txt"}

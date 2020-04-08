@@ -1,0 +1,1 @@
+{"answer": "B", "question": "The writer thinks that setting weight loss as a goal is a mistake because   _   .", "id": "high6805.txt"}

@@ -1,0 +1,1 @@
+{"answer": "B", "question": "Albert Einstein warned Roosevelt of   _  .", "id": "high9107.txt"}

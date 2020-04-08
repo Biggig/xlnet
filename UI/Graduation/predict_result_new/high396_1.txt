@@ -1,0 +1,1 @@
+{"answer": "D", "question": "According to the inventors, shrilk has great potential partly because  _  .", "id": "high396.txt"}

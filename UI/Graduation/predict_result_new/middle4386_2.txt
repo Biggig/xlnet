@@ -1,0 +1,1 @@
+{"answer": "D", "question": "---Where's Megan's father?  ---He is   _  .", "id": "middle4386.txt"}

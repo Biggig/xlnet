@@ -1,0 +1,1 @@
+{"answer": "B", "question": "Why do stores usually display fruits and vegetables in the first section?", "id": "high10264.txt"}

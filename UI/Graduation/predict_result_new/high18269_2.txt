@@ -1,0 +1,1 @@
+{"answer": "C", "question": "Why did Yola give the author food?", "id": "high18269.txt"}

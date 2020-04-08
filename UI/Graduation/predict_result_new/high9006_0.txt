@@ -1,0 +1,1 @@
+{"answer": "B", "question": "Thomas Brodie-Sangster reached maturity early probably because of   _  .", "id": "high9006.txt"}

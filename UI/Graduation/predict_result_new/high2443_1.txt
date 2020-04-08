@@ -1,0 +1,1 @@
+{"answer": "C", "question": "The most important reason why Zoe went to visit Kathy's farm is that  _  .", "id": "high2443.txt"}

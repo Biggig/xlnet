@@ -1,0 +1,1 @@
+{"answer": "C", "question": "How does the author feel about the roles the CPC has played in China?", "id": "high2044.txt"}

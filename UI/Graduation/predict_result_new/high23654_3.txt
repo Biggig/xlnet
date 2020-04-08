@@ -1,0 +1,1 @@
+{"answer": "D", "question": "In the passage we can learn all of the following EXCEPT that   _  .", "id": "high23654.txt"}

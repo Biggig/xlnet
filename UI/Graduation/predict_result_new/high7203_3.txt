@@ -1,0 +1,1 @@
+{"answer": "A", "question": "In which country do people care about where to put their hands at the dinner table?", "id": "high7203.txt"}

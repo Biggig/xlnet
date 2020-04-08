@@ -1,0 +1,1 @@
+{"answer": "D", "question": "In the last sentence, \"with flying colors\" means   _   .", "id": "high15711.txt"}

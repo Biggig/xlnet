@@ -1,0 +1,1 @@
+{"answer": "B", "question": "What will the consumers do with the worrying US economy?", "id": "high18328.txt"}

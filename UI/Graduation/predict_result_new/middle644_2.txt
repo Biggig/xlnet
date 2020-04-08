@@ -1,0 +1,1 @@
+{"answer": "D", "question": "What did the teacher do before he said, \"Who still wants it?\"", "id": "middle644.txt"}

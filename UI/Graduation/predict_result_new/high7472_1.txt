@@ -1,0 +1,1 @@
+{"answer": "C", "question": "The reason why a worker cannot have freedom in doing the job in his own way is that   _  .", "id": "high7472.txt"}

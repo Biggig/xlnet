@@ -1,0 +1,1 @@
+{"answer": "A", "question": "It can be inferred that David Tool and Radtke   _  .", "id": "high14035.txt"}

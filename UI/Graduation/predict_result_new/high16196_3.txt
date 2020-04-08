@@ -1,0 +1,1 @@
+{"answer": "B", "question": "How many examples did the writer give to show fires can destroy the whole city ?", "id": "high16196.txt"}

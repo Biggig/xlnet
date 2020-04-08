@@ -1,0 +1,1 @@
+{"answer": "C", "question": "When he saw his friend rush to the hospital, the author could not decide whether to follow mainly because he thought    _   .", "id": "high15438.txt"}

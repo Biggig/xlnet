@@ -1,0 +1,1 @@
+{"answer": "C", "question": "Many people in China don't realize they are eating too much salt because   _  .", "id": "high4761.txt"}

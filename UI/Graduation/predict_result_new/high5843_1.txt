@@ -1,0 +1,1 @@
+{"answer": "B", "question": "According to the author, what is a sign of a man's maturity?", "id": "high5843.txt"}

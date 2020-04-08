@@ -1,0 +1,1 @@
+{"answer": "A", "question": "If the British just want to end a talk politely, they may say,\"  _  \"", "id": "middle1193.txt"}

@@ -1,0 +1,1 @@
+{"answer": "C", "question": "How many countries and organizations are attending the Shanghai World Expo?", "id": "middle7896.txt"}

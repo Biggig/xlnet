@@ -1,0 +1,1 @@
+{"answer": "D", "question": "In the Pet Hotel,pets can  _  .", "id": "middle7549.txt"}

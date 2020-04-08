@@ -1,0 +1,1 @@
+{"answer": "A", "question": "56. If you come to England, bring both a raincoat and an umbrella because   _           .", "id": "high16066.txt"}

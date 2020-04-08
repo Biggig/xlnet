@@ -1,0 +1,1 @@
+{"answer": "D", "question": "With the gold-touch skill, Midas can turn everything into gold except   _  .", "id": "middle4393.txt"}

@@ -1,0 +1,1 @@
+{"answer": "B", "question": "To make the bugs excrete crude oil, Greg Pal has to  _", "id": "high23185.txt"}

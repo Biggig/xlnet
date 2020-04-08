@@ -1,0 +1,1 @@
+{"answer": "B", "question": "The writer of this passage is a(an)_.", "id": "high15407.txt"}

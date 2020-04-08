@@ -1,0 +1,1 @@
+{"answer": "C", "question": "Which of the following is NOT related to the basic requirements for a teaching position?", "id": "high20562.txt"}

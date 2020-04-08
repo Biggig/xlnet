@@ -1,0 +1,1 @@
+{"answer": "D", "question": "Which of the following is NOT the day for people to celebrate Buy Nothing Day?", "id": "high2137.txt"}

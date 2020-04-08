@@ -1,0 +1,1 @@
+{"answer": "B", "question": "Banks prefer to give a loan to those who   _  .", "id": "high14204.txt"}

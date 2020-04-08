@@ -1,0 +1,1 @@
+{"answer": "D", "question": "Facing Holocaust deniers again, Groning felt   _            .", "id": "high19399.txt"}

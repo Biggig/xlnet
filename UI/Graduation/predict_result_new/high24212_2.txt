@@ -1,0 +1,1 @@
+{"answer": "B", "question": "When Blustering turned red and refused to be searched, all people thought   _  .", "id": "high24212.txt"}

@@ -1,0 +1,1 @@
+{"answer": "C", "question": "During the first period of demographic history, societies were often in danger of extinction because  _  .", "id": "high10733.txt"}

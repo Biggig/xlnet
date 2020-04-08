@@ -1,0 +1,1 @@
+{"answer": "A", "question": "Microblogging can protect the following privacy EXCEPT  _  .", "id": "high1559.txt"}

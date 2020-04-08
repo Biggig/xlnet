@@ -1,0 +1,1 @@
+{"answer": "D", "question": "According to the passage, only kids in Africa know how to   _  .", "id": "middle3878.txt"}

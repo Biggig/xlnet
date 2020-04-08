@@ -1,0 +1,1 @@
+{"answer": "C", "question": "Men do not enjoy shopping in the store, because.", "id": "middle1726.txt"}

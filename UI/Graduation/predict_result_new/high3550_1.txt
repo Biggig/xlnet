@@ -1,0 +1,1 @@
+{"answer": "A", "question": "Which of the following behavior is probably NOT encouraged by the author?", "id": "high3550.txt"}

@@ -1,0 +1,1 @@
+{"answer": "A", "question": "In Poland,it is   _   for the hostess to remove the cover of the bunch of flowers somebody has presented to her.", "id": "middle3046.txt"}

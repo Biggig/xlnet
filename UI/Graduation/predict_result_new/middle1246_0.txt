@@ -1,0 +1,1 @@
+{"answer": "C", "question": "Which of the following situations is most dangerous according to the passage?", "id": "middle1246.txt"}
